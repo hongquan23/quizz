@@ -1,0 +1,928 @@
+{
+  "documentId": "chapter_03",
+  "documentTitle": "Chương 3 - Phân tích và thiết kế công việc",
+  "sourceFile": "Chương 3 - Phân tích và thiết kế công việc.pdf",
+  "totalSlides": 48,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Theo ILO (2005), \"Nhiệm vụ\" (Task) được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm về công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tập hợp các nhiệm vụ có mối liên hệ về thời gian, trật tự, kết quả hoặc mục tiêu"
+        },
+        {
+          "id": "B",
+          "text": "Hoạt động lao động cụ thể được con người thực hiện trong một khoảng thời gian nhất định"
+        },
+        {
+          "id": "C",
+          "text": "Nhiệm vụ và trách nhiệm được thực hiện bởi một cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm các vị trí công việc có trách nhiệm và nhiệm vụ chính giống nhau"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 5 (ILO, 2005): Nhiệm vụ là hoạt động lao động cụ thể thực hiện trong một khoảng thời gian nhất định; Trách nhiệm là tập hợp các nhiệm vụ có liên hệ; Vị trí công việc là nhiệm vụ và trách nhiệm của một cá nhân. \"Nhóm các vị trí…\" là khái niệm Công việc (slide 6).",
+      "sourceSlides": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "\"Họ công việc\" (Job Family) là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm về công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhóm các vị trí công việc có trách nhiệm và nhiệm vụ chính giống nhau"
+        },
+        {
+          "id": "B",
+          "text": "Cấp bậc hoặc chuyên môn của một công việc trong tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm các công việc có yêu cầu kiến thức, kỹ năng giống nhau ở nhiều tổ chức và nhiều lĩnh vực kinh tế"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm các công việc tương tự nhau ở các khía cạnh như mục đích, hành vi và đặc tính của người thực hiện"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 6: Họ công việc là nhóm các công việc (job) tương tự nhau về mục đích, hành vi và đặc tính người thực hiện (ví dụ họ công việc Nhân sự gồm Tuyển dụng, Đào tạo…). Các phương án khác lần lượt là Công việc, Chức danh công việc và Nghề nghiệp.",
+      "sourceSlides": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Khái niệm nào được định nghĩa là \"nhóm các công việc có các nhiệm vụ và yêu cầu về kiến thức, kỹ năng tương đối giống nhau ở nhiều tổ chức và nhiều lĩnh vực kinh tế\"?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm về công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nghề nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Chức danh công việc"
+        },
+        {
+          "id": "C",
+          "text": "Họ công việc"
+        },
+        {
+          "id": "D",
+          "text": "Vị trí công việc"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 7 (HRCI, 2005): Nghề nghiệp là nhóm các công việc có nhiệm vụ và yêu cầu kiến thức, kỹ năng tương đối giống nhau ở nhiều tổ chức, nhiều lĩnh vực (ví dụ: Nhân sự, Marketing, Luật sư, Kế toán).",
+      "sourceSlides": [
+        7
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Khi thiết kế công việc, cần xác định ba yếu tố quan trọng nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Thiết kế và thiết kế lại công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức lương; chế độ phúc lợi; cơ hội thăng tiến của vị trí"
+        },
+        {
+          "id": "B",
+          "text": "Số lượng nhân viên; ngân sách tuyển dụng; thời gian tuyển dụng"
+        },
+        {
+          "id": "C",
+          "text": "Kiến thức; kỹ năng; kinh nghiệm cần có của người thực hiện"
+        },
+        {
+          "id": "D",
+          "text": "Nội dung công việc; trách nhiệm với tổ chức; điều kiện lao động"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 9 (Lê Trọng Hùng và cộng sự, 2025): thiết kế công việc cần xác định nội dung công việc (nhiệm vụ, trách nhiệm), trách nhiệm đối với tổ chức (tuân thủ nội quy, bảo mật thông tin…) và điều kiện lao động (công cụ, môi trường làm việc…).",
+      "sourceSlides": [
+        9
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Mô hình đặc tính công việc gồm 5 khía cạnh (đa dạng kỹ năng, tính định danh, tầm ảnh hưởng, tính tự chủ, phản hồi) là của tác giả nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hackman và Oldham"
+        },
+        {
+          "id": "B",
+          "text": "Mathis và Jackson"
+        },
+        {
+          "id": "C",
+          "text": "Gary Dessler"
+        },
+        {
+          "id": "D",
+          "text": "Ivancevich và Konopaske"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 17: \"Mô hình đặc tính công việc (của Hackman and Oldham)\" gồm Skill variety, Task identity, Task significance, Autonomy và Feedback.",
+      "sourceSlides": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Phương pháp thiết kế công việc nào được mô tả là \"chuyển nhân viên từ công việc này sang công việc khác mà bản chất công việc vẫn không thay đổi\"?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mở rộng công việc"
+        },
+        {
+          "id": "B",
+          "text": "Luân chuyển công việc"
+        },
+        {
+          "id": "C",
+          "text": "Làm giàu công việc"
+        },
+        {
+          "id": "D",
+          "text": "Chuyên môn hóa công việc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 13: Luân chuyển công việc là chuyển nhân viên từ công việc này sang công việc khác mà bản chất công việc không đổi. Chuyên môn hóa là chia nhỏ công việc (slide 12), mở rộng là thêm nhiệm vụ cùng mức độ (slide 14), làm giàu là thêm nhiệm vụ và quyền hạn (slide 15).",
+      "sourceSlides": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Theo Gary Dessler (2018), bước đầu tiên của quy trình phân tích công việc là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thu thập thông tin cơ bản từ cơ sở dữ liệu sẵn có của tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Lựa chọn các vị trí đại diện"
+        },
+        {
+          "id": "C",
+          "text": "Xác định mục đích sử dụng thông tin phân tích công việc"
+        },
+        {
+          "id": "D",
+          "text": "Xây dựng bản mô tả công việc và tiêu chuẩn công việc"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 23: quy trình 6 bước – (1) Xác định mục đích sử dụng thông tin; (2) Thu thập thông tin cơ bản sẵn có; (3) Lựa chọn vị trí đại diện; (4) Thu thập thông tin PTCV; (5) Kiểm tra, xác minh; (6) Xây dựng bản mô tả và tiêu chuẩn công việc.",
+      "sourceSlides": [
+        23
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Theo Gary Dessler (2020), \"bản mô tả công việc\" là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Danh sách nhiệm vụ, trách nhiệm, quan hệ báo cáo, điều kiện làm việc và trách nhiệm giám sát của một vị trí"
+        },
+        {
+          "id": "B",
+          "text": "Các yêu cầu về kiến thức, kỹ năng, kinh nghiệm và phẩm chất mà cá nhân cần có để đảm nhận một vị trí"
+        },
+        {
+          "id": "C",
+          "text": "Thông tin về các tiêu chuẩn và chỉ số dùng để đo lường hiệu quả công việc của một vị trí công việc"
+        },
+        {
+          "id": "D",
+          "text": "Sơ đồ thể hiện cơ cấu tổ chức, các phòng ban và quan hệ báo cáo giữa các phòng ban trong doanh nghiệp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 33 định nghĩa bản mô tả công việc. Phương án \"yêu cầu về kiến thức, kỹ năng…\" là tiêu chuẩn công việc (slide 40); \"tiêu chuẩn và chỉ số đo lường hiệu quả\" là tiêu chuẩn thực hiện công việc (slide 37).",
+      "sourceSlides": [
+        33,
+        37,
+        40
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Theo Mathis và Jackson (2010), khi viết bản mô tả công việc nên xác định khoảng bao nhiêu trách nhiệm công việc?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Từ 2 đến 3 trách nhiệm"
+        },
+        {
+          "id": "B",
+          "text": "Từ 10 đến 12 trách nhiệm"
+        },
+        {
+          "id": "C",
+          "text": "Từ 15 đến 20 trách nhiệm"
+        },
+        {
+          "id": "D",
+          "text": "Từ 6 đến 8 trách nhiệm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 34: lưu ý khi viết bản mô tả công việc – xác định từ 6–8 trách nhiệm công việc, câu mô tả bắt đầu bằng động từ, sắp xếp theo mức độ quan trọng…",
+      "sourceSlides": [
+        34
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Trường hợp nào sau đây KHÔNG nằm trong danh sách các trường hợp cần thực hiện phân tích công việc được nêu trong bài giảng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và ý nghĩa phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khi tổ chức, doanh nghiệp mới được thành lập"
+        },
+        {
+          "id": "B",
+          "text": "Khi nhân viên vừa hoàn thành kỳ đánh giá hằng năm"
+        },
+        {
+          "id": "C",
+          "text": "Khi trong tổ chức xuất hiện công việc mới"
+        },
+        {
+          "id": "D",
+          "text": "Khi áp dụng công nghệ mới, phương pháp mới"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 21 liệt kê 5 trường hợp: doanh nghiệp mới thành lập; xuất hiện công việc mới; thay đổi nội dung công việc; áp dụng công nghệ, phương pháp mới; cần rà soát chu kỳ hoạt động. Kỳ đánh giá hằng năm không nằm trong danh sách.",
+      "sourceSlides": [
+        21
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Điểm khác biệt cốt lõi giữa \"mở rộng công việc\" và \"làm giàu công việc\" là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mở rộng giao thêm quyền hạn, trách nhiệm; làm giàu chỉ thêm nhiệm vụ cùng độ khó"
+        },
+        {
+          "id": "B",
+          "text": "Mở rộng thêm nhiệm vụ cùng độ khó; làm giàu thêm cả nhiệm vụ lẫn quyền hạn, trách nhiệm"
+        },
+        {
+          "id": "C",
+          "text": "Mở rộng là chuyển NLĐ sang công việc khác; làm giàu là chia nhỏ công việc hiện tại"
+        },
+        {
+          "id": "D",
+          "text": "Mở rộng áp dụng cho nhà quản lý; làm giàu chỉ áp dụng cho công nhân sản xuất trực tiếp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 14: mở rộng công việc là thêm các nhiệm vụ cùng mức độ hay độ khó. Slide 15: làm giàu công việc là thêm nhiệm vụ và quyền hạn, người lao động có quyền tự quyết nhiều hơn và chịu trách nhiệm cao hơn.",
+      "sourceSlides": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Vì sao chuyên môn hóa công việc có thể làm giảm khả năng thích ứng của người lao động?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì công việc bị chia nhỏ, lặp lại một thao tác nên NLĐ ít có cơ hội làm việc khác"
+        },
+        {
+          "id": "B",
+          "text": "Vì NLĐ phải đảm nhận quá nhiều nhiệm vụ khác nhau trong cùng một thời điểm"
+        },
+        {
+          "id": "C",
+          "text": "Vì phương pháp này làm tăng chi phí đào tạo và gây gián đoạn công việc thường xuyên"
+        },
+        {
+          "id": "D",
+          "text": "Vì NLĐ được giao thêm quyền hạn và trách nhiệm vượt quá năng lực hiện có của họ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 12: chuyên môn hóa chia nhỏ công việc thành nhiệm vụ đơn giản; ưu điểm là tiết kiệm thời gian, chi phí đào tạo, cải thiện kỹ năng; nhược điểm là dễ gây nhàm chán, tính cơ động và khả năng thích ứng thấp. Tăng chi phí đào tạo, gián đoạn là nhược điểm của luân chuyển (slide 13).",
+      "sourceSlides": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Trong mô hình đặc tính công việc, \"tính tự chủ\" (Autonomy) phản ánh điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức độ được tự do, độc lập và tự quyết trong lập kế hoạch, xác định quy trình làm việc"
+        },
+        {
+          "id": "B",
+          "text": "Mức độ công việc cho phép người làm sử dụng nhiều kỹ năng và tài năng khác nhau"
+        },
+        {
+          "id": "C",
+          "text": "Mức độ công việc có ảnh hưởng lớn tới cuộc sống hoặc công việc của những người khác"
+        },
+        {
+          "id": "D",
+          "text": "Mức độ việc thực hiện công việc cung cấp thông tin trực tiếp, rõ ràng về hiệu quả"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 17: Autonomy – tự do, độc lập, quyền tự quyết khi lập kế hoạch và xác định quy trình. Các phương án còn lại lần lượt là Đa dạng kỹ năng, Tầm ảnh hưởng và Phản hồi.",
+      "sourceSlides": [
+        17
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Vì sao bước \"Xác định mục đích sử dụng thông tin phân tích công việc\" có ý nghĩa quan trọng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì bước này quyết định trực tiếp mức lương của từng vị trí trong tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Vì bước này giúp loại bỏ ngay những vị trí công việc không còn cần thiết"
+        },
+        {
+          "id": "C",
+          "text": "Vì đây là bước duy nhất trong quy trình cần sự tham gia của người lao động"
+        },
+        {
+          "id": "D",
+          "text": "Vì mục đích sử dụng quyết định loại thông tin và phương pháp thu thập phù hợp"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 24: mục đích sử dụng ảnh hưởng tới loại thông tin và phương pháp thu thập – ví dụ PTCV phục vụ tuyển dụng thường dùng phỏng vấn, phục vụ đánh giá công việc thường dùng câu hỏi khảo sát vị trí.",
+      "sourceSlides": [
+        24
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Việc kiểm tra, xác minh tính chính xác của thông tin (bước 5) với nhân viên hoặc giám sát trực tiếp mang lại lợi ích gì ngoài việc đảm bảo độ chính xác?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giúp rút ngắn thời gian tuyển dụng cho các vị trí đang còn trống"
+        },
+        {
+          "id": "B",
+          "text": "Giúp làm căn cứ tăng lương ngay cho người lao động được phỏng vấn"
+        },
+        {
+          "id": "C",
+          "text": "Giúp có được sự đồng thuận của nhân viên và những người liên quan"
+        },
+        {
+          "id": "D",
+          "text": "Giúp bỏ qua bước xây dựng bản mô tả công việc ở giai đoạn sau"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 32: bước 5 kiểm tra độ chính xác của thông tin với nhân viên thực hiện công việc hoặc giám sát trực tiếp, đồng thời giúp có được sự đồng thuận của nhân viên và những người liên quan.",
+      "sourceSlides": [
+        32
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Phân biệt \"tiêu chuẩn thực hiện công việc\" và \"tiêu chuẩn công việc\" như thế nào cho đúng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiêu chuẩn thực hiện CV là yêu cầu bằng cấp, kinh nghiệm; tiêu chuẩn CV là chỉ tiêu doanh số cần đạt"
+        },
+        {
+          "id": "B",
+          "text": "Hai khái niệm đồng nghĩa, đều mô tả yêu cầu về kiến thức và kỹ năng đối với người thực hiện công việc"
+        },
+        {
+          "id": "C",
+          "text": "Tiêu chuẩn CV chỉ dùng cho trả lương, còn tiêu chuẩn thực hiện CV chỉ dùng cho tuyển dụng nhân sự"
+        },
+        {
+          "id": "D",
+          "text": "Tiêu chuẩn thực hiện CV là chỉ số đo hiệu quả; tiêu chuẩn CV là yêu cầu kiến thức, kỹ năng, phẩm chất"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 37: tiêu chuẩn thực hiện công việc là thông tin về tiêu chuẩn và chỉ số đo lường hiệu quả công việc (ví dụ tỉ lệ gọi nhỡ <5%). Slide 40: tiêu chuẩn công việc (yêu cầu công việc/tuyển dụng) là yêu cầu về kiến thức, kỹ năng, kinh nghiệm và phẩm chất.",
+      "sourceSlides": [
+        37,
+        40
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Nhược điểm chính của phương pháp nhật ký công việc là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp thu thập thông tin",
+      "options": [
+        {
+          "id": "A",
+          "text": "NLĐ thay đổi hành vi khi biết mình đang bị quan sát"
+        },
+        {
+          "id": "B",
+          "text": "Tốn thời gian, chi phí vì phải gặp trực tiếp từng người"
+        },
+        {
+          "id": "C",
+          "text": "NLĐ có thể liệt kê thiếu hoặc phóng đại thông tin"
+        },
+        {
+          "id": "D",
+          "text": "Không thu được thông tin từ thực tế công việc hằng ngày"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 43: nhật ký công việc cung cấp thông tin trực tiếp từ thực tế nhưng độ chính xác bị ảnh hưởng do NLĐ có thể liệt kê thiếu hoặc phóng đại. Thay đổi hành vi khi bị quan sát là nhược điểm của quan sát (slide 42); tốn thời gian, chi phí là nhược điểm của phỏng vấn (slide 45).",
+      "sourceSlides": [
+        42,
+        43,
+        45
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Đối với người lao động, phân tích công việc có ý nghĩa gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và ý nghĩa phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đưa ra các quyết định quản trị liên quan đến người lao động như tuyển dụng, đào tạo, đề bạt"
+        },
+        {
+          "id": "B",
+          "text": "Giảm thiểu rủi ro và chi phí cho tổ chức khi bố trí, sử dụng và quản lý người lao động"
+        },
+        {
+          "id": "C",
+          "text": "Xây dựng sơ đồ tổ chức, xác định số phòng ban và quan hệ báo cáo trong doanh nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Đánh giá sự phù hợp của công việc với bản thân, đề xuất mức lương, cải thiện cách làm việc"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 22: với NLĐ – đánh giá sự phù hợp của công việc, đề xuất mức lương, cải thiện quá trình thực hiện công việc. Với nhà quản trị – đưa ra quyết định quản trị liên quan NLĐ, giảm thiểu rủi ro và chi phí.",
+      "sourceSlides": [
+        22
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Để phân tích công việc đạt tiêu chí \"giảm rủi ro pháp lý\", tổ chức cần đảm bảo điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Đánh giá hiệu quả phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bảo đảm nhiệm vụ và yêu cầu công việc phù hợp với văn hóa tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Phản ánh đúng thực tế công việc và những thay đổi mới trong tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Liệt kê nhiệm vụ thiết yếu; yêu cầu công việc khách quan, công bằng"
+        },
+        {
+          "id": "D",
+          "text": "Bảo đảm thông tin dự đoán chính xác hiệu quả làm việc của ứng viên"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 46 (Noe et al., 2017; Dessler, 2020): tiêu chí giảm rủi ro pháp lý gồm liệt kê nhiệm vụ thiết yếu và yêu cầu công việc khách quan, công bằng. Các tiêu chí khác: giá trị dự đoán, rõ ràng cụ thể, toàn diện chính xác.",
+      "sourceSlides": [
+        46
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Sản phẩm (kết quả) của phân tích công việc là gì và được sử dụng cho những hoạt động nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hợp đồng lao động và nội quy lao động; dùng cho ký kết hợp đồng và xử lý kỷ luật lao động"
+        },
+        {
+          "id": "B",
+          "text": "Bản mô tả công việc và bản yêu cầu công việc; dùng cho tuyển dụng, đào tạo, đánh giá, trả lương"
+        },
+        {
+          "id": "C",
+          "text": "Bảng lương và bảng chấm công; dùng cho kế toán tiền lương và quyết toán thuế thu nhập cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Sơ đồ tổ chức và lưu đồ quy trình sản xuất; dùng cho quản lý sản xuất và kiểm soát chất lượng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 41: phân tích công việc tạo ra bản mô tả công việc (trách nhiệm, nhiệm vụ, điều kiện làm việc) và bản yêu cầu công việc (kiến thức, kỹ năng, kinh nghiệm), phục vụ tuyển dụng, đào tạo, đánh giá thực hiện công việc và trả lương.",
+      "sourceSlides": [
+        41
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Một nhà máy may chia quy trình làm áo thành các thao tác đơn giản: một người chỉ may cổ, một người chỉ may tay áo… để tăng tốc độ và tận dụng tối đa máy móc. Nhà máy đang áp dụng phương pháp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Luân chuyển công việc"
+        },
+        {
+          "id": "B",
+          "text": "Chuyên môn hóa công việc"
+        },
+        {
+          "id": "C",
+          "text": "Mở rộng công việc"
+        },
+        {
+          "id": "D",
+          "text": "Làm giàu công việc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 12: chuyên môn hóa là chia nhỏ công việc thành các nhiệm vụ đơn giản, dễ thực hiện; ưu điểm gồm tiết kiệm chi phí đào tạo, cải thiện kỹ năng, phát huy tối đa hiệu quả máy móc, thiết bị.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Nhân viên lễ tân khách sạn ngoài việc check-in còn được giao thêm nhập dữ liệu đặt phòng và trả lời email khách hàng – các việc có độ khó tương đương, không kèm thêm quyền quyết định. Đây là phương pháp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Làm giàu công việc"
+        },
+        {
+          "id": "B",
+          "text": "Mở rộng công việc"
+        },
+        {
+          "id": "C",
+          "text": "Luân chuyển công việc"
+        },
+        {
+          "id": "D",
+          "text": "Chuyên môn hóa công việc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 14: mở rộng công việc là thêm các nhiệm vụ cùng mức độ hay độ khó vào công việc hiện tại. Vì không có thêm quyền hạn, tự quyết nên đây không phải làm giàu công việc (slide 15).",
+      "sourceSlides": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Công ty cho nhân viên chăm sóc khách hàng quyền tự quyết định hoàn tiền cho khách đến 2 triệu đồng mà không cần xin duyệt, đồng thời chịu trách nhiệm về kết quả xử lý. Công ty cần lường trước nhược điểm nào của phương pháp này?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng chi phí; nhân viên có thể lúng túng khi trách nhiệm gia tăng"
+        },
+        {
+          "id": "B",
+          "text": "Công việc trở nên nhàm chán, đơn điệu do lặp lại một thao tác"
+        },
+        {
+          "id": "C",
+          "text": "Gián đoạn công việc do nhân viên phải chuyển sang bộ phận khác"
+        },
+        {
+          "id": "D",
+          "text": "Tính cơ động và khả năng thích ứng của nhân viên trở nên thấp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tình huống là làm giàu công việc (thêm nhiệm vụ và quyền hạn – slide 15). Slide 18 nêu nhược điểm của làm giàu công việc: tăng chi phí; NLĐ có thể gặp khó khăn, lúng túng khi trách nhiệm gia tăng.",
+      "sourceSlides": [
+        15,
+        18
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Ngân hàng cho giao dịch viên lần lượt làm ở quầy tiền gửi, quầy chuyển tiền và quầy đổi ngoại tệ (bản chất công việc giao dịch không đổi) để giảm đơn điệu. Ngân hàng cần chuẩn bị cho rủi ro nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thiết kế công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng chi phí đào tạo, gián đoạn công việc, giảm năng suất"
+        },
+        {
+          "id": "B",
+          "text": "Nhân viên lúng túng vì quyền hạn và trách nhiệm tăng lên"
+        },
+        {
+          "id": "C",
+          "text": "Nảy sinh xung đột do khối lượng nhiệm vụ cùng mức độ tăng"
+        },
+        {
+          "id": "D",
+          "text": "Công việc nhàm chán, tính cơ động và khả năng thích ứng thấp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tình huống là luân chuyển công việc (slide 13). Nhược điểm của luân chuyển: tăng chi phí đào tạo và phát triển, làm gián đoạn công việc, giảm năng suất lao động.",
+      "sourceSlides": [
+        13
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Bộ phận nhân sự cần phân tích công việc của các luật sư trong công ty. Phương pháp thu thập thông tin nào KÉM phù hợp nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thu thập thông tin",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phỏng vấn"
+        },
+        {
+          "id": "B",
+          "text": "Phiếu điều tra"
+        },
+        {
+          "id": "C",
+          "text": "Quan sát trực tiếp"
+        },
+        {
+          "id": "D",
+          "text": "Nhật ký công việc"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 42: quan sát trực tiếp phù hợp với công việc nhiều hoạt động thể chất, lặp lại và không phù hợp với công việc nhiều hoạt động trí óc như nhà nghiên cứu khoa học, nhà toán học hoặc luật sư.",
+      "sourceSlides": [
+        42
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Một nhà máy cần thu thập thông tin về công việc của 500 công nhân và quản lý trong thời gian ngắn với chi phí thấp. Phương pháp nào phù hợp nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thu thập thông tin",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phỏng vấn"
+        },
+        {
+          "id": "B",
+          "text": "Quan sát trực tiếp"
+        },
+        {
+          "id": "C",
+          "text": "Phiếu điều tra"
+        },
+        {
+          "id": "D",
+          "text": "Nhật ký công việc"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 44: phiếu điều tra thu thập được nhiều thông tin trong thời gian ngắn và dễ thực hiện; phỏng vấn tốn thời gian, chi phí cao (slide 45).",
+      "sourceSlides": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Nhà phân tích muốn phát hiện những hoạt động quan trọng nhưng ít khi xảy ra và các mối liên hệ công việc không chính thức của vị trí trưởng nhóm kỹ thuật. Nên ưu tiên phương pháp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp thu thập thông tin",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quan sát trực tiếp người trưởng nhóm trong một ca làm việc"
+        },
+        {
+          "id": "B",
+          "text": "Phát phiếu điều tra trắc nghiệm cho toàn bộ phòng kỹ thuật"
+        },
+        {
+          "id": "C",
+          "text": "Tổng hợp bản mô tả công việc cũ và sơ đồ tổ chức hiện có"
+        },
+        {
+          "id": "D",
+          "text": "Phỏng vấn người làm trực tiếp, người giám sát, chuyên gia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 45: phỏng vấn những người có kiến thức về công việc (người làm trực tiếp, giám sát, chuyên gia) giúp phát hiện những hoạt động quan trọng nhưng ít xảy ra hoặc các mối liên hệ công việc không chính thức.",
+      "sourceSlides": [
+        45
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Câu mô tả nhiệm vụ nào trong bản mô tả công việc được viết đúng theo các lưu ý của Mathis và Jackson?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thực hiện 15–20 cuộc gọi tư vấn mỗi ngày để đạt chỉ tiêu doanh số tháng"
+        },
+        {
+          "id": "B",
+          "text": "Phải biết sử dụng thành thạo Excel, phần mềm CRM và các công cụ văn phòng"
+        },
+        {
+          "id": "C",
+          "text": "Khách hàng sẽ được nhân viên chăm sóc chu đáo, tận tình trong mọi trường hợp"
+        },
+        {
+          "id": "D",
+          "text": "Chịu trách nhiệm về khách hàng và các công việc khác liên quan đến khách hàng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 34: câu mô tả nhiệm vụ cần bắt đầu bằng động từ, có thông tin về tần suất và kết quả kỳ vọng, dùng văn phong chủ động, không dùng từ chỉ định như \"Phải biết…\". Chỉ phương án đầu đáp ứng đủ (động từ + tần suất + kết quả).",
+      "sourceSlides": [
+        34,
+        36
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Trong bản mô tả công việc của nhân viên chăm sóc khách hàng qua điện thoại, nội dung nào thuộc \"tiêu chuẩn thực hiện công việc\"?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tốt nghiệp cao đẳng trở lên"
+        },
+        {
+          "id": "B",
+          "text": "Thời gian chờ trung bình của khách hàng dưới 30 giây"
+        },
+        {
+          "id": "C",
+          "text": "Có ít nhất 1 năm kinh nghiệm chăm sóc khách hàng"
+        },
+        {
+          "id": "D",
+          "text": "Kỹ năng giao tiếp và thuyết phục tốt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 37: tiêu chuẩn thực hiện công việc là các chỉ số đo lường hiệu quả, ví dụ tỉ lệ gọi nhỡ <5%, thời gian chờ trung bình <30 giây, độ hài lòng 4/5. Bằng cấp, kinh nghiệm, kỹ năng thuộc tiêu chuẩn công việc (slide 40).",
+      "sourceSlides": [
+        37,
+        40
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Bộ phận nhân sự vừa thu thập xong thông tin về công việc kế toán kho và chuẩn bị viết bản mô tả công việc. Theo quy trình của Dessler, việc cần làm ngay trước đó là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Quy trình phân tích công việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lựa chọn các vị trí đại diện cho công việc kế toán kho cần phân tích"
+        },
+        {
+          "id": "B",
+          "text": "Xác định mục đích sử dụng thông tin phân tích công việc kế toán kho"
+        },
+        {
+          "id": "C",
+          "text": "Kiểm tra, xác minh thông tin với nhân viên hoặc giám sát trực tiếp"
+        },
+        {
+          "id": "D",
+          "text": "Thu thập sơ đồ tổ chức, lưu đồ quy trình và bản mô tả công việc cũ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 23: sau bước 4 (thu thập thông tin PTCV) là bước 5 – kiểm tra, xác minh tính chính xác của thông tin (slide 32), rồi mới đến bước 6 – xây dựng bản mô tả và tiêu chuẩn công việc.",
+      "sourceSlides": [
+        23,
+        32
+      ]
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "documentId": "chapter_06",
+  "documentTitle": "Chương 6 - Đánh giá thực hiện công việc",
+  "sourceFile": "Chương 6 - Đánh giá thực hiện công việc.pdf",
+  "totalSlides": 57,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Theo Lê Trọng Hùng và cộng sự (2025), đánh giá thực hiện công việc là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và mục tiêu đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình đánh giá chính thức, có hệ thống kết quả thực hiện công việc của NLĐ so với tiêu chuẩn đã xây dựng"
+        },
+        {
+          "id": "B",
+          "text": "Việc quản lý trực tiếp nhận xét về thái độ và tác phong của nhân viên vào cuối mỗi năm dựa trên ấn tượng"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình tìm hiểu, đánh giá các nhiệm vụ, trách nhiệm và điều kiện cần thiết để thực hiện một công việc"
+        },
+        {
+          "id": "D",
+          "text": "Việc so sánh mức lương nhân viên đang nhận với mức lương trên thị trường của vị trí tương đương"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 5: đánh giá thực hiện công việc là quá trình đánh giá chính thức, có hệ thống kết quả thực hiện công việc của NLĐ so với các tiêu chuẩn đã xây dựng. Phương án thứ ba là khái niệm phân tích công việc.",
+      "sourceSlides": [
+        5
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Phương pháp đánh giá nào được bài giảng nêu là phổ biến nhất?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thang đánh giá đồ họa"
+        },
+        {
+          "id": "B",
+          "text": "Ghi chép sự kiện điển hình"
+        },
+        {
+          "id": "C",
+          "text": "Thang đánh giá gắn với hành vi (BARS)"
+        },
+        {
+          "id": "D",
+          "text": "Đánh giá 360 độ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 15: phương pháp thang đánh giá đồ họa – cho điểm NLĐ dựa trên danh sách tiêu chí – là phương pháp đánh giá phổ biến nhất.",
+      "sourceSlides": [
+        15
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Với phương pháp danh mục kiểm tra (Checklist), người đánh giá đưa ra kết quả bằng cách nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cho điểm từ 1 đến 5 cho từng tiêu chí"
+        },
+        {
+          "id": "B",
+          "text": "Ghi chép các hành vi tích cực và tiêu cực nổi bật theo ngày"
+        },
+        {
+          "id": "C",
+          "text": "Thu thập phản hồi từ cấp trên, đồng nghiệp, cấp dưới và khách hàng"
+        },
+        {
+          "id": "D",
+          "text": "Lựa chọn \"Có/Không\", \"Đúng/Sai\" hoặc tích chọn/để trống cho từng mô tả"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 25: danh mục kiểm tra là tập hợp mục tiêu hoặc mô tả hành vi; người đánh giá lựa chọn Có/Không, Đúng/Sai hoặc tích chọn/để trống.",
+      "sourceSlides": [
+        25
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Phương pháp BARS là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cùng cấp dưới thiết lập mục tiêu cụ thể rồi đánh giá dựa trên mục tiêu đó"
+        },
+        {
+          "id": "B",
+          "text": "Dùng thang đo gắn với mô tả cụ thể hành vi \"tốt\" hoặc \"không tốt\" của NLĐ"
+        },
+        {
+          "id": "C",
+          "text": "Phân loại hoạt động thành các quy trình dựa trên mục tiêu và đánh giá theo quy trình"
+        },
+        {
+          "id": "D",
+          "text": "Chọn Đúng/Sai hoặc Có/Không cho từng mô tả hành vi mà NLĐ cần có"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 28: BARS (Behaviorally Anchored Rating Scale) sử dụng thang đo gắn với mô tả cụ thể hành vi tốt hoặc không tốt. Các phương án khác là MBO, MBP và Checklist.",
+      "sourceSlides": [
+        28
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Phương pháp đánh giá 360 độ thu thập thông tin từ những nguồn nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quản lý trực tiếp và cấp trên của quản lý trực tiếp"
+        },
+        {
+          "id": "B",
+          "text": "Nhiều nguồn: cấp trên, đồng nghiệp, cấp dưới, khách hàng và cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Bản tự đánh giá của nhân viên và dữ liệu chấm công"
+        },
+        {
+          "id": "D",
+          "text": "Khách hàng thông qua các phiếu khảo sát mức độ hài lòng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 44: đánh giá 360 độ thu thập thông tin qua nhiều nguồn: cấp trên, quản lý trực tiếp, đồng nghiệp, cấp dưới, khách hàng và cá nhân.",
+      "sourceSlides": [
+        44
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Theo hướng dẫn OKR của Google được trích trong bài giảng, nên chọn bao nhiêu mục tiêu (Objectives)?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Từ 1 đến 2 mục tiêu"
+        },
+        {
+          "id": "B",
+          "text": "Từ 3 đến 5 mục tiêu"
+        },
+        {
+          "id": "C",
+          "text": "Từ 6 đến 8 mục tiêu"
+        },
+        {
+          "id": "D",
+          "text": "Từ 10 mục tiêu trở lên"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 39: chỉ nên chọn từ 3 đến 5 mục tiêu – chọn nhiều hơn có thể khiến đội ngũ quá tải và phân tán nguồn lực. Slide 40: khoảng 3 kết quả then chốt cho mỗi mục tiêu.",
+      "sourceSlides": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Theo Lussier và Hendon (2017), tiêu chuẩn đánh giá thực hiện công việc có thể dựa trên ba khía cạnh nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình và tiêu chí đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thâm niên, bằng cấp và độ tuổi"
+        },
+        {
+          "id": "B",
+          "text": "Mức lương, phụ cấp và phúc lợi"
+        },
+        {
+          "id": "C",
+          "text": "Đặc điểm cá nhân, hành vi và kết quả"
+        },
+        {
+          "id": "D",
+          "text": "Chính xác, tin cậy và cụ thể"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 11: ba khía cạnh tiêu chuẩn đánh giá gồm đặc điểm cá nhân, hành vi và kết quả. \"Chính xác, tin cậy, cụ thể\" là yêu cầu đối với tiêu chí đánh giá (slide 13).",
+      "sourceSlides": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Phương pháp quản trị theo quy trình (MBP) được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cùng cấp dưới thiết lập mục tiêu cụ thể, đo lường được và đánh giá dựa trên mục tiêu đó"
+        },
+        {
+          "id": "B",
+          "text": "Phân loại hoạt động thành các quy trình dựa trên mục tiêu, mô tả rõ đầu vào, đầu ra, các bước"
+        },
+        {
+          "id": "C",
+          "text": "Thu thập phản hồi từ cấp trên, đồng nghiệp, cấp dưới và khách hàng để đánh giá toàn diện"
+        },
+        {
+          "id": "D",
+          "text": "Ghi chép lại các hành vi tích cực và tiêu cực nổi bật của NLĐ trong quá trình làm việc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 43: MBP phân loại hoạt động của tổ chức thành các quy trình dựa trên mục tiêu; mỗi quy trình mô tả chi tiết đầu vào, đầu ra, các bước, điều kiện và tiêu chí đánh giá.",
+      "sourceSlides": [
+        43
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Theo số liệu được trích trong bài giảng, chỉ khoảng bao nhiêu phần trăm Giám đốc nhân sự (CHRO) tin rằng hệ thống đánh giá của họ hiệu quả?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Hoàn thiện và thực hiện đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "34%"
+        },
+        {
+          "id": "B",
+          "text": "72%"
+        },
+        {
+          "id": "C",
+          "text": "50%"
+        },
+        {
+          "id": "D",
+          "text": "2%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 50: chỉ 2% CHRO tin rằng hệ thống đánh giá của họ hiệu quả – minh họa cho những thách thức của hoạt động đánh giá thực hiện công việc.",
+      "sourceSlides": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Theo bài giảng, thời gian đánh giá thực hiện công việc nên được sắp xếp vào thời điểm nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình và tiêu chí đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đầu chu kỳ công việc"
+        },
+        {
+          "id": "B",
+          "text": "Cuối chu kỳ công việc"
+        },
+        {
+          "id": "C",
+          "text": "Bất kỳ lúc nào quản lý rảnh"
+        },
+        {
+          "id": "D",
+          "text": "Ngay sau khi nhân viên được tuyển dụng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 14: khi xác định giai đoạn và các bước thực hiện (thời gian bắt đầu, chu kỳ, người đánh giá), lưu ý thời gian đánh giá nên được sắp xếp vào cuối chu kỳ công việc.",
+      "sourceSlides": [
+        14
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Theo Lussier và Hendon (2017), mục tiêu \"ra quyết định quản trị\" của đánh giá thực hiện công việc thể hiện ở việc nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và mục tiêu đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cung cấp phản hồi cho người lao động về kết quả thực hiện công việc của họ"
+        },
+        {
+          "id": "B",
+          "text": "Làm cơ sở cho các quyết định tăng lương, thăng chức, khen thưởng, chấm dứt HĐLĐ"
+        },
+        {
+          "id": "C",
+          "text": "Giúp nhân viên cải thiện cách thức thực hiện công việc và phát triển bản thân"
+        },
+        {
+          "id": "D",
+          "text": "Giúp nhân viên hiểu rõ văn hóa doanh nghiệp và các giá trị cốt lõi của tổ chức"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 6: ba mục tiêu – Giao tiếp (cung cấp phản hồi), Tạo động lực/phát triển (cải thiện cách làm việc), Ra quyết định quản trị (tăng lương, thăng chức, tưởng thưởng, chấm dứt HĐLĐ, đánh giá hiệu quả tuyển chọn, lập kế hoạch nhân sự).",
+      "sourceSlides": [
+        6
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Yêu cầu \"tin cậy\" đối với tiêu chí đánh giá được hiểu là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình và tiêu chí đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiêu chí đo đúng cái cần đo, phản ánh đúng yêu cầu của công việc"
+        },
+        {
+          "id": "B",
+          "text": "Người lao động chấp nhận tiêu chí và có khả năng thực hiện được"
+        },
+        {
+          "id": "C",
+          "text": "Tiêu chí phù hợp với chiến lược và mục tiêu dài hạn của tổ chức"
+        },
+        {
+          "id": "D",
+          "text": "Kết quả nhất quán, ổn định theo thời gian và giữa các người đánh giá"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 13: Tin cậy – tính nhất quán, ổn định của kết quả theo thời gian và người đánh giá. Chính xác – đo cái cần đo; Chấp nhận và khả thi – NLĐ chấp nhận và thực hiện được; Phù hợp với chiến lược.",
+      "sourceSlides": [
+        13
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Phương pháp thang đo chuẩn hỗn hợp (Mixed standard scale) khác thang đánh giá đồ họa ở điểm nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thay tiêu chí bằng nhận xét tự do của người quản lý trực tiếp về từng nhân viên"
+        },
+        {
+          "id": "B",
+          "text": "Dùng câu trả lời Có/Không thay cho việc cho điểm theo các mức độ khác nhau"
+        },
+        {
+          "id": "C",
+          "text": "Tiêu chí được mô tả cụ thể và xác định mức độ quan trọng tương quan giữa các tiêu chí"
+        },
+        {
+          "id": "D",
+          "text": "Lấy ý kiến khách hàng thay cho đánh giá của quản lý trực tiếp của người lao động"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 19 (Noe et al., 2017): thang đo chuẩn hỗn hợp tương tự thang đồ họa nhưng tiêu chí được miêu tả cụ thể và xác định mức độ quan trọng tương quan của các tiêu chí – khắc phục nhược điểm từ ngữ mơ hồ của thang đồ họa.",
+      "sourceSlides": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Nhược điểm nào thuộc về phương pháp thang đánh giá đồ họa?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chủ quan, không giải thích lý do xếp loại, từ ngữ tiêu chí dễ hiểu khác nhau"
+        },
+        {
+          "id": "B",
+          "text": "Phải xây dựng các mẫu đánh giá khác nhau cho từng loại công việc khác nhau"
+        },
+        {
+          "id": "C",
+          "text": "Gây hoang mang khi các đánh giá từ nhiều nguồn khác nhau đối lập với nhau"
+        },
+        {
+          "id": "D",
+          "text": "Khó đánh giá các công việc có tính sáng tạo và thiếu tính linh hoạt khi áp dụng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 18: nhược điểm của thang đồ họa – chủ quan, không giải thích lý do xếp loại, từ ngữ có thể hiểu khác nhau, không phản ánh tương quan giữa các tiêu chí. Các phương án khác là nhược điểm của BARS, 360 độ và MBO.",
+      "sourceSlides": [
+        18,
+        31,
+        36,
+        45
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Vì sao phương pháp ghi chép sự kiện điển hình khó sử dụng cho mục đích tăng lương?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì thông tin là các sự kiện mô tả cụ thể, khó so sánh giữa các NLĐ"
+        },
+        {
+          "id": "B",
+          "text": "Vì phương pháp này không cung cấp thông tin cụ thể cho người lao động"
+        },
+        {
+          "id": "C",
+          "text": "Vì phương pháp này làm tăng tính chủ quan và sai lầm của người đánh giá"
+        },
+        {
+          "id": "D",
+          "text": "Vì phương pháp này chỉ ghi nhận hành vi tích cực, bỏ qua hành vi tiêu cực"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 24: ưu điểm – cung cấp thông tin cụ thể, giảm chủ quan; nhược điểm – tốn thời gian, tạo áp lực, khó so sánh giữa NLĐ và khó đánh giá cho mục đích tăng lương. Slide 22: ghi chép cả hành vi tích cực và tiêu cực.",
+      "sourceSlides": [
+        22,
+        24
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Theo hướng dẫn OKR, vì sao kết quả then chốt \"Phân tích mức độ hài lòng của khách hàng\" chưa đạt yêu cầu?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì kết quả then chốt không được phép đề cập đến khách hàng"
+        },
+        {
+          "id": "B",
+          "text": "Vì mỗi mục tiêu chỉ được phép có duy nhất một kết quả then chốt"
+        },
+        {
+          "id": "C",
+          "text": "Vì kết quả then chốt bắt buộc phải bắt đầu bằng từ \"hỗ trợ\""
+        },
+        {
+          "id": "D",
+          "text": "Vì nó mô tả hoạt động, không phải kết quả đầu ra đo lường được"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 40: kết quả then chốt phải mô tả kết quả đầu ra, không phải hoạt động; các từ như \"tham vấn\", \"hỗ trợ\", \"phân tích\", \"tham gia\" là mô tả hoạt động. Nên viết \"công bố mức độ hài lòng của khách hàng trước ngày 7/3\".",
+      "sourceSlides": [
+        40
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Bài giảng lưu ý gì về mục đích sử dụng kết quả đánh giá 360 độ?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nên dùng kết quả 360 độ làm căn cứ chính để xét tăng lương"
+        },
+        {
+          "id": "B",
+          "text": "Nên để mỗi người đánh giá cho ý kiến ở tất cả các khía cạnh"
+        },
+        {
+          "id": "C",
+          "text": "Nên thực hiện 360 độ thưa nhất có thể để tránh gây áp lực"
+        },
+        {
+          "id": "D",
+          "text": "Không nên dùng đánh giá 360 độ để ra quyết định quản trị"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 47: không nên dùng 360 độ cho mục đích ra quyết định quản trị; hạn chế lượng thông tin gửi NLĐ; giúp NLĐ hiểu phản hồi; không để mọi người đánh giá ở mọi khía cạnh; thực hiện thường xuyên; đánh giá hiệu quả hệ thống.",
+      "sourceSlides": [
+        47
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Theo nguyên tắc phỏng vấn đánh giá thực hiện công việc, người quản lý nên tập trung vào điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Hoàn thiện và thực hiện đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tập trung vào nhân cách để nhân viên thay đổi bản thân từ gốc rễ"
+        },
+        {
+          "id": "B",
+          "text": "Chia sẻ toàn bộ mọi thông tin đánh giá, càng chi tiết càng tốt"
+        },
+        {
+          "id": "C",
+          "text": "Tập trung vào hành vi, không phải nhân cách; dùng minh chứng cụ thể"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ nêu điểm yếu để nhân viên nhận ra vấn đề và tiến bộ nhanh hơn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 55: nguyên tắc phỏng vấn đánh giá – lên lịch, chọn địa điểm phù hợp, dùng minh chứng cụ thể, tập trung vào hành vi không phải nhân cách, ghi nhận đóng góp và tránh chỉ trích, chia sẻ thông tin vừa đủ, khuyến khích chia sẻ, thống nhất kế hoạch cải thiện.",
+      "sourceSlides": [
+        55
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Theo Điều 36 Bộ luật Lao động 2019 (trích trong bài giảng), quy chế đánh giá mức độ hoàn thành công việc phải đáp ứng yêu cầu gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và mục tiêu đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Do cơ quan nhà nước ban hành và áp dụng thống nhất cho mọi doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Do tập thể người lao động tự ban hành rồi nộp cho doanh nghiệp phê duyệt"
+        },
+        {
+          "id": "C",
+          "text": "Do NSDLĐ ban hành, có tham khảo ý kiến tổ chức đại diện NLĐ tại cơ sở"
+        },
+        {
+          "id": "D",
+          "text": "Do quản lý trực tiếp tự quy định bằng lời nói, không cần thành văn bản"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 7: Điều 36 khoản 1 điểm a – quy chế đánh giá mức độ hoàn thành công việc do NSDLĐ ban hành nhưng phải tham khảo ý kiến tổ chức đại diện NLĐ tại cơ sở đối với nơi có tổ chức đại diện.",
+      "sourceSlides": [
+        7
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Trong quy trình MBO (Gary Dessler, 2020), bước nào diễn ra ngay trước bước \"Thiết lập mục tiêu cá nhân\"?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thảo luận mục tiêu phòng/ban với cấp dưới"
+        },
+        {
+          "id": "B",
+          "text": "Thiết lập mục tiêu chung của tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Thực hiện đánh giá theo mục tiêu đã đặt"
+        },
+        {
+          "id": "D",
+          "text": "Thảo luận kết quả và đưa ra phản hồi"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 34: quy trình MBO – (1) mục tiêu tổ chức; (2) mục tiêu phòng/ban; (3) thảo luận mục tiêu phòng/ban với cấp dưới; (4) mục tiêu cá nhân; (5) thực hiện đánh giá; (6) thảo luận và phản hồi.",
+      "sourceSlides": [
+        34
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Quản lý cửa hàng ghi vào sổ: \"20/7 – nhân viên nhẫn nại, lịch sự xử lý khiếu nại của khách\" và \"20/7 – nghỉ giải lao quá 45 phút vào giờ cao điểm, không nghe điện thoại quản lý 3 lần\". Quản lý đang dùng phương pháp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Danh mục kiểm tra (Checklist)"
+        },
+        {
+          "id": "B",
+          "text": "Quản trị theo mục tiêu (MBO)"
+        },
+        {
+          "id": "C",
+          "text": "Thang đánh giá đồ họa"
+        },
+        {
+          "id": "D",
+          "text": "Ghi chép sự kiện điển hình"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 22: phương pháp ghi chép sự kiện điển hình – người quản lý theo dõi và ghi lại hành vi tích cực và tiêu cực nổi bật của NLĐ; ví dụ trên slide chính là nhân viên bán hàng ngày 20/7.",
+      "sourceSlides": [
+        22
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Mục tiêu MBO nào được viết đúng theo cấu trúc \"Động từ + Kết quả cụ thể, đo lường được + Thời hạn hoàn thành\"?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cố gắng hết sức để bán hàng tốt hơn so với năm trước"
+        },
+        {
+          "id": "B",
+          "text": "Doanh số khu vực phía Bắc cần được cải thiện đáng kể"
+        },
+        {
+          "id": "C",
+          "text": "Tăng doanh số khu vực phía Bắc thêm 15% trước ngày 31/12/2026"
+        },
+        {
+          "id": "D",
+          "text": "Tiếp tục duy trì quan hệ tốt với khách hàng hiện tại"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 35 (Lussier & Hendon, 2017): mục tiêu theo SMART, viết theo cấu trúc Động từ + Kết quả cụ thể đo lường được + Thời hạn. Chỉ phương án đầu có đủ động từ (tăng), kết quả đo lường (15%) và thời hạn (31/12/2026).",
+      "sourceSlides": [
+        35
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Mục tiêu (Objective) của phòng đào tạo là \"Nâng cao trải nghiệm học viên\". Kết quả then chốt nào được viết đúng hướng dẫn OKR?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đạt điểm hài lòng 4,5/5 từ 500 học viên trước ngày 30/6"
+        },
+        {
+          "id": "B",
+          "text": "Hỗ trợ học viên giải đáp thắc mắc nhanh chóng, kịp thời"
+        },
+        {
+          "id": "C",
+          "text": "Tham gia đầy đủ các buổi họp lấy ý kiến của học viên"
+        },
+        {
+          "id": "D",
+          "text": "Tiếp tục duy trì chất lượng giảng dạy như hiện tại"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 39–40: kết quả then chốt phải là cột mốc đo lường được, mô tả đầu ra (không phải hoạt động như \"hỗ trợ\", \"tham gia\"), có minh chứng kiểm chứng; tránh cách diễn đạt \"tiếp tục duy trì\" vì không thúc đẩy thành tích mới.",
+      "sourceSlides": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Công ty muốn đánh giá toàn diện để xác định nhu cầu đào tạo của từng trưởng nhóm và thúc đẩy văn hóa phản hồi, với ý kiến từ cấp trên, đồng nghiệp, cấp dưới và khách hàng. Phương pháp nào phù hợp và cần lưu ý gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đánh giá 360 độ; không nên dùng kết quả để ra quyết định quản trị"
+        },
+        {
+          "id": "B",
+          "text": "Thang đánh giá đồ họa; chỉ quản lý trực tiếp được phép cho điểm"
+        },
+        {
+          "id": "C",
+          "text": "Danh mục kiểm tra; chỉ được chọn Đúng/Sai cho từng mô tả hành vi"
+        },
+        {
+          "id": "D",
+          "text": "MBO; chỉ áp dụng cho các vị trí có tính sáng tạo cao trong tổ chức"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 45: 360 độ giúp đánh giá toàn diện, xác định nhu cầu đào tạo và thúc đẩy văn hóa phản hồi. Slide 47: không nên dùng đánh giá 360 độ cho mục đích ra quyết định quản trị.",
+      "sourceSlides": [
+        44,
+        45,
+        47
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Để tránh va chạm, một trưởng phòng chấm tất cả nhân viên ở mức \"Tốt (3)\" dù năng lực của họ rất khác nhau. Trưởng phòng đang mắc lỗi nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hoàn thiện và thực hiện đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiệu ứng thời gian ưu tiên cuối"
+        },
+        {
+          "id": "B",
+          "text": "Bình quân chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "text": "Lỗi tương đồng"
+        },
+        {
+          "id": "D",
+          "text": "Lỗi quy kết"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 53 liệt kê các lỗi của người đánh giá; việc cho mọi người cùng mức trung bình bất kể kết quả thực tế là lỗi bình quân chủ nghĩa. Slide 49 cũng chỉ ra quản lý thường không thích đưa ra phán quyết về NLĐ.",
+      "sourceSlides": [
+        49,
+        53
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Khi đánh giá cả năm, quản lý chủ yếu dựa vào sự cố một nhân viên gây ra vào tháng 12 mà bỏ qua thành tích tốt suốt 11 tháng trước. Đây là lỗi nào và cách khắc phục phù hợp?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hoàn thiện và thực hiện đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bình quân chủ nghĩa; yêu cầu chấm mọi người ở cùng một mức điểm"
+        },
+        {
+          "id": "B",
+          "text": "Hiệu ứng thời gian ưu tiên cuối; đào tạo kỹ năng quan sát, ghi chép"
+        },
+        {
+          "id": "C",
+          "text": "Lỗi tương đồng; chuyển sang chỉ cho đồng nghiệp đánh giá lẫn nhau"
+        },
+        {
+          "id": "D",
+          "text": "Lỗi phân bổ dễ dãi; bỏ hẳn việc đánh giá cuối năm cho nhân viên"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 53: hiệu ứng thời gian ưu tiên cuối/đầu là lỗi người đánh giá. Slide 54: đào tạo người đánh giá tránh lỗi thường gặp, nâng cao kỹ năng quan sát và ghi chép, phỏng vấn đánh giá.",
+      "sourceSlides": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Trong buổi phỏng vấn đánh giá, câu nhận xét nào của quản lý phù hợp với nguyên tắc được nêu trong bài giảng?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hoàn thiện và thực hiện đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"Em là người cẩu thả, thiếu trách nhiệm nên báo cáo thường bị trễ\""
+        },
+        {
+          "id": "B",
+          "text": "\"Mọi người trong phòng đều phàn nàn rằng em làm việc không tốt\""
+        },
+        {
+          "id": "C",
+          "text": "\"Quý này có 3/10 báo cáo nộp trễ 2 ngày; mình cùng tìm cách cải thiện\""
+        },
+        {
+          "id": "D",
+          "text": "\"Anh không có thời gian trao đổi, em tự xem bảng điểm đánh giá nhé\""
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 55: sử dụng minh chứng, dữ liệu cụ thể; tập trung vào hành vi, không phải nhân cách; tránh chỉ trích; thống nhất ý kiến và kế hoạch cải thiện.",
+      "sourceSlides": [
+        55
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Một doanh nghiệp có nhiều vị trí khác nhau, cần một công cụ đánh giá đơn giản, dễ thực hiện và áp dụng chung cho nhiều vị trí. Phương pháp nào phù hợp nhất và hạn chế cần lưu ý là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "BARS; lưu ý xây dựng nhanh, dùng chung một mẫu cho mọi vị trí"
+        },
+        {
+          "id": "B",
+          "text": "Ghi chép sự kiện điển hình; lưu ý dễ so sánh giữa các nhân viên"
+        },
+        {
+          "id": "C",
+          "text": "Đánh giá 360 độ; lưu ý thu thập, xử lý thông tin rất nhanh, ít tốn kém"
+        },
+        {
+          "id": "D",
+          "text": "Thang đồ họa; lưu ý tính chủ quan, từ ngữ tiêu chí dễ hiểu khác nhau"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 18: thang đồ họa đơn giản, dễ thực hiện, áp dụng cho nhiều vị trí; nhược điểm là chủ quan, không giải thích lý do, từ ngữ có thể hiểu khác nhau. BARS tốn thời gian, cần mẫu riêng cho từng công việc (slide 31).",
+      "sourceSlides": [
+        15,
+        18,
+        31
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Bệnh viện xây dựng thang đánh giá điều dưỡng, mỗi mức điểm gắn với mô tả hành vi cụ thể (ví dụ: \"đọc tạp chí điều dưỡng để nâng cao kỹ năng\", \"không cho bệnh nhân uống thuốc đúng giờ\"). Khi mở rộng sang các vị trí khác, bệnh viện sẽ gặp hạn chế nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tốn thời gian, phải xây dựng mẫu khác nhau cho từng công việc"
+        },
+        {
+          "id": "B",
+          "text": "Không phân loại được mức độ thực hiện công việc của điều dưỡng"
+        },
+        {
+          "id": "C",
+          "text": "Khó giải thích kết quả đánh giá với người được đánh giá"
+        },
+        {
+          "id": "D",
+          "text": "Làm giảm tính khách quan, minh bạch của kết quả đánh giá"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tình huống là BARS (slide 28–29, ví dụ thang đánh giá điều dưỡng). Slide 31: ưu điểm – khách quan, minh bạch, phân loại mức độ, dễ giải thích; nhược điểm – tốn thời gian, phải dùng mẫu khác nhau cho các công việc khác nhau.",
+      "sourceSlides": [
+        28,
+        29,
+        31
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Một công ty muốn đơn phương chấm dứt HĐLĐ với nhân viên vì lý do \"thường xuyên không hoàn thành công việc\", nhưng công ty chưa từng ban hành quy chế đánh giá mức độ hoàn thành công việc. Rủi ro chính là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Khái niệm và mục tiêu đánh giá",
+      "options": [
+        {
+          "id": "A",
+          "text": "Không có rủi ro, vì NSDLĐ có toàn quyền đánh giá và chấm dứt hợp đồng bất cứ lúc nào"
+        },
+        {
+          "id": "B",
+          "text": "Không có rủi ro, chỉ cần quản lý trực tiếp xác nhận bằng lời nói là đủ căn cứ pháp lý"
+        },
+        {
+          "id": "C",
+          "text": "Thiếu căn cứ, vì việc không hoàn thành CV phải xác định theo quy chế đánh giá của NSDLĐ"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ có rủi ro nếu nhân viên đã làm việc trên 5 năm hoặc là thành viên công đoàn cơ sở"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 7: theo Điều 36 BLLĐ 2019, việc NLĐ thường xuyên không hoàn thành công việc được xác định theo tiêu chí trong quy chế đánh giá của NSDLĐ, quy chế phải tham khảo ý kiến tổ chức đại diện NLĐ. Đây là lý do đánh giá thực hiện công việc là cơ sở cho quyết định quản trị (slide 6).",
+      "sourceSlides": [
+        6,
+        7
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "siteTitle": "Luyện thi Quản trị nhân lực",
+  "version": 1,
+  "documents": [
+    {
+      "id": "chapter_01",
+      "file": "chapter_01.json",
+      "title": "Chương 1 - Tổng quan về quản trị nhân lực",
+      "sourceFile": "Chương 1 - Tổng quan về QTNL.pdf",
+      "totalSlides": 47,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, vai trò, đối tượng, nội dung, chức năng, triết lý, trường phái QTNL, các yếu tố ảnh hưởng và mô hình tổ chức phòng nhân sự."
+    },
+    {
+      "id": "chapter_03",
+      "file": "chapter_03.json",
+      "title": "Chương 3 - Phân tích và thiết kế công việc",
+      "sourceFile": "Chương 3 - Phân tích và thiết kế công việc.pdf",
+      "totalSlides": 48,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Các khái niệm về công việc, thiết kế và thiết kế lại công việc, quy trình và phương pháp phân tích công việc, bản mô tả và tiêu chuẩn công việc."
+    },
+    {
+      "id": "chapter_04",
+      "file": "chapter_04.json",
+      "title": "Chương 4 - Tuyển dụng và bố trí nhân lực",
+      "sourceFile": "Chương 4 - Tuyển dụng nhân lực và bố trí nhân lực.pdf",
+      "totalSlides": 57,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, vai trò tuyển dụng; xác định nhu cầu tuyển dụng; tuyển mộ; tuyển chọn; các hình thức bố trí nhân lực và quy định liên quan trong Bộ luật Lao động 2019."
+    },
+    {
+      "id": "chapter_05",
+      "file": "chapter_05.json",
+      "title": "Chương 5 - Đào tạo và phát triển nhân lực",
+      "sourceFile": "Chương 5 - Đào tạo và phát triển.pdf",
+      "totalSlides": 45,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, vai trò, hình thức, quy trình và phương pháp đào tạo; đánh giá hiệu quả đào tạo; phát triển nhân lực, IDP và lộ trình sự nghiệp."
+    },
+    {
+      "id": "chapter_06",
+      "file": "chapter_06.json",
+      "title": "Chương 6 - Đánh giá thực hiện công việc",
+      "sourceFile": "Chương 6 - Đánh giá thực hiện công việc.pdf",
+      "totalSlides": 57,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, mục tiêu, quy trình đánh giá thực hiện công việc; các phương pháp đánh giá (thang đồ họa, BARS, MBO/OKR, 360 độ…); lỗi người đánh giá và phỏng vấn đánh giá."
+    },
+    {
+      "id": "chapter_07",
+      "file": "chapter_07.json",
+      "title": "Chương 7 - Tiền lương và phúc lợi",
+      "sourceFile": "Chương 7 - Tiền lương và phúc lợi.pdf",
+      "totalSlides": 93,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, phân loại, vai trò, chức năng của tiền lương; yêu cầu, nguyên tắc trả lương; thang bảng lương; các hình thức trả lương (thời gian, sản phẩm, khoán, 3P, KPI) và phúc lợi."
+    },
+    {
+      "id": "chapter_08",
+      "file": "chapter_08.json",
+      "title": "Chương 8 - Hợp đồng lao động và quan hệ lao động",
+      "sourceFile": "Chương 8 - Hợp đồng lao động và quan hệ lao động.pdf",
+      "totalSlides": 51,
+      "totalQuestions": 30,
+      "timeLimitMinutes": 30,
+      "description": "Khái niệm, phân loại, nội dung, giao kết, sửa đổi, tạm hoãn, chấm dứt hợp đồng lao động; quan hệ lao động; tranh chấp lao động và giải quyết tranh chấp."
+    }
+  ]
+}

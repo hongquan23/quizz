@@ -1,0 +1,916 @@
+{
+  "documentId": "chapter_08",
+  "documentTitle": "Chương 8 - Hợp đồng lao động và quan hệ lao động",
+  "sourceFile": "Chương 8 - Hợp đồng lao động và quan hệ lao động.pdf",
+  "totalSlides": 51,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Theo bài giảng, hợp đồng lao động xác định thời hạn có thời hạn tối đa là bao lâu kể từ thời điểm có hiệu lực?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Không quá 12 tháng"
+        },
+        {
+          "id": "B",
+          "text": "Không quá 24 tháng"
+        },
+        {
+          "id": "C",
+          "text": "Không quá 36 tháng"
+        },
+        {
+          "id": "D",
+          "text": "Không quá 60 tháng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 8: hợp đồng xác định thời hạn là hợp đồng hai bên xác định thời hạn, thời điểm chấm dứt trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực.",
+      "sourceSlides": [
+        8
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Thời gian thử việc tối đa đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên là bao nhiêu?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Không quá 60 ngày"
+        },
+        {
+          "id": "B",
+          "text": "Không quá 30 ngày"
+        },
+        {
+          "id": "C",
+          "text": "Không quá 180 ngày"
+        },
+        {
+          "id": "D",
+          "text": "Không quá 06 ngày làm việc"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 12 (Điều 25 BLLĐ 2019): không quá 180 ngày với người quản lý doanh nghiệp; 60 ngày với trình độ cao đẳng trở lên; 30 ngày với trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ; 06 ngày làm việc với công việc khác.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Tiền lương của người lao động trong thời gian thử việc ít nhất phải bằng bao nhiêu phần trăm mức lương của công việc đó?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "85%"
+        },
+        {
+          "id": "B",
+          "text": "70%"
+        },
+        {
+          "id": "C",
+          "text": "75%"
+        },
+        {
+          "id": "D",
+          "text": "100%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 12 (Điều 26 BLLĐ 2019): tiền lương thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Theo Điều 15 Bộ luật Lao động 2019, nguyên tắc giao kết hợp đồng lao động gồm những gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Giao kết, sửa đổi, bổ sung HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tự nguyện, bình đẳng, thiện chí, hợp tác, trung thực; không trái pháp luật, thỏa ước và đạo đức xã hội"
+        },
+        {
+          "id": "B",
+          "text": "NSDLĐ quyết định toàn bộ nội dung hợp đồng, NLĐ ký xác nhận nếu đồng ý làm việc tại doanh nghiệp"
+        },
+        {
+          "id": "C",
+          "text": "Ưu tiên lợi ích của doanh nghiệp trước, sau đó mới xem xét đến quyền lợi của người lao động"
+        },
+        {
+          "id": "D",
+          "text": "Hai bên tự do thỏa thuận mọi nội dung, kể cả nội dung trái với thỏa ước lao động tập thể đã ký"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 14: nguyên tắc giao kết – (1) tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực; (2) tự do giao kết nhưng không trái pháp luật, thỏa ước lao động tập thể và đạo đức xã hội.",
+      "sourceSlides": [
+        14
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Theo Điều 22 Bộ luật Lao động 2019, phụ lục hợp đồng lao động KHÔNG được dùng để làm gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Giao kết, sửa đổi, bổ sung HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quy định chi tiết một số điều khoản của hợp đồng"
+        },
+        {
+          "id": "B",
+          "text": "Sửa đổi thời hạn của hợp đồng lao động"
+        },
+        {
+          "id": "C",
+          "text": "Sửa đổi, bổ sung một số điều khoản của hợp đồng"
+        },
+        {
+          "id": "D",
+          "text": "Điều chỉnh mức phụ cấp theo thỏa thuận"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 17: phụ lục HĐLĐ quy định chi tiết, sửa đổi, bổ sung một số điều khoản nhưng không được sửa đổi thời hạn của hợp đồng lao động.",
+      "sourceSlides": [
+        17
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Theo Điều 48 Bộ luật Lao động 2019, khi chấm dứt hợp đồng lao động, hai bên có trách nhiệm thanh toán đầy đủ các khoản tiền liên quan trong thời hạn bao lâu?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "07 ngày làm việc (có trường hợp kéo dài nhưng không quá 14 ngày)"
+        },
+        {
+          "id": "B",
+          "text": "14 ngày làm việc (có trường hợp kéo dài nhưng không quá 30 ngày)"
+        },
+        {
+          "id": "C",
+          "text": "30 ngày làm việc (có trường hợp kéo dài nhưng không quá 60 ngày)"
+        },
+        {
+          "id": "D",
+          "text": "Ngay trong ngày chấm dứt, không có trường hợp được kéo dài"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 23: trong thời hạn 14 ngày làm việc kể từ ngày chấm dứt HĐLĐ, hai bên có trách nhiệm thanh toán đầy đủ các khoản tiền liên quan; một số trường hợp có thể kéo dài nhưng không quá 30 ngày.",
+      "sourceSlides": [
+        23
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Đặc trưng nào sau đây của quan hệ lao động được nêu trong bài giảng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quan hệ lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ mang tính kinh tế, không mang tính xã hội"
+        },
+        {
+          "id": "B",
+          "text": "Hoàn toàn bình đẳng tuyệt đối giữa các bên"
+        },
+        {
+          "id": "C",
+          "text": "Vừa mang tính mâu thuẫn, vừa mang tính thống nhất"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ mang tính cá nhân, không mang tính tập thể"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 34: quan hệ lao động vừa mang tính kinh tế vừa mang tính xã hội; vừa mâu thuẫn vừa thống nhất; vừa cá nhân vừa tập thể; vừa bình đẳng vừa không bình đẳng tuyệt đối.",
+      "sourceSlides": [
+        34
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Trong quan hệ lao động, tổ chức nào là đại diện cho người lao động được nêu trong bài giảng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quan hệ lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiệp hội doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Cơ quan nhà nước chuyên trách về lao động"
+        },
+        {
+          "id": "C",
+          "text": "Công đoàn"
+        },
+        {
+          "id": "D",
+          "text": "Hội đồng quản trị"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 29: chủ thể quan hệ lao động gồm NLĐ và tổ chức đại diện NLĐ (công đoàn…); NSDLĐ và tổ chức đại diện NSDLĐ (hiệp hội doanh nghiệp…); Nhà nước.",
+      "sourceSlides": [
+        29
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Khi giải quyết tranh chấp lao động qua bên thứ ba, các bên có thể lựa chọn những chủ thể nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Tranh chấp lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hòa giải viên lao động, Hội đồng trọng tài lao động, Tòa án nhân dân"
+        },
+        {
+          "id": "B",
+          "text": "Hiệp hội doanh nghiệp, ngân hàng thương mại, cơ quan quản lý thuế"
+        },
+        {
+          "id": "C",
+          "text": "Phòng nhân sự, ban giám đốc và kế toán trưởng của chính doanh nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Cơ quan báo chí, các diễn đàn mạng xã hội và văn phòng công chứng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 45: trình tự giải quyết tranh chấp – tìm nguyên nhân, đánh giá vấn đề, lựa chọn phương án: hai bên tự thỏa thuận hoặc qua bên thứ ba (hòa giải viên lao động, Hội đồng trọng tài lao động, Tòa án nhân dân).",
+      "sourceSlides": [
+        45
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Hợp đồng lao động KHÔNG áp dụng đối với đối tượng nào sau đây?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và đối tượng HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Người nước ngoài làm việc tại doanh nghiệp ở Việt Nam"
+        },
+        {
+          "id": "B",
+          "text": "Người lao động được một hộ gia đình thuê mướn làm việc"
+        },
+        {
+          "id": "C",
+          "text": "Công chức, viên chức tại cơ quan hành chính sự nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Người lao động làm việc có trả lương tại hợp tác xã"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 7: HĐLĐ áp dụng cho doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân thuê mướn người lao động Việt Nam và người nước ngoài tại Việt Nam; không áp dụng với công chức, viên chức nhà nước tại các cơ quan hành chính sự nghiệp, đoàn thể, tổ chức chính trị xã hội.",
+      "sourceSlides": [
+        7
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Theo khoản 1 Điều 13 Bộ luật Lao động 2019, một thỏa thuận có tên gọi khác (không gọi là hợp đồng lao động) được coi là hợp đồng lao động khi nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và đối tượng HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khi văn bản thỏa thuận được công chứng tại cơ quan nhà nước có thẩm quyền"
+        },
+        {
+          "id": "B",
+          "text": "Khi có việc làm trả công, tiền lương và sự quản lý, giám sát của một bên"
+        },
+        {
+          "id": "C",
+          "text": "Khi văn bản thỏa thuận có thời hạn trên 36 tháng kể từ ngày có hiệu lực"
+        },
+        {
+          "id": "D",
+          "text": "Khi người lao động đã làm việc liên tục trên 12 tháng cho bên thuê mướn"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 5: trường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là HĐLĐ.",
+      "sourceSlides": [
+        5
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Trường hợp nào hợp đồng lao động được phép giao kết bằng lời nói?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mọi hợp đồng có thời hạn dưới 12 tháng, không phân biệt đối tượng người lao động"
+        },
+        {
+          "id": "B",
+          "text": "Hợp đồng không xác định thời hạn, nếu hai bên đã quen biết và tin tưởng nhau"
+        },
+        {
+          "id": "C",
+          "text": "HĐ dưới 01 tháng, trừ HĐ thời vụ theo nhóm, người dưới 15 tuổi, giúp việc gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Hợp đồng với người chưa đủ 15 tuổi, nếu có người đại diện theo pháp luật đồng ý"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 10: được giao kết bằng lời nói nếu thời hạn dưới 01 tháng và không thuộc các trường hợp: hợp đồng dưới 12 tháng với nhóm NLĐ làm việc thời vụ, người chưa đủ 15 tuổi, người giúp việc gia đình; còn lại giao kết bằng văn bản (02 bản).",
+      "sourceSlides": [
+        10
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Phân biệt hợp đồng lao động thử việc và hợp đồng lao động chính thức theo trình tự giao kết:",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "HĐ thử việc: luôn có thời hạn 36 tháng; HĐ chính thức: luôn là hợp đồng không xác định thời hạn"
+        },
+        {
+          "id": "B",
+          "text": "HĐ thử việc: bắt buộc với mọi hợp đồng dưới 1 tháng; HĐ chính thức: áp dụng với hợp đồng trên 1 tháng"
+        },
+        {
+          "id": "C",
+          "text": "HĐ thử việc: làm thử trước khi giao kết HĐ chính thức; HĐ chính thức: khi NLĐ được nhận làm chính thức"
+        },
+        {
+          "id": "D",
+          "text": "HĐ thử việc: không cần trả lương trong thời gian thử; HĐ chính thức: trả đủ lương theo thỏa thuận"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 11: HĐ thử việc áp dụng khi hai bên thỏa thuận NLĐ sẽ thử việc trước khi giao kết HĐ chính thức; HĐ chính thức được giao kết khi NLĐ đã được nhận vào làm chính thức. Slide 12: không áp dụng thử việc với HĐ dưới 1 tháng, lương thử việc ít nhất 85%.",
+      "sourceSlides": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Theo Điều 33 Bộ luật Lao động 2019, khi một bên muốn sửa đổi, bổ sung nội dung hợp đồng lao động thì phải làm gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Giao kết, sửa đổi, bổ sung HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tự điều chỉnh nội dung hợp đồng trước, sau đó thông báo cho bên kia biết"
+        },
+        {
+          "id": "B",
+          "text": "Báo trước ít nhất 30 ngày và trong mọi trường hợp bắt buộc ký hợp đồng mới"
+        },
+        {
+          "id": "C",
+          "text": "Thông báo miệng cho bên kia, không cần lập thành văn bản hay ký phụ lục"
+        },
+        {
+          "id": "D",
+          "text": "Báo trước ít nhất 03 ngày làm việc; thỏa thuận được thì ký phụ lục hoặc HĐ mới"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 16: bên có yêu cầu sửa đổi, bổ sung phải báo trước ít nhất 03 ngày làm việc; nếu thỏa thuận được thì tiến hành bằng ký phụ lục HĐLĐ hoặc giao kết HĐLĐ mới.",
+      "sourceSlides": [
+        16
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Theo Điều 38 Bộ luật Lao động 2019, việc hủy bỏ đơn phương chấm dứt hợp đồng lao động được thực hiện như thế nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ người sử dụng lao động mới có quyền hủy bỏ"
+        },
+        {
+          "id": "B",
+          "text": "Mỗi bên có quyền hủy bỏ trước khi hết thời hạn báo trước, phải thông báo bằng văn bản và được bên kia đồng ý"
+        },
+        {
+          "id": "C",
+          "text": "Có thể hủy bỏ bất cứ lúc nào, kể cả sau khi đã hết thời hạn báo trước, mà không cần bên kia đồng ý"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ cần thông báo miệng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 22: mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt HĐLĐ trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.",
+      "sourceSlides": [
+        22
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Theo Điều 49 Bộ luật Lao động 2019, hợp đồng lao động bị vô hiệu TỪNG PHẦN khi nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khi toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật"
+        },
+        {
+          "id": "B",
+          "text": "Khi người giao kết hợp đồng lao động không đúng thẩm quyền"
+        },
+        {
+          "id": "C",
+          "text": "Khi một phần vi phạm pháp luật nhưng không ảnh hưởng phần còn lại"
+        },
+        {
+          "id": "D",
+          "text": "Khi công việc đã giao kết là công việc mà pháp luật cấm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 26: HĐLĐ vô hiệu toàn bộ khi toàn bộ nội dung vi phạm pháp luật, người giao kết không đúng thẩm quyền/vi phạm nguyên tắc giao kết, hoặc công việc bị pháp luật cấm; vô hiệu từng phần khi một phần vi phạm pháp luật nhưng không ảnh hưởng phần còn lại.",
+      "sourceSlides": [
+        26
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Phân biệt tranh chấp lao động tập thể về QUYỀN và về LỢI ÍCH:",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tranh chấp lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Về quyền: phát sinh khi đòi tăng lương cao hơn luật; về lợi ích: phát sinh khi doanh nghiệp vi phạm luật"
+        },
+        {
+          "id": "B",
+          "text": "Về quyền: khác nhau trong hiểu, thực hiện luật lao động; về lợi ích: phát sinh khi thương lượng tập thể"
+        },
+        {
+          "id": "C",
+          "text": "Về quyền: chỉ giữa cá nhân NLĐ với NSDLĐ; về lợi ích: chỉ giữa tổ chức đại diện NLĐ với Nhà nước"
+        },
+        {
+          "id": "D",
+          "text": "Về quyền: chỉ do Tòa án giải quyết; về lợi ích: chỉ do hai bên tự thương lượng, không qua bên thứ ba"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 41: tranh chấp về quyền – khác nhau trong hiểu và thực hiện quy định pháp luật về lao động, NSDLĐ phân biệt đối xử…; tranh chấp về lợi ích – phát sinh trong thương lượng tập thể, khi một bên từ chối hoặc không tiến hành thương lượng theo quy định.",
+      "sourceSlides": [
+        41
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Đối thoại xã hội gián tiếp trong quan hệ lao động được thực hiện như thế nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quan hệ lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Các bên gặp mặt trực tiếp để trao đổi thông tin, tham khảo và thương lượng"
+        },
+        {
+          "id": "B",
+          "text": "Nhà nước đứng ra quyết định thay cho các bên về những vấn đề còn tranh cãi"
+        },
+        {
+          "id": "C",
+          "text": "Các bên đưa ngay vấn đề phát sinh ra Tòa án nhân dân để được phân xử"
+        },
+        {
+          "id": "D",
+          "text": "Trao đổi, thương lượng qua trung gian như văn bản, giấy tờ, phương tiện khác"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 36: đối thoại trực tiếp – các bên gặp mặt trực tiếp trao đổi, tham khảo, thương lượng; đối thoại gián tiếp – trao đổi qua phương tiện trung gian như văn bản, giấy tờ hoặc phương tiện khác.",
+      "sourceSlides": [
+        36
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Nguyên tắc \"tự định đoạt\" trong quan hệ lao động có nghĩa là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quan hệ lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Người sử dụng lao động tự quyết định mọi vấn đề mà không cần tham khảo ý kiến"
+        },
+        {
+          "id": "B",
+          "text": "Các bên tự xác định, tự lựa chọn vấn đề và mức độ hợp tác trên cơ sở bàn bạc"
+        },
+        {
+          "id": "C",
+          "text": "Người lao động có quyền từ chối mọi yêu cầu của người sử dụng lao động"
+        },
+        {
+          "id": "D",
+          "text": "Nhà nước tự quyết định nội dung và mức độ hợp tác giữa các bên trong quan hệ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 35: bốn nguyên tắc – Tôn trọng, Hợp tác, Thương lượng, Tự định đoạt (có quyền tự xác định, tự lựa chọn, tự quyết định vấn đề và mức độ hợp tác trên cơ sở cùng bàn bạc, thống nhất).",
+      "sourceSlides": [
+        35
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Cơ chế tương tác BA BÊN trong quan hệ lao động gồm những chủ thể nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quan hệ lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "NLĐ/đại diện NLĐ – NSDLĐ/đại diện NSDLĐ – Khách hàng"
+        },
+        {
+          "id": "B",
+          "text": "Công đoàn – Hiệp hội doanh nghiệp – Ngân hàng thương mại"
+        },
+        {
+          "id": "C",
+          "text": "Người lao động – Đồng nghiệp – Quản lý trực tiếp"
+        },
+        {
+          "id": "D",
+          "text": "NLĐ/đại diện NLĐ – NSDLĐ/đại diện NSDLĐ – Nhà nước"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 30: cơ chế hai bên (giữa NLĐ với NSDLĐ, giữa đại diện các bên…) và ba bên (NLĐ/tổ chức đại diện NLĐ; NSDLĐ/tổ chức đại diện NSDLĐ; Nhà nước).",
+      "sourceSlides": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Công ty X ký với chị Lan văn bản tên là \"Thỏa thuận cộng tác viên\". Theo văn bản, chị Lan làm việc theo giờ hành chính tại văn phòng, nhận lương cố định hằng tháng và chịu sự quản lý, giám sát của trưởng phòng. Văn bản này được xác định thế nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Khái niệm và đối tượng HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Được coi là HĐLĐ vì có việc làm trả lương và sự quản lý, giám sát của một bên"
+        },
+        {
+          "id": "B",
+          "text": "Không phải HĐLĐ vì văn bản có tên gọi là \"thỏa thuận cộng tác viên\""
+        },
+        {
+          "id": "C",
+          "text": "Chỉ là hợp đồng dân sự vì văn bản không ghi rõ thời hạn của thỏa thuận"
+        },
+        {
+          "id": "D",
+          "text": "Không có giá trị pháp lý vì chưa được công chứng tại cơ quan có thẩm quyền"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 5 (khoản 1 Điều 13 BLLĐ 2019): thỏa thuận bằng tên gọi khác nhưng có nội dung về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là HĐLĐ – tên gọi không quyết định bản chất.",
+      "sourceSlides": [
+        5
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Công ty đề nghị một kỹ sư (tốt nghiệp đại học) thử việc 90 ngày với lương bằng 80% mức lương chính thức. Đề nghị này có điểm nào trái quy định?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phân loại HĐLĐ và thử việc",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ sai về thời gian; mức lương 80% là hợp lệ nếu hai bên đồng ý"
+        },
+        {
+          "id": "B",
+          "text": "Chỉ sai về tiền lương; thời gian 90 ngày là hợp lệ với kỹ sư"
+        },
+        {
+          "id": "C",
+          "text": "Hoàn toàn hợp lệ vì đây là nội dung do hai bên tự do thỏa thuận"
+        },
+        {
+          "id": "D",
+          "text": "Cả hai đều trái quy định: tối đa 60 ngày và lương ít nhất 85%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 12: công việc cần trình độ cao đẳng trở lên thử việc không quá 60 ngày; lương thử việc ít nhất bằng 85% mức lương công việc đó. Đề nghị 90 ngày và 80% đều vi phạm.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Nhân viên đang có HĐLĐ xác định thời hạn 12 tháng; công ty muốn kéo dài thời hạn thành 24 tháng. Cách làm nào đúng theo quy định được trích trong bài giảng?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Giao kết, sửa đổi, bổ sung HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giao kết HĐLĐ mới, vì phụ lục không được sửa đổi thời hạn hợp đồng"
+        },
+        {
+          "id": "B",
+          "text": "Ký phụ lục hợp đồng để sửa thời hạn từ 12 tháng lên 24 tháng"
+        },
+        {
+          "id": "C",
+          "text": "Thông báo bằng văn bản cho nhân viên, không cần ký thêm giấy tờ nào"
+        },
+        {
+          "id": "D",
+          "text": "Ghi chú bổ sung thời hạn mới vào bản hợp đồng cũ và đóng dấu xác nhận"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 17 (Điều 22): phụ lục không được sửa đổi thời hạn HĐLĐ. Slide 16 (Điều 33): sửa đổi, bổ sung được thực hiện bằng phụ lục hoặc giao kết HĐLĐ mới – do đó trường hợp đổi thời hạn phải giao kết HĐ mới.",
+      "sourceSlides": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Anh Hùng làm việc theo hợp đồng lao động không xác định thời hạn và muốn đơn phương nghỉ việc (không thuộc trường hợp được nghỉ không cần báo trước). Anh phải báo trước ít nhất bao lâu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 ngày"
+        },
+        {
+          "id": "B",
+          "text": "03 ngày"
+        },
+        {
+          "id": "C",
+          "text": "60 ngày"
+        },
+        {
+          "id": "D",
+          "text": "45 ngày"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 20 (tham khảo Điều 35): chấm dứt cần báo trước ít nhất 45 ngày với HĐ không xác định thời hạn; 30 ngày với HĐ xác định thời hạn từ 12–36 tháng; 03 ngày với HĐ dưới 12 tháng.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Chị Mai đơn phương chấm dứt HĐLĐ trái pháp luật (nghỉ ngay, không báo trước). Theo Điều 40 Bộ luật Lao động 2019, chị Mai phải chịu hậu quả nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mất trợ cấp thôi việc; bồi thường nửa tháng lương và lương ngày không báo trước; hoàn trả chi phí đào tạo"
+        },
+        {
+          "id": "B",
+          "text": "Vẫn được trợ cấp thôi việc đầy đủ; chỉ phải bồi thường tiền lương cho những ngày không báo trước"
+        },
+        {
+          "id": "C",
+          "text": "Không mất trợ cấp thôi việc; phải bồi thường 03 tháng tiền lương theo hợp đồng lao động đã ký"
+        },
+        {
+          "id": "D",
+          "text": "Bị xử lý kỷ luật sa thải; không được nhận lương tháng cuối nhưng không phải hoàn trả chi phí đào tạo"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 21 (Điều 40): NLĐ đơn phương chấm dứt trái pháp luật không được trợ cấp thôi việc; phải bồi thường nửa tháng tiền lương theo HĐ và khoản tiền tương ứng tiền lương những ngày không báo trước; phải hoàn trả chi phí đào tạo theo Điều 62.",
+      "sourceSlides": [
+        21
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Do kinh doanh khó khăn, công ty muốn tạm thời chuyển anh Minh (chuyên viên kinh doanh) sang làm công việc giao hàng. Theo Điều 29 Bộ luật Lao động 2019, công ty phải đáp ứng yêu cầu nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Được chuyển ngay không cần báo trước vì đây là quyền điều hành, nhưng phải giữ nguyên lương cũ trong suốt thời gian chuyển"
+        },
+        {
+          "id": "B",
+          "text": "Báo trước ≥03 ngày làm việc, nêu rõ thời hạn, phù hợp sức khỏe, giới tính; không quá 60 ngày/năm nếu chưa có đồng ý bằng văn bản"
+        },
+        {
+          "id": "C",
+          "text": "Được chuyển vĩnh viễn sang công việc giao hàng nếu trả lương ít nhất bằng 70% lương cũ và thông báo bằng văn bản"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ cần thông báo miệng trước 01 ngày và chuyển tối đa 90 ngày làm việc liên tục, không cần sự đồng ý của anh Minh"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 24 (Điều 29): khi khó khăn đột xuất hoặc do nhu cầu sản xuất, kinh doanh, NSDLĐ được tạm thời chuyển NLĐ làm công việc khác nhưng không quá 60 ngày làm việc cộng dồn/năm (quá thì phải được NLĐ đồng ý bằng văn bản); phải báo trước ít nhất 03 ngày làm việc, nêu rõ thời hạn, bố trí phù hợp sức khỏe, giới tính; lương mới ít nhất 85% lương cũ. Tình huống tương tự slide 49.",
+      "sourceSlides": [
+        24,
+        49
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Sau khi chấm dứt hợp đồng với anh Minh, công ty từ chối trả lương tháng cuối cho anh. Theo Điều 48 Bộ luật Lao động 2019, công ty có nghĩa vụ gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thanh toán đủ các khoản trong 14 ngày làm việc (tối đa 30 ngày), xác nhận thời gian đóng BHXH, BHTN"
+        },
+        {
+          "id": "B",
+          "text": "Không phải trả lương tháng cuối, vì quan hệ lao động đã chấm dứt trước ngày trả lương định kỳ"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ phải trả 50% lương tháng cuối, phần còn lại được giữ lại để bù chi phí tuyển người thay thế"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ phải trả khi anh Minh khởi kiện ra Tòa án và có bản án có hiệu lực pháp luật của Tòa án"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 23 (Điều 48): trong 14 ngày làm việc kể từ ngày chấm dứt (có thể kéo dài nhưng không quá 30 ngày), hai bên thanh toán đầy đủ các khoản liên quan; NSDLĐ hoàn thành thủ tục xác nhận thời gian đóng BHXH, BHTN và trả lại giấy tờ.",
+      "sourceSlides": [
+        23,
+        49
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Trong quá trình thương lượng tập thể, công đoàn cơ sở yêu cầu tăng lương thêm 10% so với hiện tại (cao hơn mức pháp luật quy định) nhưng ban giám đốc từ chối. Đây là loại tranh chấp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tranh chấp lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tranh chấp lao động tập thể về quyền"
+        },
+        {
+          "id": "B",
+          "text": "Tranh chấp lao động tập thể về lợi ích"
+        },
+        {
+          "id": "C",
+          "text": "Tranh chấp lao động cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Không phải tranh chấp lao động"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 41: tranh chấp tập thể về lợi ích phát sinh trong quá trình thương lượng tập thể hoặc khi một bên từ chối thương lượng; yêu cầu vượt trên mức luật định (không phải việc thực hiện quy định pháp luật) nên thuộc về lợi ích.",
+      "sourceSlides": [
+        39,
+        41
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Công ty không trả tiền lương làm thêm giờ theo đúng tỷ lệ pháp luật quy định cho toàn bộ công nhân một phân xưởng; tổ chức đại diện người lao động yêu cầu công ty thực hiện đúng luật. Đây là loại tranh chấp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tranh chấp lao động",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tranh chấp lao động tập thể về lợi ích"
+        },
+        {
+          "id": "B",
+          "text": "Tranh chấp lao động cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Tranh chấp giữa các tổ chức đại diện người lao động"
+        },
+        {
+          "id": "D",
+          "text": "Tranh chấp lao động tập thể về quyền"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 41: tranh chấp về quyền phát sinh do có sự khác nhau trong việc hiểu và thực hiện quy định của pháp luật về lao động. Slide 39: tranh chấp giữa tổ chức đại diện NLĐ với NSDLĐ là tranh chấp tập thể.",
+      "sourceSlides": [
+        39,
+        41
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Anh Tuấn đang làm việc theo HĐLĐ thì nhận lệnh gọi thực hiện nghĩa vụ quân sự. Theo Điều 30 Bộ luật Lao động 2019, hợp đồng lao động của anh sẽ được xử lý thế nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tạm hoãn, chấm dứt, vô hiệu HĐLĐ",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đương nhiên chấm dứt hợp đồng lao động"
+        },
+        {
+          "id": "B",
+          "text": "Hợp đồng bị vô hiệu toàn bộ"
+        },
+        {
+          "id": "C",
+          "text": "Chuyển thành hợp đồng thử việc"
+        },
+        {
+          "id": "D",
+          "text": "Tạm hoãn thực hiện hợp đồng lao động"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 18 (Điều 30): người lao động thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia Dân quân tự vệ thuộc trường hợp tạm hoãn thực hiện hợp đồng lao động.",
+      "sourceSlides": [
+        18
+      ]
+    }
+  ]
+}

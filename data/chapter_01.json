@@ -1,0 +1,922 @@
+{
+  "documentId": "chapter_01",
+  "documentTitle": "Chương 1 - Tổng quan về quản trị nhân lực",
+  "sourceFile": "Chương 1 - Tổng quan về QTNL.pdf",
+  "totalSlides": 47,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Trong tài sản con người của một tổ chức, \"tâm lực\" đề cập đến nhóm yếu tố nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kiến thức, khả năng tư duy, kỹ năng chuyên môn"
+        },
+        {
+          "id": "B",
+          "text": "Sức khỏe thể chất của người lao động"
+        },
+        {
+          "id": "C",
+          "text": "Kinh nghiệm làm việc và thâm niên công tác"
+        },
+        {
+          "id": "D",
+          "text": "Phẩm chất, quan điểm sống, thái độ, cách ứng xử"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 7 chia tài sản con người thành ba thành phần: Tâm lực (phẩm chất, quan điểm sống, thái độ, cách ứng xử), Trí lực (kiến thức, khả năng tư duy, kỹ năng chuyên môn) và Thể lực (sức khỏe thể chất).",
+      "sourceSlides": [
+        7
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Theo Lê Trọng Hùng và cộng sự (2025), quản trị nhân lực được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bốn hoạt động lập kế hoạch, tổ chức, lãnh đạo, kiểm soát đối với mọi nguồn lực của tổ chức nhằm đạt mục tiêu đề ra một cách tối ưu"
+        },
+        {
+          "id": "B",
+          "text": "Hoạt động quản lý hồ sơ, chấm công, tính lương và đóng bảo hiểm cho người lao động theo đúng quy định của pháp luật lao động"
+        },
+        {
+          "id": "C",
+          "text": "Toàn bộ hoạt động thu hút, tuyển dụng, đào tạo, phát triển, sử dụng, đánh giá và giữ gìn lực lượng lao động hợp lý về số lượng, chất lượng"
+        },
+        {
+          "id": "D",
+          "text": "Hệ thống niềm tin, giá trị và nguyên lý về con người được nhà lãnh đạo đúc kết từ quá trình tìm hiểu về cuộc sống và xã hội"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 8 nêu định nghĩa QTNL là tất cả các hoạt động thu hút, tuyển dụng, đào tạo, phát triển, sử dụng, đánh giá, bảo toàn và giữ gìn lực lượng lao động hợp lý về số lượng và chất lượng. Định nghĩa \"4 hoạt động lập kế hoạch, tổ chức, lãnh đạo, kiểm soát\" (slide 6) là khái niệm \"quản trị\" nói chung.",
+      "sourceSlides": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Phương án nào là một trong bốn vai trò của quản trị nhân lực được nêu trong bài giảng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xây dựng hệ thống kế toán quản trị"
+        },
+        {
+          "id": "B",
+          "text": "Triển khai chiến lược kinh doanh"
+        },
+        {
+          "id": "C",
+          "text": "Xác định giá bán sản phẩm trên thị trường"
+        },
+        {
+          "id": "D",
+          "text": "Quản lý chuỗi cung ứng nguyên vật liệu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 10 nêu 4 vai trò của QTNL: phát triển và khai thác tiềm năng con người; triển khai chiến lược kinh doanh; nâng cao hiệu quả và năng lực cạnh tranh; tạo văn hóa và bầu không khí làm việc lành mạnh.",
+      "sourceSlides": [
+        10
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Theo nghiên cứu của Mark A. Huselid (1995) trên 968 công ty, khi áp dụng các phương pháp quản trị \"đặt con người làm trung tâm\" tăng thêm 1 độ lệch chuẩn thì tỷ lệ nghỉ việc thay đổi thế nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giảm 7,05%"
+        },
+        {
+          "id": "B",
+          "text": "Giảm 18,64%"
+        },
+        {
+          "id": "C",
+          "text": "Giảm 27,04%"
+        },
+        {
+          "id": "D",
+          "text": "Giảm 3,81%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 13: tỷ lệ nghỉ việc giảm 7,05%, doanh số tăng 27.044 USD, giá trị thị trường và lợi nhuận tăng lần lượt 18.641 USD và 3.814 USD.",
+      "sourceSlides": [
+        13
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Đối tượng của quản trị nhân lực là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toàn bộ tài sản cố định, vốn lưu động và các nguồn lực tài chính của doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Người lao động và các hoạt động liên quan như trách nhiệm, quyền lợi của họ trong tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Khách hàng, đối tác và các hoạt động chăm sóc, duy trì quan hệ với khách hàng"
+        },
+        {
+          "id": "D",
+          "text": "Hệ thống máy móc, thiết bị công nghệ và quy trình sản xuất của tổ chức"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 15: Đối tượng của QTNL là người lao động và các hoạt động liên quan đến người lao động như trách nhiệm và quyền lợi của họ trong tổ chức, doanh nghiệp.",
+      "sourceSlides": [
+        15
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Theo Mathis & Jackson (2010), hoạt động quản trị nhân lực được phân theo ba cấp bậc quản trị nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Nội dung QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chiến lược – Tác nghiệp – Hành chính"
+        },
+        {
+          "id": "B",
+          "text": "Lập kế hoạch – Tổ chức – Kiểm soát"
+        },
+        {
+          "id": "C",
+          "text": "Hình thành – Đào tạo và phát triển – Duy trì"
+        },
+        {
+          "id": "D",
+          "text": "Cấp cao – Cấp trung – Cấp cơ sở"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 19 trình bày cấp bậc quản trị gồm: Chiến lược, Tác nghiệp và Hành chính (Nguồn: Mathis & Jackson, 2010).",
+      "sourceSlides": [
+        19
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Theo Lê Trọng Hùng và cộng sự (2025), triết lý quản trị nhân lực là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Những tư tưởng, quan điểm của người lãnh đạo về cách thức quản lý con người trong tổ chức, doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Tập hợp hoặc hệ thống niềm tin, giá trị và nguyên lý được đúc kết từ quá trình tìm hiểu về cuộc sống và vũ trụ"
+        },
+        {
+          "id": "C",
+          "text": "Hệ thống quy định pháp luật về quyền và nghĩa vụ của người lao động"
+        },
+        {
+          "id": "D",
+          "text": "Bộ quy trình chuẩn về tuyển dụng, đào tạo và trả lương của doanh nghiệp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 24 định nghĩa triết lý QTNL là những tư tưởng, quan điểm của người lãnh đạo về cách thức quản lý con người. Phương án \"niềm tin, giá trị, nguyên lý… về cuộc sống và vũ trụ\" là định nghĩa triết lý nói chung theo từ điển Cambridge (slide 23).",
+      "sourceSlides": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Học thuyết nào cho rằng người lao động không thích làm việc, lười biếng, trốn tránh trách nhiệm và không thích sự thay đổi?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học thuyết Y"
+        },
+        {
+          "id": "B",
+          "text": "Học thuyết Z"
+        },
+        {
+          "id": "C",
+          "text": "Quan điểm hệ thống"
+        },
+        {
+          "id": "D",
+          "text": "Học thuyết X"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 30: Học thuyết X nhìn nhận người lao động không thích làm việc, lười biếng, trốn tránh trách nhiệm, không thích thay đổi. Học thuyết Y nhìn nhận ngược lại (thích làm việc, sáng tạo, tự định hướng).",
+      "sourceSlides": [
+        30
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Frederick Winslow Taylor và Frank Gilbreth là đại diện của nhánh tư tưởng nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quản lý hành chính thuộc trường phái cổ điển"
+        },
+        {
+          "id": "B",
+          "text": "Khoa học hành vi thuộc trường phái tâm lý – xã hội học"
+        },
+        {
+          "id": "C",
+          "text": "Khoa học quản lý thuộc trường phái cổ điển"
+        },
+        {
+          "id": "D",
+          "text": "Quan điểm hệ thống thuộc trường phái hiện đại"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 33: Khoa học quản lý (Scientific management) – Taylor, Gilbreth – tập trung nâng cao năng suất bằng cách tìm phương án tối ưu thực hiện công việc. Quản lý hành chính gắn với Henri Fayol và Max Weber.",
+      "sourceSlides": [
+        33
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Yếu tố nào sau đây thuộc nhóm yếu tố BÊN NGOÀI ảnh hưởng đến quản trị nhân lực?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Yếu tố ảnh hưởng đến QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Văn hóa tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Cơ cấu tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Đối thủ cạnh tranh"
+        },
+        {
+          "id": "D",
+          "text": "Quan điểm của nhà quản trị"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 39: nhóm yếu tố bên ngoài gồm bối cảnh kinh tế, thể chế chính sách, môi trường chính trị, văn hóa xã hội, nhân khẩu học, khoa học kỹ thuật, đối thủ cạnh tranh, khách hàng. Văn hóa tổ chức, cơ cấu tổ chức, quan điểm của nhà quản trị là yếu tố bên trong.",
+      "sourceSlides": [
+        39
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Nhận định nào mô tả đúng sự thay đổi vai trò của hoạt động QTNL từ quá khứ đến hiện tại?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Từ trung tâm lợi nhuận sang trung tâm chi phí, tập trung kiểm soát chặt chẽ ngân sách nhân sự"
+        },
+        {
+          "id": "B",
+          "text": "Từ kiểm soát linh hoạt, phát triển con người sang kiểm soát dựa vào quy định và sự tuân thủ"
+        },
+        {
+          "id": "C",
+          "text": "Từ gắn chặt với chiến lược công ty sang hoạt động độc lập, chỉ xử lý thủ tục hành chính nhân sự"
+        },
+        {
+          "id": "D",
+          "text": "Từ trung tâm chi phí, tập trung tuân thủ sang trung tâm lợi nhuận, tham gia hoạch định chiến lược"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 9 (Ivancevich & Konopaske, 2013): Quá khứ – không liên kết chiến lược, trung tâm chi phí, kiểm soát dựa vào quy định, tập trung tuân thủ. Hiện tại – vai trò quan trọng trong hoạch định chiến lược, trung tâm lợi nhuận, kiểm soát linh hoạt hơn, tập trung phát triển con người.",
+      "sourceSlides": [
+        9
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Nghiên cứu của Davenport, Harris và Shapiro (2010) được dẫn trong bài giảng cho thấy điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm, vai trò, đối tượng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức độ hài lòng của nhân viên ít ảnh hưởng đến doanh thu, chủ yếu chỉ tác động đến bầu không khí nội bộ"
+        },
+        {
+          "id": "B",
+          "text": "Tăng lương là yếu tố duy nhất quyết định doanh thu và lòng trung thành của khách hàng của bộ phận"
+        },
+        {
+          "id": "C",
+          "text": "Bộ phận có nhân viên hài lòng cao đạt doanh thu cao hơn, chi phí thấp hơn, giữ chân nhân viên tốt hơn"
+        },
+        {
+          "id": "D",
+          "text": "Bộ phận có tỷ lệ giữ chân nhân viên cao thường phát sinh chi phí vận hành và chi phí lương cao hơn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 14 (Competing on Talent Analytics, HBR 2010): bộ phận vận hành có mức độ hài lòng của nhân viên cao sẽ đạt doanh thu cao hơn, chi phí thấp hơn, tỷ lệ giữ chân lớn hơn và lòng trung thành của khách hàng vượt trội. Đây là bằng chứng cho vai trò của QTNL đối với kết quả kinh doanh.",
+      "sourceSlides": [
+        14
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Theo mô hình vòng đời nhân viên (SHRM) được trình bày, trình tự nào là hợp lý?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Nội dung QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo, phát triển → Thu hút, tuyển dụng → Giữ chân → Gắn kết, hội nhập → Nghỉ việc"
+        },
+        {
+          "id": "B",
+          "text": "Gắn kết, hội nhập → Thu hút, tuyển dụng → Nghỉ việc → Giữ chân → Đào tạo, phát triển"
+        },
+        {
+          "id": "C",
+          "text": "Thu hút, tuyển dụng → Giữ chân → Nghỉ việc → Đào tạo, phát triển → Gắn kết, hội nhập"
+        },
+        {
+          "id": "D",
+          "text": "Thu hút, tuyển dụng → Gắn kết, hội nhập → Đào tạo, phát triển → Giữ chân → Nghỉ việc"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 18 mô tả nội dung QTNL theo chức năng quản trị dưới dạng vòng đời nhân viên: thu hút – tuyển dụng, gắn kết – hội nhập, đào tạo – phát triển, giữ chân và nghỉ việc. Người lao động phải được tuyển và hội nhập trước khi được đào tạo, giữ chân và cuối cùng rời tổ chức.",
+      "sourceSlides": [
+        18
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Khi tiếp cận nội dung QTNL theo tiến trình quản lý, QTNL bao gồm những hoạt động nào nhằm mục đích gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Nội dung QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lập kế hoạch, tổ chức, lãnh đạo, kiểm soát nhằm xây dựng và sử dụng hiệu quả nhân lực để đạt mục tiêu"
+        },
+        {
+          "id": "B",
+          "text": "Tuyển dụng, đào tạo, trả lương và sa thải nhằm cắt giảm tối đa chi phí nhân công của tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Xây dựng chiến lược, hoạch định nhân sự, quản trị tri thức nhằm thay thế vai trò của các bộ phận khác"
+        },
+        {
+          "id": "D",
+          "text": "Đánh giá, đãi ngộ, quan hệ lao động nhằm bảo đảm tổ chức tuân thủ đúng pháp luật lao động hiện hành"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 20: theo tiến trình quản lý, QTNL gồm lập kế hoạch, tổ chức, lãnh đạo và kiểm soát – nhằm xây dựng và sử dụng hiệu quả nguồn nhân lực để đạt được mục tiêu của tổ chức.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Trong ba nhóm chức năng của QTNL, nhóm chức năng \"Duy trì\" bao gồm các hoạt động nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Chức năng QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đánh giá, đãi ngộ, sức khỏe lao động, quan hệ lao động"
+        },
+        {
+          "id": "B",
+          "text": "Thiết kế công việc, phân tích công việc, lập kế hoạch nhân lực, tuyển dụng"
+        },
+        {
+          "id": "C",
+          "text": "Nâng cao năng lực cho vị trí hiện tại và đảm bảo năng lực cho nhu cầu tương lai"
+        },
+        {
+          "id": "D",
+          "text": "Xây dựng chiến lược nhân sự, quản trị tri thức, đánh giá hiệu quả QTNL"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 21: Hình thành nhân lực (thiết kế, phân tích công việc, lập kế hoạch nhân lực, tuyển dụng); Đào tạo và phát triển (nâng cao năng lực hiện tại, đảm bảo năng lực tương lai); Duy trì – tạo động lực, duy trì cam kết (đánh giá, đãi ngộ, sức khỏe lao động, quan hệ lao động).",
+      "sourceSlides": [
+        21
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "So với học thuyết Y, cách thức quản lý theo học thuyết Z có điểm bổ sung nổi bật nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ huy, kiểm soát chặt chẽ và quản lý vi mô từng thao tác làm việc của người lao động"
+        },
+        {
+          "id": "B",
+          "text": "Xây dựng lòng tin, lòng trung thành, văn hóa hợp tác và quan tâm hạnh phúc, sức khỏe NLĐ"
+        },
+        {
+          "id": "C",
+          "text": "Dùng cơ chế thưởng – phạt (cây gậy và củ cà rốt) làm công cụ tạo động lực chủ yếu"
+        },
+        {
+          "id": "D",
+          "text": "Giao trách nhiệm, thử thách nhưng không cho người lao động tham gia vào việc ra quyết định"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 31: Thuyết Y – giao trách nhiệm, thử thách, cho phép tham gia ra quyết định. Thuyết Z – ngoài việc cho tham gia ra quyết định còn xây dựng lòng tin, lòng trung thành, văn hóa hợp tác, đào tạo phát triển, làm công việc hấp dẫn và quan tâm hạnh phúc, sức khỏe của NLĐ.",
+      "sourceSlides": [
+        31
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Hoạt động QTNL nào phản ánh ảnh hưởng của trường phái cổ điển?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo, yêu cầu nhân viên làm đúng cách đã hướng dẫn; tạo động lực bằng công cụ tài chính"
+        },
+        {
+          "id": "B",
+          "text": "Sử dụng bài đánh giá tâm lý trong tuyển dụng và trao quyền nhiều hơn cho nhân viên"
+        },
+        {
+          "id": "C",
+          "text": "Xây dựng đội nhóm, khuyến khích nhân viên học hỏi lẫn nhau và cải tiến liên tục"
+        },
+        {
+          "id": "D",
+          "text": "Cải thiện bầu không khí tổ chức và đề cao vai trò động viên, khuyến khích của quản lý"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 34: ảnh hưởng của trường phái cổ điển – tuyển dụng dựa vào kỹ năng, trả lương theo hiệu quả, đào tạo và yêu cầu làm theo cách đã hướng dẫn, tạo động lực bằng công cụ tài chính. Các phương án còn lại thuộc trường phái tâm lý – xã hội học (slide 36) hoặc hiện đại (slide 38).",
+      "sourceSlides": [
+        34,
+        36,
+        38
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Trong trường phái hiện đại, \"quan điểm hệ thống\" nhìn nhận tổ chức như thế nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là hệ thống mở, tương tác cả bên trong và với các yếu tố bên ngoài tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Là cỗ máy khép kín, cần tối ưu hóa từng thao tác để đạt năng suất cao nhất"
+        },
+        {
+          "id": "C",
+          "text": "Là cộng đồng mà người lao động có quyền kiểm soát toàn bộ quy trình làm việc"
+        },
+        {
+          "id": "D",
+          "text": "Là tập hợp các quy định được chuẩn hóa, thống nhất và áp đặt từ trên xuống"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 37: quan điểm hệ thống xem tổ chức là hệ thống mở (tương tác bên trong và với bên ngoài); quan điểm tình huống cho rằng cách quản trị phụ thuộc tình huống cụ thể; quan điểm chất lượng hướng tới \"không sản phẩm lỗi\".",
+      "sourceSlides": [
+        37
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Quan điểm chất lượng trong trường phái hiện đại nhấn mạnh điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cách thức quản trị phải thay đổi linh hoạt tùy theo từng tình huống cụ thể"
+        },
+        {
+          "id": "B",
+          "text": "Tổ chức cần vận hành như một cộng đồng gắn bó, quan tâm đời sống nhân viên"
+        },
+        {
+          "id": "C",
+          "text": "Giảm thiểu sai sót ở từng khâu, hướng tới mục tiêu \"Không sản phẩm lỗi\""
+        },
+        {
+          "id": "D",
+          "text": "Tập trung xây dựng phân cấp, phân quyền rõ ràng và chuyên môn hóa cao"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 37: Quan điểm chất lượng – giảm thiểu sai sót trong từng khâu sản xuất, thúc đẩy nhân viên nỗ lực vì mục tiêu \"Không sản phẩm lỗi\".",
+      "sourceSlides": [
+        37
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Đặc điểm nào đúng với mô hình phòng nhân sự tổ chức theo các chức năng của QTNL?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Mô hình tổ chức phòng nhân sự",
+      "options": [
+        {
+          "id": "A",
+          "text": "Không có bộ phận nhân sự riêng; nhiệm vụ nhân sự do giám đốc và các bộ phận khác kiêm nhiệm"
+        },
+        {
+          "id": "B",
+          "text": "Mỗi khu vực địa lý có Giám đốc nhân sự khu vực quản lý nhân viên nhân sự tại các chi nhánh"
+        },
+        {
+          "id": "C",
+          "text": "Trưởng phòng nhân sự đồng thời chịu sự quản lý của Giám đốc khu vực và Giám đốc nhân sự"
+        },
+        {
+          "id": "D",
+          "text": "Có bộ phận nhân sự riêng, quản lý tập trung, chia thành các phòng theo từng mảng chức năng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 43: mô hình có bộ phận riêng biệt phụ trách QTNL, tổ chức theo chức năng và quản lý tập trung với các trưởng phòng tuyển dụng, quan hệ lao động, đào tạo – phát triển, lương thưởng – phúc lợi, an toàn – sức khỏe. Các phương án khác lần lượt là mô hình kiêm nhiệm (slide 42), theo vùng (slide 44), ma trận (slide 45).",
+      "sourceSlides": [
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Năm 1996–1997, Nike bị cáo buộc khi công nhân gia công phải làm việc trong điều kiện tiếp xúc khí độc vượt giới hạn cho phép nhiều lần. Cách đối xử với người lao động trong tình huống này phản ánh quan điểm nào về con người?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Con người muốn được cư xử như những con người"
+        },
+        {
+          "id": "B",
+          "text": "Con người được xem như công cụ lao động"
+        },
+        {
+          "id": "C",
+          "text": "Con người có các tiềm năng cần được khai thác và phát triển"
+        },
+        {
+          "id": "D",
+          "text": "Con người cần được trao quyền tự quản"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 26 nêu 3 quan điểm về con người; tình huống Nike (slide 27) cho thấy người lao động bị đối xử như công cụ để tạo ra sản phẩm, bỏ qua sức khỏe và quyền lợi của họ – tương ứng quan điểm 1.",
+      "sourceSlides": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Một trưởng phòng thường xuyên theo sát từng thao tác của nhân viên, ra lệnh chi tiết và áp dụng thưởng – phạt để buộc nhân viên làm việc. Cách quản lý này phù hợp với học thuyết nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học thuyết Y"
+        },
+        {
+          "id": "B",
+          "text": "Học thuyết Z"
+        },
+        {
+          "id": "C",
+          "text": "Học thuyết X"
+        },
+        {
+          "id": "D",
+          "text": "Quan điểm tình huống"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 31: Học thuyết X quản lý bằng chỉ huy, kiểm soát (chuyên quyền), quản lý vi mô (micromanage) và thưởng – phạt (cây gậy và củ cà rốt), xuất phát từ giả định người lao động lười biếng (slide 30).",
+      "sourceSlides": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Công ty A cho nhân viên tham gia ra quyết định, đầu tư chương trình đào tạo, xây dựng văn hóa hợp tác, tổ chức khám sức khỏe và chương trình chăm lo hạnh phúc cho nhân viên nhằm tạo sự gắn bó lâu dài. Cách quản lý này thể hiện rõ nhất học thuyết nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Triết lý QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học thuyết Z"
+        },
+        {
+          "id": "B",
+          "text": "Học thuyết X"
+        },
+        {
+          "id": "C",
+          "text": "Học thuyết Y"
+        },
+        {
+          "id": "D",
+          "text": "Trường phái cổ điển"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 31: Học thuyết Z – cho phép tham gia ra quyết định, xây dựng lòng tin, lòng trung thành, văn hóa hợp tác, cung cấp đào tạo, làm công việc hấp dẫn và quan tâm hạnh phúc, sức khỏe của NLĐ. Việc chăm lo hạnh phúc, sức khỏe và gắn bó lâu dài là điểm phân biệt với học thuyết Y.",
+      "sourceSlides": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Một công ty nhỏ không có phòng nhân sự; Giám đốc trực tiếp tuyển dụng, còn bộ phận tài chính phụ trách lương, phúc lợi và bảo hiểm. Công ty đang áp dụng mô hình tổ chức nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Mô hình tổ chức phòng nhân sự",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mô hình tổ chức theo chức năng của QTNL"
+        },
+        {
+          "id": "B",
+          "text": "Mô hình kiêm nhiệm"
+        },
+        {
+          "id": "C",
+          "text": "Cấu trúc theo vùng/sản phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Cấu trúc ma trận"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 42: ở mô hình kiêm nhiệm, các hoạt động nhân sự (tuyển dụng; lương, phúc lợi, bảo hiểm) do chủ/giám đốc và các bộ phận khác như quản lý tài chính đảm nhiệm, không có bộ phận nhân sự riêng.",
+      "sourceSlides": [
+        42
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Một chuỗi bán lẻ có chi nhánh ở nhiều tỉnh. Dưới Giám đốc nhân sự là các Giám đốc nhân sự khu vực Bắc, Trung, Nam; mỗi khu vực quản lý nhân viên nhân sự tại các chi nhánh của mình. Đây là cấu trúc nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Mô hình tổ chức phòng nhân sự",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cấu trúc ma trận"
+        },
+        {
+          "id": "B",
+          "text": "Cấu trúc theo vùng/sản phẩm"
+        },
+        {
+          "id": "C",
+          "text": "Mô hình kiêm nhiệm"
+        },
+        {
+          "id": "D",
+          "text": "Mô hình theo chức năng, quản lý tập trung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 44: cấu trúc theo vùng/sản phẩm có Giám đốc nhân sự → Giám đốc nhân sự khu vực → nhân viên nhân sự chi nhánh, đúng như tình huống.",
+      "sourceSlides": [
+        44
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Tại một tập đoàn, Trưởng phòng Nhân sự của khu vực 2 vừa báo cáo cho Giám đốc khu vực 2, vừa chịu sự chỉ đạo chuyên môn của Giám đốc Nhân sự tập đoàn. Tập đoàn đang tổ chức theo cấu trúc nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Mô hình tổ chức phòng nhân sự",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cấu trúc theo vùng/sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Mô hình kiêm nhiệm"
+        },
+        {
+          "id": "C",
+          "text": "Cấu trúc ma trận"
+        },
+        {
+          "id": "D",
+          "text": "Mô hình tổ chức theo chức năng, quản lý tập trung"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 45: trong cấu trúc ma trận, các trưởng phòng ở mỗi khu vực (sản xuất, marketing, tài chính, nhân sự) đồng thời gắn với Giám đốc khu vực và Giám đốc chức năng tương ứng – tức có hai tuyến quản lý.",
+      "sourceSlides": [
+        45
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Nhà nước điều chỉnh tăng mức lương tối thiểu vùng khiến doanh nghiệp phải rà soát lại thang bảng lương và ngân sách nhân sự. Đây là ví dụ về tác động của yếu tố nào đến QTNL?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Yếu tố ảnh hưởng đến QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tài chính – yếu tố bên trong"
+        },
+        {
+          "id": "B",
+          "text": "Chiến lược, mục tiêu của tổ chức – yếu tố bên trong"
+        },
+        {
+          "id": "C",
+          "text": "Đối thủ cạnh tranh – yếu tố bên ngoài"
+        },
+        {
+          "id": "D",
+          "text": "Thể chế, chính sách – yếu tố bên ngoài"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 39 xếp \"thể chế, chính sách\" vào nhóm yếu tố bên ngoài. Slide 40 gợi ý thảo luận về thay đổi luật pháp ảnh hưởng tới QTNL; quy định lương tối thiểu là thay đổi chính sách từ bên ngoài buộc doanh nghiệp điều chỉnh hoạt động trả lương.",
+      "sourceSlides": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Một doanh nghiệp sử dụng phỏng vấn gây áp lực khi tuyển dụng, trao quyền cho nhân viên, cải thiện bầu không khí làm việc và kết hợp cả công cụ tài chính lẫn phi tài chính để thay đổi hành vi nhân viên. Doanh nghiệp chịu ảnh hưởng rõ nhất của trường phái nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trường phái cổ điển – khoa học quản lý"
+        },
+        {
+          "id": "B",
+          "text": "Trường phái tâm lý – xã hội học"
+        },
+        {
+          "id": "C",
+          "text": "Trường phái cổ điển – quản lý hành chính"
+        },
+        {
+          "id": "D",
+          "text": "Trường phái hiện đại – quan điểm chất lượng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 36 liệt kê ảnh hưởng của trường phái tâm lý – xã hội học: dùng bài đánh giá tâm lý trong tuyển dụng (phỏng vấn gây áp lực), trao quyền, cải thiện điều kiện và bầu không khí, xây dựng quan hệ chất lượng, áp dụng công cụ tài chính và phi tài chính.",
+      "sourceSlides": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Một nhà máy thành lập các nhóm cải tiến, tổ chức đào tạo thường xuyên, khuyến khích nhân viên học hỏi lẫn nhau và tham gia vào quá trình cải tiến liên tục. Cách làm này chịu ảnh hưởng của trường phái nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Trường phái QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trường phái cổ điển"
+        },
+        {
+          "id": "B",
+          "text": "Trường phái hiện đại"
+        },
+        {
+          "id": "C",
+          "text": "Trường phái tâm lý – xã hội học"
+        },
+        {
+          "id": "D",
+          "text": "Học thuyết X"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 38: ảnh hưởng của trường phái hiện đại tới QTNL gồm xây dựng đội nhóm, xây dựng lòng tin, tổ chức đào tạo thường xuyên, khuyến khích học hỏi lẫn nhau và khuyến khích NLĐ tham gia cải tiến liên tục.",
+      "sourceSlides": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Giám đốc nhân sự của một công ty đang tập trung xây dựng chiến lược nhân sự 5 năm, hoạch định nhân sự và đánh giá hiệu quả của các hoạt động QTNL. Các công việc này thuộc cấp bậc quản trị nào theo Mathis & Jackson?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Nội dung QTNL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cấp tác nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Cấp hành chính"
+        },
+        {
+          "id": "C",
+          "text": "Cấp thừa hành"
+        },
+        {
+          "id": "D",
+          "text": "Cấp chiến lược"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 19: cấp chiến lược gồm xây dựng chiến lược nhân sự, hoạch định nhân sự, quản trị tri thức, đánh giá hiệu quả của QTNL. Các hoạt động như tuyển dụng, đào tạo, lưu trữ hồ sơ, trả lương thuộc các cấp thấp hơn.",
+      "sourceSlides": [
+        19
+      ]
+    }
+  ]
+}

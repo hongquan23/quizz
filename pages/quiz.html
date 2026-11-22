@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="vi" data-root="..">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bộ đề – Luyện thi Quản trị nhân lực</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Cpath d=%27M3 8h10l3 3h13v16H3z%27 fill=%27%230f6e6a%27/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/quiz.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true"></span><span>Luyện thi Quản trị nhân lực</span></a>
+      <div class="header-actions">
+        <button id="theme-toggle" class="btn btn-ghost icon-btn" type="button" aria-pressed="false" aria-label="Chuyển giao diện tối"></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="quiz-root">
+    <p class="loading">Đang tải bộ đề…</p>
+
+    <!-- Trang chi tiết bộ đề -->
+    <section id="view-detail" class="view" hidden>
+      <a class="back-link" href="../index.html">Tất cả bộ đề</a>
+      <div class="detail-head">
+        <span class="detail-tab" id="detail-tab" aria-hidden="true"><small>Chương</small><b id="detail-num"></b></span>
+        <div>
+          <h1 id="detail-title"></h1>
+          <p class="detail-desc" id="detail-desc"></p>
+        </div>
+      </div>
+
+      <div class="detail-grid">
+        <div class="panel">
+          <h2>Thông tin bộ đề</h2>
+          <dl class="facts" id="detail-facts"></dl>
+          <h3>Chủ đề trong bộ đề</h3>
+          <ul class="topic-list" id="detail-topics"></ul>
+        </div>
+
+        <div class="panel">
+          <h2>Chọn chế độ</h2>
+          <fieldset class="modes">
+            <legend class="visually-hidden">Chế độ làm bài</legend>
+            <label class="mode">
+              <input type="radio" name="mode" value="practice" checked>
+              <span class="mode-body">
+                <b>Luyện tập</b>
+                <span>Xem đúng/sai và lời giải thích ngay sau mỗi câu. Không tính giờ, tiến độ được lưu lại.</span>
+              </span>
+            </label>
+            <label class="mode">
+              <input type="radio" name="mode" value="exam">
+              <span class="mode-body">
+                <b>Thi thử</b>
+                <span id="exam-mode-desc">Làm cả 30 câu trong 30 phút, chỉ xem đáp án sau khi nộp bài. Hết giờ bài sẽ tự nộp.</span>
+              </span>
+            </label>
+          </fieldset>
+          <label class="check"><input type="checkbox" id="opt-shuffle"> Trộn thứ tự câu hỏi</label>
+          <button class="btn btn-primary btn-block" id="start-btn" type="button">Bắt đầu luyện tập</button>
+          <div class="history" id="detail-history"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chế độ luyện tập -->
+    <section id="view-practice" class="view" hidden>
+      <div class="run-bar">
+        <button class="btn btn-ghost" type="button" data-action="exit">Thoát</button>
+        <div class="run-progress">
+          <span id="p-count"></span>
+          <span class="meter"><i id="p-meter"></i></span>
+        </div>
+        <span class="run-score" id="p-score"></span>
+      </div>
+
+      <article class="q-card" id="p-card" aria-live="polite"></article>
+
+      <div class="q-nav">
+        <button class="btn" type="button" id="p-prev">Câu trước</button>
+        <button class="btn btn-ghost btn-danger" type="button" id="p-reset">Làm lại từ đầu</button>
+        <button class="btn btn-primary" type="button" id="p-next">Câu tiếp theo</button>
+      </div>
+      <p class="kbd-hint">Phím tắt: A–D hoặc 1–4 để chọn, ← → để chuyển câu.</p>
+    </section>
+
+    <!-- Chế độ thi -->
+    <section id="view-exam" class="view" hidden>
+      <div class="run-bar exam-bar">
+        <span class="timer" id="e-timer" role="timer" aria-live="off">30:00</span>
+        <span class="run-progress"><span id="e-count"></span><span class="meter"><i id="e-meter"></i></span></span>
+        <button class="btn btn-primary" type="button" id="e-submit">Nộp bài</button>
+      </div>
+
+      <div class="exam-layout">
+        <div>
+          <article class="q-card" id="e-card"></article>
+          <div class="q-nav">
+            <button class="btn" type="button" id="e-prev">Câu trước</button>
+            <button class="btn btn-ghost" type="button" id="e-flag" aria-pressed="false">Đánh dấu xem lại</button>
+            <button class="btn" type="button" id="e-next">Câu tiếp theo</button>
+          </div>
+          <p class="kbd-hint">Phím tắt: A–D hoặc 1–4 để chọn, ← → để chuyển câu, F để đánh dấu.</p>
+        </div>
+        <aside class="panel navigator" aria-label="Danh sách câu hỏi">
+          <h2>Danh sách câu</h2>
+          <div class="nav-grid" id="e-grid"></div>
+          <ul class="legend">
+            <li><i class="dot answered"></i>Đã trả lời</li>
+            <li><i class="dot"></i>Chưa trả lời</li>
+            <li><i class="dot flagged"></i>Cần xem lại</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <dialog id="confirm-dialog" class="dialog">
+      <form method="dialog">
+        <h2 id="confirm-title">Nộp bài?</h2>
+        <p id="confirm-text"></p>
+        <div class="dialog-actions">
+          <button class="btn" value="cancel" type="submit">Làm tiếp</button>
+          <button class="btn btn-primary" value="ok" type="submit" id="confirm-ok">Nộp bài</button>
+        </div>
+      </form>
+    </dialog>
+  </main>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/data-loader.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/quiz.js"></script>
+</body>
+</html>

@@ -1,0 +1,921 @@
+{
+  "documentId": "chapter_07",
+  "documentTitle": "Chương 7 - Tiền lương và phúc lợi",
+  "sourceFile": "Chương 7 - Tiền lương và phúc lợi.pdf",
+  "totalSlides": 93,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Theo Điều 90 Bộ luật Lao động 2019, tiền lương bao gồm những khoản nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và phân loại tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức lương theo công việc/chức danh, phụ cấp lương và khoản bổ sung khác"
+        },
+        {
+          "id": "B",
+          "text": "Chỉ gồm mức lương cơ bản được ghi cụ thể trong hợp đồng lao động"
+        },
+        {
+          "id": "C",
+          "text": "Mức lương, tiền đóng bảo hiểm xã hội và các khoản phúc lợi tự nguyện"
+        },
+        {
+          "id": "D",
+          "text": "Mức lương, tiền thưởng cuối năm và các khoản hỗ trợ cho gia đình NLĐ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 5: tiền lương là số tiền NSDLĐ trả cho NLĐ theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác (Điều 90 BLLĐ 2019).",
+      "sourceSlides": [
+        5
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Theo slide, mức lương tối thiểu tháng của Vùng I có hiệu lực từ ngày 01/01/2026 là bao nhiêu?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và phân loại tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.730.000 đồng/tháng"
+        },
+        {
+          "id": "B",
+          "text": "5.310.000 đồng/tháng"
+        },
+        {
+          "id": "C",
+          "text": "4.140.000 đồng/tháng"
+        },
+        {
+          "id": "D",
+          "text": "3.700.000 đồng/tháng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 10: lương tối thiểu tháng từ 01/01/2026 – Vùng I 5.310.000; Vùng II 4.730.000; Vùng III 4.140.000; Vùng IV 3.700.000 đồng/tháng.",
+      "sourceSlides": [
+        10
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Theo slide, mức lương cơ sở hiện nay (Nghị định 161/2026/NĐ-CP) là bao nhiêu?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và phân loại tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.530.000 đồng/tháng"
+        },
+        {
+          "id": "B",
+          "text": "2.340.000 đồng/tháng"
+        },
+        {
+          "id": "C",
+          "text": "5.310.000 đồng/tháng"
+        },
+        {
+          "id": "D",
+          "text": "1.800.000 đồng/tháng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 12: mức lương cơ sở hiện nay là 2.530.000 đồng/tháng – làm căn cứ tính lương, phụ cấp cho người làm việc trong cơ quan, tổ chức, đơn vị sự nghiệp công lập.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "\"Số tiền mà người sử dụng lao động thỏa thuận trả cho người lao động và được ghi cụ thể trên hợp đồng lao động\" là khái niệm nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và phân loại tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiền lương tối thiểu"
+        },
+        {
+          "id": "B",
+          "text": "Tiền lương cơ bản"
+        },
+        {
+          "id": "C",
+          "text": "Tiền lương cơ sở"
+        },
+        {
+          "id": "D",
+          "text": "Tiền lương thực tế"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 11: tiền lương cơ bản là số tiền NSDLĐ thỏa thuận trả cho NLĐ và ghi cụ thể trên HĐLĐ; tiền lương tối thiểu là mức thấp nhất cho công việc đơn giản nhất trong điều kiện bình thường.",
+      "sourceSlides": [
+        11
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Theo Nghị định 145/2020/NĐ-CP được trích trong bài giảng, thời gian làm việc ban đêm được tính từ mấy giờ?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Từ 21 giờ ngày hôm trước đến 05 giờ sáng ngày hôm sau"
+        },
+        {
+          "id": "B",
+          "text": "Từ 23 giờ ngày hôm trước đến 07 giờ sáng ngày hôm sau"
+        },
+        {
+          "id": "C",
+          "text": "Từ 22 giờ ngày hôm trước đến 06 giờ sáng ngày hôm sau"
+        },
+        {
+          "id": "D",
+          "text": "Từ 18 giờ đến 06 giờ sáng ngày hôm sau"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 48: thời gian làm việc ban đêm từ 22 giờ ngày hôm trước đến 06 giờ sáng ngày hôm sau.",
+      "sourceSlides": [
+        48
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Khoản nào sau đây là phúc lợi BẮT BUỘC?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phúc lợi",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bảo hiểm sức khỏe cho người lao động và người thân"
+        },
+        {
+          "id": "B",
+          "text": "Du lịch hằng năm"
+        },
+        {
+          "id": "C",
+          "text": "Tài trợ học phí"
+        },
+        {
+          "id": "D",
+          "text": "Bảo hiểm thất nghiệp"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 81–82: phúc lợi bắt buộc là khoản tối thiểu doanh nghiệp phải thực hiện theo pháp luật (BHXH, BHYT, BHTN, ngày nghỉ hưởng lương, trợ cấp thôi việc, mất việc). Bảo hiểm sức khỏe, du lịch, tài trợ học phí là phúc lợi không bắt buộc (slide 85).",
+      "sourceSlides": [
+        81,
+        82,
+        85
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Theo bảng trên slide, đối với lao động Việt Nam, tổng tỷ lệ bảo hiểm bắt buộc người lao động phải đóng là bao nhiêu?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phúc lợi",
+      "options": [
+        {
+          "id": "A",
+          "text": "8%"
+        },
+        {
+          "id": "B",
+          "text": "21,5%"
+        },
+        {
+          "id": "C",
+          "text": "10,5%"
+        },
+        {
+          "id": "D",
+          "text": "32%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 83: NLĐ Việt Nam đóng BHXH 8% + BHTN 1% + BHYT 1,5% = 10,5%; doanh nghiệp đóng 21,5%; tổng cộng 32%.",
+      "sourceSlides": [
+        83
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Trong hệ thống trả lương 3P, ba chữ P lần lượt đại diện cho những yếu tố nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "P1 – Năng lực; P2 – Kết quả; P3 – Phúc lợi"
+        },
+        {
+          "id": "B",
+          "text": "P1 – Kết quả; P2 – Vị trí; P3 – Thâm niên"
+        },
+        {
+          "id": "C",
+          "text": "P1 – Vị trí; P2 – Năng lực; P3 – Kết quả"
+        },
+        {
+          "id": "D",
+          "text": "P1 – Vị trí; P2 – Phụ cấp; P3 – Phúc lợi"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 75: trả lương 3P dựa trên chức danh công việc, năng lực cá nhân và thành tích – Tiền lương = P1 (Vị trí) + P2 (Năng lực) + P3 (Kết quả).",
+      "sourceSlides": [
+        75
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Chức năng \"điều hòa lao động\" của tiền lương thể hiện ở hiện tượng nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Vai trò và chức năng tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhà quản trị theo dõi hiệu quả làm việc của NLĐ để trả lương"
+        },
+        {
+          "id": "B",
+          "text": "Tiền lương là khoản thu nhập để phòng trừ khi gặp rủi ro"
+        },
+        {
+          "id": "C",
+          "text": "Lao động dịch chuyển từ nơi lương thấp đến nơi lương cao hơn"
+        },
+        {
+          "id": "D",
+          "text": "Tiền lương là công cụ bảo vệ quyền và lợi ích của NLĐ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 18: Giám sát lao động – theo dõi hiệu quả để trả lương; Điều hòa lao động – lao động dịch chuyển từ nơi lương thấp đến nơi lương cao; Công cụ quản lý nhà nước – bảo vệ quyền lợi NLĐ. Slide 17: Tích lũy – thu nhập phòng trừ rủi ro.",
+      "sourceSlides": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Trả lương khoán thường được áp dụng cho loại công việc nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Công việc ổn định, không phụ thuộc vào sản lượng hay hiệu quả"
+        },
+        {
+          "id": "B",
+          "text": "Công việc tính chất dự án, khó chia nhỏ thành sản phẩm đồng nhất"
+        },
+        {
+          "id": "C",
+          "text": "Công việc có sản phẩm đo lường rõ ràng theo từng đơn vị sản phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Công việc của công nhân phụ phục vụ cho công nhân sản xuất chính"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 74: lương khoán trả căn cứ vào khối lượng, chất lượng công việc và thời gian phải hoàn thành; thường áp dụng cho công việc tính chất dự án, khó chia nhỏ thành đơn vị sản phẩm đồng nhất.",
+      "sourceSlides": [
+        74
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Tiền lương thực tế (Wr) khác tiền lương danh nghĩa (Wn) như thế nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và phân loại tiền lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wr là số tiền ghi trên hợp đồng; Wn là số tiền thực lĩnh sau các khoản khấu trừ"
+        },
+        {
+          "id": "B",
+          "text": "Wr bằng Wn nhân với CPI, phản ánh giá trị hiện tại của khoản lương được nhận"
+        },
+        {
+          "id": "C",
+          "text": "Wr là mức lương tối thiểu vùng; Wn là mức lương cơ sở do Nhà nước quy định"
+        },
+        {
+          "id": "D",
+          "text": "Wr là Wn đã điều chỉnh theo chỉ số giá tiêu dùng (Wr = Wn/CPI), phản ánh sức mua"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 6: tiền lương danh nghĩa phản ánh giá trị hiện tại của tiền lương NLĐ nhận được; tiền lương thực tế là lương danh nghĩa điều chỉnh theo giá tiêu dùng, phản ánh sức mua: Wr = Wn / CPI.",
+      "sourceSlides": [
+        6
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Nguyên tắc trả lương nào liên quan đến mối quan hệ giữa năng suất lao động và tiền lương?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Yêu cầu và nguyên tắc trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đảm bảo tốc độ tăng tiền lương bình quân lớn hơn tốc độ tăng năng suất lao động"
+        },
+        {
+          "id": "B",
+          "text": "Đảm bảo tốc độ tăng năng suất lao động lớn hơn tốc độ tăng tiền lương bình quân"
+        },
+        {
+          "id": "C",
+          "text": "Tiền lương phải tăng đều hằng năm bất kể năng suất"
+        },
+        {
+          "id": "D",
+          "text": "Năng suất lao động và tiền lương không liên quan đến nhau"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 21: ba nguyên tắc – trả lương theo số lượng và chất lượng lao động; tốc độ tăng NSLĐ lớn hơn tốc độ tăng tiền lương bình quân; đảm bảo quan hệ hợp lý về tiền lương giữa các nghề khác nhau.",
+      "sourceSlides": [
+        21
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Khi so sánh mức lương của một vị trí công việc với các vị trí công việc khác trong cùng tổ chức, ta đang xem xét loại công bằng nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Yêu cầu và nguyên tắc trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Công bằng bên ngoài"
+        },
+        {
+          "id": "B",
+          "text": "Công bằng nội bộ"
+        },
+        {
+          "id": "C",
+          "text": "Công bằng cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Công bằng quy trình"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 24 (Dessler, 2020): công bằng bên ngoài – so với thị trường/tổ chức khác; công bằng nội bộ – so với các vị trí khác trong tổ chức; công bằng cá nhân – so với người cùng vị trí; công bằng quy trình – công bằng trong quy trình ra quyết định phân bổ lương.",
+      "sourceSlides": [
+        24
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Theo thuyết Công bằng, người lao động đánh giá sự công bằng dựa trên điều gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Yêu cầu và nguyên tắc trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức lương tuyệt đối nhận được, so với mức lương tối thiểu vùng tại nơi làm việc"
+        },
+        {
+          "id": "B",
+          "text": "Số năm làm việc tại tổ chức, so với thâm niên của các đồng nghiệp cùng phòng"
+        },
+        {
+          "id": "C",
+          "text": "Mức lương được ghi trong hợp đồng, so với mức lương cơ sở do Nhà nước quy định"
+        },
+        {
+          "id": "D",
+          "text": "Tỉ lệ giữa kết quả nhận được và đầu vào bỏ ra, so với người khác hoặc chính mình"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 22–23: công bằng phản ánh qua tỉ lệ giữa những gì NLĐ bỏ ra và những gì họ nhận được; NLĐ có xu hướng so sánh tỉ lệ này với người khác hoặc với bản thân ở thời điểm khác. Tỉ lệ bằng nhau → công bằng, chênh lệch → không công bằng.",
+      "sourceSlides": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Vì sao trả lương theo thời gian có hạn chế trong việc thúc đẩy hiệu suất?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì công thức tính quá phức tạp, khó áp dụng và khó quản lý trong thực tế doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Vì lương gắn với thời gian làm việc, không gắn với sản lượng hay hiệu quả công việc"
+        },
+        {
+          "id": "C",
+          "text": "Vì hình thức này không khuyến khích người lao động tuân thủ thời gian làm việc"
+        },
+        {
+          "id": "D",
+          "text": "Vì hình thức này chỉ áp dụng được cho công nhân sản xuất trực tiếp trên dây chuyền"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 44: lương thời gian TL = ML × T(tt), áp dụng cho công việc ổn định, không phụ thuộc sản lượng. Slide 46: ưu điểm đơn giản, khuyến khích tuân thủ giờ giấc; nhược điểm thiếu khích lệ hiệu suất cao, không khuyến khích sáng tạo, khó ghi nhận nỗ lực.",
+      "sourceSlides": [
+        44,
+        46
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Trả lương theo sản phẩm phù hợp với loại công việc nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Công việc có tính chất dự án, khó chia nhỏ thành đơn vị sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Công việc hành chính ổn định, không phụ thuộc vào sản lượng làm ra"
+        },
+        {
+          "id": "C",
+          "text": "Công việc nghiên cứu, sáng tạo có kết quả khó định lượng cụ thể"
+        },
+        {
+          "id": "D",
+          "text": "Công việc có kết quả, năng suất, chất lượng sản phẩm đo lường rõ ràng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 52: trả lương theo sản phẩm áp dụng cho công việc mà kết quả, năng suất và chất lượng sản phẩm đo lường rõ ràng; TL(sp) = ĐG × SL(tt).",
+      "sourceSlides": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Cấu trúc dải lương băng rộng (Broadband) có đặc điểm gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Thang lương, bảng lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gộp một vài ngạch lương thành một dải, thường dựa theo cấp bậc sự nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Mỗi bậc lương chỉ có một mức lương cố định duy nhất, không có khoảng dao động"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ áp dụng cho cán bộ, công chức trong các cơ quan, đơn vị sự nghiệp nhà nước"
+        },
+        {
+          "id": "D",
+          "text": "Tách mỗi ngạch lương thành nhiều thang lương riêng biệt cho từng phòng ban"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 31: dải băng rộng gộp một vài ngạch lương (grades) thành một dải, thường dựa theo cấp bậc sự nghiệp (ví dụ Associate, Technical, Management, Leadership – slide 32).",
+      "sourceSlides": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Trong quy trình xây dựng thang lương (Mathis & Jackson, 2010), khảo sát lương cung cấp thông tin gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Thang lương, bảng lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dải lương cho từng bậc công việc theo mức chi trả của thị trường"
+        },
+        {
+          "id": "B",
+          "text": "Giá trị và thứ bậc của từng vị trí công việc trong nội bộ tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Danh sách nhiệm vụ, trách nhiệm và điều kiện làm việc của từng vị trí"
+        },
+        {
+          "id": "D",
+          "text": "Số ngày công thực tế và số giờ làm thêm của từng nhân viên trong tháng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 33: phân tích công việc → đánh giá vị trí công việc (giá trị/bậc vị trí) và khảo sát lương (dải lương cho bậc công việc), kết hợp triết lý, chiến lược chi trả → thang lương.",
+      "sourceSlides": [
+        33
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Phúc lợi khác tiền lương ở điểm nào theo khái niệm trong bài giảng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phúc lợi",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phúc lợi là thù lao NLĐ nhận gián tiếp, dưới dạng hỗ trợ cuộc sống"
+        },
+        {
+          "id": "B",
+          "text": "Phúc lợi là khoản trả trực tiếp căn cứ theo sản lượng mà NLĐ làm ra"
+        },
+        {
+          "id": "C",
+          "text": "Phúc lợi là khoản tiền được ghi cụ thể trên hợp đồng lao động của NLĐ"
+        },
+        {
+          "id": "D",
+          "text": "Phúc lợi chỉ gồm tiền thưởng cuối năm và thưởng các ngày lễ, Tết"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 80: phúc lợi là những khoản thù lao NLĐ có thể nhận được một cách gián tiếp và được trả dưới dạng hỗ trợ cho cuộc sống của NLĐ.",
+      "sourceSlides": [
+        80
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Theo Điều 93 Bộ luật Lao động 2019, yêu cầu nào đúng đối với thang lương, bảng lương và định mức lao động?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Yêu cầu và nguyên tắc trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phải tham khảo tổ chức đại diện NLĐ (nếu có) và công bố công khai trước khi thực hiện"
+        },
+        {
+          "id": "B",
+          "text": "Chỉ cần giám đốc phê duyệt và lưu hồ sơ nội bộ, không bắt buộc công bố cho NLĐ"
+        },
+        {
+          "id": "C",
+          "text": "Mức lao động phải là mức cao nhất mà chỉ một số ít người lao động giỏi đạt được"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ bắt buộc với doanh nghiệp nhà nước, doanh nghiệp tư nhân được tự lựa chọn"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 20: NSDLĐ phải xây dựng thang lương, bảng lương, định mức; mức lao động là mức trung bình đa số thực hiện được và phải áp dụng thử; phải tham khảo ý kiến tổ chức đại diện NLĐ tại cơ sở; phải công bố công khai tại nơi làm việc trước khi thực hiện.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Nhân viên A có mức lương 9.200.000 đồng/tháng, ngày công tiêu chuẩn trong tháng là 23 ngày, số ngày làm việc thực tế là 20 ngày. Tiền lương theo thời gian của A trong tháng là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.200.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "8.000.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "7.666.667 đồng"
+        },
+        {
+          "id": "D",
+          "text": "8.400.000 đồng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Áp dụng TL(tg) = ML × T(tt) (slide 44) như ví dụ 7.1 (slide 45): (9.200.000 ÷ 23) × 20 = 400.000 × 20 = 8.000.000 đồng.",
+      "sourceSlides": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Công nhân B có mức lương cấp bậc công việc 400.000 đồng/ngày, mức sản lượng 8 sản phẩm/ca. Trong tháng B hoàn thành 300 sản phẩm. Tiền lương sản phẩm của B là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "12.000.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "16.000.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "15.000.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "9.600.000 đồng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 54–55: ĐG = MLcbcv / Msl = 400.000 ÷ 8 = 50.000 đồng/sản phẩm; TLsp = ĐG × SLtt = 50.000 × 300 = 15.000.000 đồng.",
+      "sourceSlides": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Nhân viên có tiền lương giờ ngày thường là 50.000 đồng, làm thêm 4 giờ vào ban ngày của ngày nghỉ hằng tuần. Theo Nghị định 145/2020/NĐ-CP, tiền lương làm thêm giờ tối thiểu là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "300.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "600.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "200.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "400.000 đồng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 49: tiền lương làm thêm = lương giờ ngày thường × mức ít nhất 150% (ngày thường) / 200% (ngày nghỉ cuối tuần) / 300% (lễ, tết) × số giờ làm thêm. Ngày nghỉ hằng tuần: 50.000 × 200% × 4 = 400.000 đồng.",
+      "sourceSlides": [
+        49
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Công nhân có tiền lương giờ ngày thường 40.000 đồng, làm việc 8 giờ trong khung 22h–06h (không phải làm thêm giờ). Tiền lương làm việc ban đêm tối thiểu cho 8 giờ này là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "320.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "480.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "96.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "416.000 đồng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 48: tiền lương làm việc ban đêm = lương giờ ngày thường + lương giờ ngày thường × ít nhất 30%, nhân số giờ làm ban đêm: (40.000 + 40.000 × 30%) × 8 = 52.000 × 8 = 416.000 đồng.",
+      "sourceSlides": [
+        48
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Tổ công nhân hưởng lương sản phẩm lũy tiến: đơn giá 100.000 đ/sp cho 200 sản phẩm đầu (mức khởi điểm); từ sản phẩm 201–250 đơn giá 110.000 đ/sp; từ 251 trở lên 120.000 đ/sp. Tổ hoàn thành 280 sản phẩm đạt chất lượng. Tiền lương của tổ là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "28.000.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "29.100.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "33.600.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "30.800.000 đồng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 70–71: sản phẩm trong mức khởi điểm tính đơn giá thường, phần vượt tính đơn giá lũy tiến: 200 × 100.000 + 50 × 110.000 + 30 × 120.000 = 20.000.000 + 5.500.000 + 3.600.000 = 29.100.000 đồng.",
+      "sourceSlides": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Nhân viên bán hàng được trả: lương cứng 8.000.000 đ/tháng + 2% doanh số. Trong tháng, nhân viên bán được 150.000.000 đồng. Tổng lương tháng là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.000.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "8.000.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "10.000.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "38.000.000 đồng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tương tự ví dụ 7.4 (slide 69): 8.000.000 + 2% × 150.000.000 = 8.000.000 + 3.000.000 = 11.000.000 đồng.",
+      "sourceSlides": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Tổ công nhân nhận tiền lương sản phẩm tập thể 60.000.000 đồng. Thời gian làm việc thực tế: An 26 ngày, Bình 24 ngày, Cường 25 ngày. Chia theo thời gian làm việc thực tế, An nhận được bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "20.000.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "19.200.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "22.000.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "20.800.000 đồng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 64: TLcni = TLspt × Tcni / ΣTcni = 60.000.000 × 26 / (26 + 24 + 25) = 60.000.000 × 26 / 75 = 20.800.000 đồng.",
+      "sourceSlides": [
+        64
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Tổ công nhân có tiền lương sản phẩm cả tổ 72.000.000 đồng, tổng tiền lương thời gian của cả tổ là 60.000.000 đồng. Công nhân C có tiền lương thời gian 15.000.000 đồng. Phân phối theo hệ số điều chỉnh, C nhận bao nhiêu (chưa trừ bảo hiểm)?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Hình thức trả lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.000.000 đồng"
+        },
+        {
+          "id": "B",
+          "text": "12.500.000 đồng"
+        },
+        {
+          "id": "C",
+          "text": "18.000.000 đồng"
+        },
+        {
+          "id": "D",
+          "text": "14.400.000 đồng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 60: Kđc = TLspt / TLtgt = 72.000.000 / 60.000.000 = 1,2; TLcni = TLtgti × Kđc = 15.000.000 × 1,2 = 18.000.000 đồng.",
+      "sourceSlides": [
+        60,
+        63
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Một công ty công nghệ muốn thu hút và giữ chân kỹ sư giỏi trong bối cảnh cạnh tranh nhân tài gay gắt nên chủ trương trả lương cao hơn mặt bằng thị trường. Công ty nên định vị mức lương theo phân vị nào trong khảo sát lương?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Thang lương, bảng lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "P50"
+        },
+        {
+          "id": "B",
+          "text": "P25"
+        },
+        {
+          "id": "C",
+          "text": "P75"
+        },
+        {
+          "id": "D",
+          "text": "P10"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 35 (triết lý trả lương): P75 – trả cao hơn thị trường; P50 – trả bằng thị trường; P25 – trả thấp hơn thị trường.",
+      "sourceSlides": [
+        35
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Khi rà soát thang lương mới, công ty phát hiện một nhân viên có mức lương thấp hơn mức tối thiểu của ngạch/nhóm lương tương ứng với vị trí. Cách xử lý được nêu trong bài giảng là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Thang lương, bảng lương",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng lương lên mức tối thiểu của ngạch/nhóm lương tương đương"
+        },
+        {
+          "id": "B",
+          "text": "Thăng chức ngay cho nhân viên lên ngạch lương cao hơn"
+        },
+        {
+          "id": "C",
+          "text": "Giữ nguyên lương hiện tại, chỉ tăng phụ cấp và tiền thưởng"
+        },
+        {
+          "id": "D",
+          "text": "Giữ nguyên lương và chờ đến khi điều chỉnh lại khung lương"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 38: dưới khung lương – tăng mức lương lên mức tối thiểu trong ngạch/nhóm lương tương đương. Các phương án còn lại (thăng chức, giữ lương tăng phụ cấp/thưởng, chờ điều chỉnh khung) là cách xử lý khi vượt khung lương.",
+      "sourceSlides": [
+        38
+      ]
+    }
+  ]
+}

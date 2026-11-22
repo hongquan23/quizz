@@ -1,0 +1,919 @@
+{
+  "documentId": "chapter_04",
+  "documentTitle": "Chương 4 - Tuyển dụng và bố trí nhân lực",
+  "sourceFile": "Chương 4 - Tuyển dụng nhân lực và bố trí nhân lực.pdf",
+  "totalSlides": 57,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Quá trình tìm kiếm, thu hút và tiếp cận các ứng viên phù hợp với các vị trí công việc trong tổ chức được gọi là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuyển chọn nhân lực"
+        },
+        {
+          "id": "B",
+          "text": "Bố trí nhân lực"
+        },
+        {
+          "id": "C",
+          "text": "Xác định nhu cầu tuyển dụng"
+        },
+        {
+          "id": "D",
+          "text": "Tuyển mộ nhân lực"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 14 định nghĩa tuyển mộ là quá trình tìm kiếm, thu hút và tiếp cận ứng viên. Tuyển chọn (slide 32) là sàng lọc, lựa chọn trong số ứng viên đã thu hút được.",
+      "sourceSlides": [
+        14,
+        32
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Theo Lê Trọng Hùng và cộng sự (2025), nội dung của tuyển dụng nhân lực gồm những hoạt động nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, nội dung tuyển dụng",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuyển mộ – Tuyển chọn – Đào tạo hội nhập"
+        },
+        {
+          "id": "B",
+          "text": "Xác định nhu cầu tuyển dụng – Tuyển mộ – Tuyển chọn"
+        },
+        {
+          "id": "C",
+          "text": "Phân tích công việc – Tuyển chọn – Thăng chức"
+        },
+        {
+          "id": "D",
+          "text": "Tuyển chọn – Thử việc – Đánh giá thực hiện công việc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 10: nội dung của tuyển dụng nhân lực gồm xác định nhu cầu tuyển dụng, tuyển mộ và tuyển chọn.",
+      "sourceSlides": [
+        10
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Xác định nhu cầu tuyển dụng là xác định những nội dung nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Xác định nhu cầu tuyển dụng",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kênh tuyển mộ, ngân sách quảng cáo và thời gian đăng tin"
+        },
+        {
+          "id": "B",
+          "text": "Mức lương, chế độ phúc lợi và hình thức hợp đồng lao động"
+        },
+        {
+          "id": "C",
+          "text": "Người phỏng vấn, địa điểm phỏng vấn và bộ câu hỏi phỏng vấn"
+        },
+        {
+          "id": "D",
+          "text": "Vị trí cần tuyển, số lượng cần tuyển và yêu cầu công việc"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 11: xác định nhu cầu tuyển dụng là xác định vị trí cần tuyển, số lượng cần tuyển và yêu cầu công việc: kiến thức, kỹ năng, kinh nghiệm và các phẩm chất khác.",
+      "sourceSlides": [
+        11
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Theo bài giảng, phương pháp nào sau đây thuộc tuyển mộ từ BÊN TRONG tổ chức?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhân viên hiện tại giới thiệu"
+        },
+        {
+          "id": "B",
+          "text": "Chương trình thực tập sinh"
+        },
+        {
+          "id": "C",
+          "text": "Tuyển lại các nhân viên cũ"
+        },
+        {
+          "id": "D",
+          "text": "Ngày hội việc làm tại trường"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 16 liệt kê phương pháp tuyển nội bộ: luân chuyển công việc, thăng chức, tuyển lại nhân viên cũ, chương trình phát triển đội ngũ kế thừa, chuyển đổi giữa các bộ phận. Nhân viên giới thiệu, chương trình thực tập, ngày hội việc làm thuộc tuyển mộ bên ngoài (slide 18).",
+      "sourceSlides": [
+        16,
+        18
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Trong mô hình AIDA dùng để thiết kế tin tuyển mộ, chữ \"D\" (Desire) có ý nghĩa gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thu hút sự chú ý bằng từ ngữ, đồ họa, hình ảnh nổi bật trên tin"
+        },
+        {
+          "id": "B",
+          "text": "Mô tả điều ứng viên muốn biết: chức danh, trách nhiệm, quyền lợi"
+        },
+        {
+          "id": "C",
+          "text": "Tạo mong muốn làm việc cho tổ chức qua hình ảnh, video về văn hóa"
+        },
+        {
+          "id": "D",
+          "text": "Thôi thúc ứng tuyển bằng cảm giác khẩn cấp, quy trình đơn giản"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 27: A – Sự chú ý (thu hút chú ý); I – Quan tâm (mô tả điều họ muốn biết); D – Mong muốn (tạo mong muốn làm việc cho tổ chức); A – Hành động (thôi thúc ứng tuyển).",
+      "sourceSlides": [
+        27
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Theo nghiên cứu của Rynes và cộng sự (1991), bao nhiêu phần trăm sinh viên tốt nghiệp cho rằng nhân viên tuyển dụng có ảnh hưởng tới quyết định chấp nhận lời mời làm việc?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm, vai trò, nội dung tuyển dụng",
+      "options": [
+        {
+          "id": "A",
+          "text": "92%"
+        },
+        {
+          "id": "B",
+          "text": "57%"
+        },
+        {
+          "id": "C",
+          "text": "72%"
+        },
+        {
+          "id": "D",
+          "text": "43%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 9: 92% sinh viên tốt nghiệp nói rằng nhân viên tuyển dụng có ảnh hưởng tới ý định chấp nhận lời mời làm việc (Sara L. Rynes et al., 1991).",
+      "sourceSlides": [
+        9
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Hình thức bố trí nhân lực nào là \"chuyển đổi vị trí công việc trong tổ chức mà không thay đổi mức lương hay cấp bậc\"?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thăng tiến"
+        },
+        {
+          "id": "B",
+          "text": "Giáng chức"
+        },
+        {
+          "id": "C",
+          "text": "Tự thôi việc"
+        },
+        {
+          "id": "D",
+          "text": "Thuyên chuyển"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 38: thuyên chuyển (transfer) là chuyển đổi vị trí công việc mà không thay đổi mức lương hay cấp bậc; thăng tiến là chuyển lên vị trí cấp bậc cao hơn với lương cao hơn; giáng chức là chuyển xuống vị trí thấp hơn.",
+      "sourceSlides": [
+        38
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Theo Điều 29 Bộ luật Lao động 2019, người sử dụng lao động được tạm thời chuyển người lao động làm công việc khác so với hợp đồng tối đa bao lâu mà không cần người lao động đồng ý bằng văn bản?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 ngày làm việc cộng dồn trong 01 năm"
+        },
+        {
+          "id": "B",
+          "text": "30 ngày làm việc cộng dồn trong 01 năm"
+        },
+        {
+          "id": "C",
+          "text": "90 ngày làm việc liên tục"
+        },
+        {
+          "id": "D",
+          "text": "45 ngày làm việc cộng dồn trong 01 năm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 40 (Điều 29 khoản 1): không được quá 60 ngày làm việc cộng dồn trong 01 năm; quá 60 ngày thì chỉ được thực hiện khi người lao động đồng ý bằng văn bản.",
+      "sourceSlides": [
+        40
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Theo Điều 169 Bộ luật Lao động 2019, tuổi nghỉ hưu trong điều kiện lao động bình thường được điều chỉnh theo lộ trình đến mức nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đủ 60 tuổi với nam vào năm 2028 và đủ 55 tuổi với nữ vào năm 2035"
+        },
+        {
+          "id": "B",
+          "text": "Đủ 62 tuổi với nam vào năm 2028 và đủ 60 tuổi với nữ vào năm 2035"
+        },
+        {
+          "id": "C",
+          "text": "Đủ 65 tuổi với nam vào năm 2030 và đủ 60 tuổi với nữ vào năm 2030"
+        },
+        {
+          "id": "D",
+          "text": "Đủ 62 tuổi với cả nam và nữ vào năm 2035"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 53: tuổi nghỉ hưu được điều chỉnh theo lộ trình đến khi đủ 62 tuổi đối với nam vào năm 2028 và đủ 60 tuổi đối với nữ vào năm 2035.",
+      "sourceSlides": [
+        53
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Theo Điều 125 Bộ luật Lao động 2019, người lao động tự ý bỏ việc không có lý do chính đáng bao nhiêu ngày thì có thể bị xử lý kỷ luật sa thải?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "03 ngày cộng dồn trong 30 ngày hoặc 10 ngày cộng dồn trong 365 ngày"
+        },
+        {
+          "id": "B",
+          "text": "07 ngày liên tục trong 30 ngày"
+        },
+        {
+          "id": "C",
+          "text": "05 ngày cộng dồn trong 30 ngày hoặc 20 ngày cộng dồn trong 365 ngày"
+        },
+        {
+          "id": "D",
+          "text": "10 ngày cộng dồn trong 90 ngày"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 49 (Điều 125 khoản 4): tự ý bỏ việc 05 ngày cộng dồn trong 30 ngày hoặc 20 ngày cộng dồn trong 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.",
+      "sourceSlides": [
+        49
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Đâu là nhược điểm của tuyển mộ từ bên trong tổ chức?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hạn chế sự đa dạng, đổi mới; dễ gây cạnh tranh không lành mạnh"
+        },
+        {
+          "id": "B",
+          "text": "Chi phí tuyển dụng cao và rủi ro ứng viên không phù hợp tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Gặp thách thức lớn trong việc quản lý sự đa dạng của đội ngũ"
+        },
+        {
+          "id": "D",
+          "text": "Mất nhiều thời gian để ứng viên làm quen với văn hóa tổ chức"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 17: nhược điểm của tuyển nội bộ – nguồn ứng viên hạn chế, hạn chế đa dạng, đổi mới, sáng tạo, gia tăng mâu thuẫn và cạnh tranh không lành mạnh. Chi phí cao, rủi ro không phù hợp, quản lý đa dạng là nhược điểm của tuyển ngoài (slide 23).",
+      "sourceSlides": [
+        17,
+        23
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Điểm khác nhau giữa \"đề bạt ngang\" và \"đề bạt thẳng\" là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đề bạt ngang: chuyển sang địa điểm làm việc khác; đề bạt thẳng: chuyển sang phòng ban khác"
+        },
+        {
+          "id": "B",
+          "text": "Đề bạt ngang: sang vị trí khác có lương, cấp bậc tương đương; đề bạt thẳng: lương, cấp bậc cao hơn"
+        },
+        {
+          "id": "C",
+          "text": "Đề bạt ngang: thăng chức tạm thời; đề bạt thẳng: thăng chức lâu dài kèm thay đổi hợp đồng"
+        },
+        {
+          "id": "D",
+          "text": "Đề bạt ngang: dành cho nhân viên mới; đề bạt thẳng: dành cho nhân viên có thâm niên lâu năm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 43: đề bạt ngang (lateral promotion) – sang vị trí khác có mức lương, cấp bậc tương đương; đề bạt thẳng (vertical promotion) – sang vị trí có mức lương, cấp bậc cao hơn.",
+      "sourceSlides": [
+        43
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Thuyên chuyển theo chiều dọc được hiểu là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chuyển sang vị trí có cấp bậc cao hơn hoặc thấp hơn trong tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Chuyển sang vị trí cùng cấp bậc trong tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Chuyển sang làm việc ở địa điểm khác"
+        },
+        {
+          "id": "D",
+          "text": "Chuyển tạm thời trong một thời gian ngắn rồi quay lại vị trí cũ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 39: thuyên chuyển theo chiều ngang – sang vị trí cùng cấp bậc; theo chiều dọc – sang vị trí có cấp bậc cao hơn hoặc thấp hơn; ngoài ra còn chuyển địa điểm, tạm thời, lâu dài.",
+      "sourceSlides": [
+        39
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Các căn cứ \"nghỉ hưu, nghỉ việc, hiệu quả làm việc, kiến thức kỹ năng\" thuộc nhóm căn cứ nào khi xác định nhu cầu tuyển dụng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Xác định nhu cầu tuyển dụng",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kế hoạch phát triển của doanh nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Chiến lược tuyển mộ"
+        },
+        {
+          "id": "C",
+          "text": "Tình trạng nhân lực thực tại"
+        },
+        {
+          "id": "D",
+          "text": "Thương hiệu tuyển dụng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 13: hai nhóm căn cứ – (1) Kế hoạch phát triển của doanh nghiệp: áp dụng công nghệ mới, mở rộng sản xuất, tái cấu trúc…; (2) Tình trạng nhân lực thực tại: kiến thức kỹ năng, hiệu quả làm việc, nghỉ hưu, nghỉ việc…",
+      "sourceSlides": [
+        13
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Phân biệt \"sa thải\" và \"tự thôi việc\" theo bài giảng:",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sa thải: NLĐ chủ động chấm dứt HĐLĐ; tự thôi việc: NSDLĐ chấm dứt HĐLĐ do thu hẹp sản xuất"
+        },
+        {
+          "id": "B",
+          "text": "Sa thải: chấm dứt HĐLĐ khi NLĐ đủ tuổi nghỉ hưu; tự thôi việc: NLĐ chuyển sang vị trí khác"
+        },
+        {
+          "id": "C",
+          "text": "Sa thải và tự thôi việc đều do NSDLĐ quyết định, chỉ khác nhau ở khoản trợ cấp được nhận"
+        },
+        {
+          "id": "D",
+          "text": "Sa thải: NSDLĐ chấm dứt HĐLĐ do NLĐ vi phạm kỷ luật nghiêm trọng; tự thôi việc: NLĐ chủ động chấm dứt"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 38: sa thải (dismissal) – NSDLĐ chấm dứt hợp đồng do vi phạm kỷ luật lao động nghiêm trọng; tự thôi việc (resignation) – NLĐ chủ động chấm dứt; hưu trí – chấm dứt khi đủ tuổi nghỉ hưu.",
+      "sourceSlides": [
+        38
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Vì sao tình trạng người lao động tự thôi việc gây ra \"chảy máu tri thức\" cho tổ chức?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì người lao động phải chuyển giao toàn bộ tài liệu trước khi nghỉ"
+        },
+        {
+          "id": "B",
+          "text": "Vì tổ chức phải trả trợ cấp hưu trí cho người lao động nghỉ việc"
+        },
+        {
+          "id": "C",
+          "text": "Vì người ở lại sẽ được tăng lương ngay để bù khối lượng công việc"
+        },
+        {
+          "id": "D",
+          "text": "Vì kiến thức, kinh nghiệm tích lũy của người lao động ra đi cùng họ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 50: ảnh hưởng của tự thôi việc gồm tăng chi phí tuyển dụng, tăng khối lượng công việc cho người ở lại, chảy máu tri thức và giảm cam kết, tinh thần làm việc của người ở lại.",
+      "sourceSlides": [
+        50
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Phỏng vấn nghỉ việc nên được tổ chức như thế nào theo bài giảng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Do quản lý trực tiếp thực hiện sau khi người lao động đã rời tổ chức, tại phòng họp chung"
+        },
+        {
+          "id": "B",
+          "text": "Tổ chức công khai trước toàn bộ phòng ban để mọi người cùng rút kinh nghiệm về lý do nghỉ"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ cần gửi biểu mẫu khảo sát trực tuyến sau khi nghỉ việc, không cần gặp mặt trực tiếp"
+        },
+        {
+          "id": "D",
+          "text": "Do nhân sự thực hiện vài ngày/tuần trước ngày làm việc cuối, ở nơi riêng tư, bảo mật thông tin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 52: người phỏng vấn là nhân viên phòng nhân sự; thời gian vài ngày hoặc tuần trước ngày làm việc cuối; địa điểm thoải mái, riêng tư, yên tĩnh; đảm bảo bảo mật và tìm hiểu lý do thực sự.",
+      "sourceSlides": [
+        52
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Trong quy trình tuyển mộ 3 bước, việc lập kế hoạch tuyển mộ (xác định số lượng cần tuyển, tỉ lệ sàng lọc) thuộc bước nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bước 2 – Tìm kiếm, thu hút ứng viên"
+        },
+        {
+          "id": "B",
+          "text": "Bước 3 – Đánh giá quá trình tuyển mộ"
+        },
+        {
+          "id": "C",
+          "text": "Bước 1 – Xây dựng chiến lược tuyển mộ"
+        },
+        {
+          "id": "D",
+          "text": "Bước tuyển chọn – sàng lọc hồ sơ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 24–25: Bước 1 Xây dựng chiến lược tuyển mộ gồm lập kế hoạch tuyển mộ (số lượng, tỉ lệ sàng lọc), xác định nguồn và phương pháp, nơi và thời gian tuyển mộ.",
+      "sourceSlides": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Phương pháp \"Trung tâm đánh giá\" (Assessment Center – AC) trong tuyển chọn có đặc điểm gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Tuyển chọn nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dùng một bài kiểm tra IQ chuẩn hóa để xếp hạng ứng viên"
+        },
+        {
+          "id": "B",
+          "text": "Sử dụng kết hợp nhiều phương pháp đánh giá khác nhau"
+        },
+        {
+          "id": "C",
+          "text": "Phỏng vấn nhóm nhiều ứng viên cùng lúc để tiết kiệm thời gian"
+        },
+        {
+          "id": "D",
+          "text": "Dựa trên hồ sơ và thư giới thiệu của nơi làm việc cũ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 35: các phương pháp tuyển chọn gồm phỏng vấn, bài kiểm tra, làm thử mẫu công việc và trung tâm đánh giá (AC) – sử dụng kết hợp các phương pháp đánh giá khác nhau.",
+      "sourceSlides": [
+        35
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Vì sao tổ chức cần có quy định cụ thể, quy trình rõ ràng, đúng pháp luật khi giáng chức người lao động?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vì giáng chức luôn đi kèm việc tăng lương và phụ cấp cho người lao động"
+        },
+        {
+          "id": "B",
+          "text": "Vì giáng chức chỉ được áp dụng khi người lao động tự nguyện đề nghị"
+        },
+        {
+          "id": "C",
+          "text": "Vì người bị giáng chức thường phản ứng tiêu cực, cần công bằng, minh bạch"
+        },
+        {
+          "id": "D",
+          "text": "Vì giáng chức không làm thay đổi trách nhiệm, quyền lợi của người lao động"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 46–47: giáng chức có thể do giảm biên chế, kỷ luật, khắc phục bố trí không đúng trước đó; người bị giáng chức thường có phản ứng tiêu cực nên tổ chức cần quy định cụ thể, quy trình rõ ràng, đúng pháp luật, công bằng, minh bạch.",
+      "sourceSlides": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Công ty cần 5 người chấp nhận thư mời làm việc. Theo kinh nghiệm: tỉ lệ chấp nhận thư mời 50%, tỉ lệ nhận được thư mời sau phỏng vấn 2/3, tỉ lệ mời phỏng vấn 50%, tỉ lệ hồ sơ được chọn 30%. Công ty cần thu hút khoảng bao nhiêu hồ sơ?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 hồ sơ"
+        },
+        {
+          "id": "B",
+          "text": "30 hồ sơ"
+        },
+        {
+          "id": "C",
+          "text": "50 hồ sơ"
+        },
+        {
+          "id": "D",
+          "text": "150 hồ sơ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tính ngược theo kim tự tháp tuyển dụng ở slide 31: 5 ÷ 50% = 10 người nhận thư mời; 10 ÷ (2/3) = 15 người được phỏng vấn; 15 ÷ 50% = 30 hồ sơ được chọn; 30 ÷ 30% = 100 hồ sơ.",
+      "sourceSlides": [
+        25,
+        31
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Người lao động có lương 10 triệu đồng/tháng được tạm thời chuyển sang công việc khác có lương 8 triệu đồng/tháng. Sau 30 ngày làm việc đầu tiên giữ nguyên lương cũ, mức lương tối thiểu người lao động được hưởng là bao nhiêu (giả sử cao hơn lương tối thiểu vùng)?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 triệu đồng/tháng"
+        },
+        {
+          "id": "B",
+          "text": "10 triệu đồng/tháng"
+        },
+        {
+          "id": "C",
+          "text": "7 triệu đồng/tháng"
+        },
+        {
+          "id": "D",
+          "text": "8,5 triệu đồng/tháng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 40 (Điều 29 khoản 3): nếu lương công việc mới thấp hơn thì giữ nguyên lương cũ trong 30 ngày làm việc; sau đó lương theo công việc mới ít nhất bằng 85% lương cũ: 85% × 10 triệu = 8,5 triệu đồng (và không thấp hơn lương tối thiểu).",
+      "sourceSlides": [
+        40
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Do nhu cầu sản xuất, công ty muốn chuyển một nhân viên sang làm công việc khác so với hợp đồng tổng cộng 75 ngày làm việc trong năm. Công ty phải làm gì để thực hiện hợp pháp?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ cần thông báo miệng cho người lao động trước ít nhất 01 ngày làm việc"
+        },
+        {
+          "id": "B",
+          "text": "Phải được NLĐ đồng ý bằng văn bản và báo trước ít nhất 03 ngày làm việc"
+        },
+        {
+          "id": "C",
+          "text": "Công ty được tự quyết định vì đây là quyền điều hành sản xuất, kinh doanh"
+        },
+        {
+          "id": "D",
+          "text": "Phải chấm dứt hợp đồng hiện tại và ký hợp đồng mới với công việc mới"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 40 (Điều 29): vượt quá 60 ngày làm việc cộng dồn trong 01 năm thì chỉ được thực hiện khi NLĐ đồng ý bằng văn bản; đồng thời phải báo trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn và bố trí công việc phù hợp sức khỏe, giới tính.",
+      "sourceSlides": [
+        40
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Nhân viên A tự ý bỏ việc không có lý do chính đáng tổng cộng 5 ngày trong vòng 30 ngày kể từ ngày đầu tiên tự ý bỏ việc. Theo Điều 125 Bộ luật Lao động 2019, nhận định nào đúng?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chưa thể sa thải vì phải đủ 20 ngày cộng dồn trong 365 ngày"
+        },
+        {
+          "id": "B",
+          "text": "Người sử dụng lao động có thể áp dụng hình thức kỷ luật sa thải"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ có thể giáng chức, không được sa thải"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ được sa thải nếu nhân viên A đồng ý"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 49: NLĐ tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong 365 ngày mà không có lý do chính đáng thuộc trường hợp áp dụng kỷ luật sa thải. Chỉ cần thỏa một trong hai điều kiện.",
+      "sourceSlides": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Tin tuyển dụng của công ty đang dùng 6 ảnh nhỏ rải khắp tin và đặt logo ở góc dưới bên phải. Điều chỉnh nào giúp tin thu hút sự chú ý tốt hơn theo bài giảng?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng thêm số lượng ảnh nhỏ và bổ sung nhiều hiệu ứng đồ họa để tin nổi bật hơn"
+        },
+        {
+          "id": "B",
+          "text": "Thay bằng một ảnh lớn có nhiều người đặt ở góc trên; đưa logo lên phía trên bên trái"
+        },
+        {
+          "id": "C",
+          "text": "Bổ sung thật nhiều thông tin chi tiết, dùng từ ngữ chuyên môn để thể hiện sự chuyên nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Giữ nguyên bố cục hình ảnh và logo, chỉ thay đổi màu chữ và phông chữ của tiêu đề"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 29: nhiều ảnh nhỏ kém thu hút hơn một ảnh lớn; ảnh bắt mắt hơn khi đặt ở góc trên; ảnh nhiều người thu hút hơn; logo thu hút nhất ở phía trên bên trái. Slide 28 cảnh báo tránh quá nhiều thông tin, lạm dụng đồ họa, từ ngữ phức tạp.",
+      "sourceSlides": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Một công ty khởi nghiệp cần tuyển trưởng phòng marketing có tư duy mới; nội bộ hiện có hai ứng viên đang cạnh tranh gay gắt với nhau. Nguồn tuyển mộ nào phù hợp hơn và vì sao?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuyển nội bộ – giúp tăng sự đa dạng, đổi mới và sáng tạo cho đội ngũ quản lý"
+        },
+        {
+          "id": "B",
+          "text": "Tuyển ngoài – nguồn ứng viên đa dạng, tăng sáng tạo, có thể giảm mâu thuẫn nội bộ"
+        },
+        {
+          "id": "C",
+          "text": "Tuyển nội bộ – giúp giảm cạnh tranh không lành mạnh giữa hai ứng viên hiện có"
+        },
+        {
+          "id": "D",
+          "text": "Tuyển ngoài – vì chi phí thấp hơn và ít rủi ro ứng viên không phù hợp hơn tuyển nội bộ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 23: ưu điểm tuyển ngoài – nguồn ứng viên nhiều, đa dạng; tăng cạnh tranh, sáng tạo; có thể giảm thiểu mâu thuẫn nội bộ (nhược điểm là chi phí cao, rủi ro không phù hợp). Slide 17: tuyển nội bộ hạn chế đổi mới và có thể gia tăng mâu thuẫn.",
+      "sourceSlides": [
+        17,
+        23
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Doanh nghiệp muốn biết nên tiếp tục đầu tư vào kênh tuyển mộ nào trong số website việc làm, ngày hội việc làm và nhân viên giới thiệu. Chỉ số đánh giá nào phù hợp nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tuyển mộ nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kết quả tuyển chọn theo từng nguồn tuyển mộ"
+        },
+        {
+          "id": "B",
+          "text": "Số ngày nghỉ phép của nhân viên tuyển dụng"
+        },
+        {
+          "id": "C",
+          "text": "Tổng quỹ lương hằng năm của doanh nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Số lượng phòng ban trong doanh nghiệp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 30: đánh giá hiệu quả tuyển mộ qua số lượng, chất lượng ứng viên, chi phí, thời gian, tỉ lệ ứng viên đạt yêu cầu, trải nghiệm ứng viên, tỉ lệ giữ chân và kết quả tuyển chọn theo nguồn tuyển mộ – cho phép so sánh hiệu quả từng kênh.",
+      "sourceSlides": [
+        30
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Nhân viên B có kết quả công việc xuất sắc và chuyên môn giỏi nhưng thường xuyên có hành vi thiếu trung thực, không phù hợp văn hóa doanh nghiệp. Khi xem xét đề bạt B lên trưởng nhóm, nhận định nào phù hợp với bài giảng?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nên đề bạt ngay, vì kết quả công việc là tiêu chí duy nhất khi xem xét đề bạt"
+        },
+        {
+          "id": "B",
+          "text": "Nên đề bạt, vì người có chuyên môn giỏi luôn phù hợp với vị trí lãnh đạo nhóm"
+        },
+        {
+          "id": "C",
+          "text": "Chưa nên đề bạt, vì tiêu chí đề bạt còn gồm phẩm chất cá nhân và phù hợp văn hóa"
+        },
+        {
+          "id": "D",
+          "text": "Nên đề bạt ngang trước, vì đề bạt ngang không cần xét đến phẩm chất cá nhân"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 44: tiêu chí đề bạt gồm kết quả công việc, kỹ năng chuyên môn và học hỏi, khả năng lãnh đạo, phù hợp văn hóa và phẩm chất cá nhân. Slide 45 nhấn mạnh không phải cứ có tài là đặt người thiếu phẩm chất vào vị trí lãnh đạo.",
+      "sourceSlides": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Ứng viên C đã vượt qua vòng sàng lọc hồ sơ và vòng phỏng vấn, được hội đồng đánh giá là phù hợp. Theo quy trình tuyển chọn của Lê Trọng Hùng và cộng sự (2025), bước tiếp theo trước khi ra quyết định tuyển dụng là gì và nhằm mục đích gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Tuyển chọn nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thử việc – để đánh giá năng lực, sự phù hợp với công việc và tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Gửi ngay thư mời nhận việc chính thức – vì phỏng vấn đã đủ căn cứ"
+        },
+        {
+          "id": "C",
+          "text": "Quay lại vòng sàng lọc hồ sơ – để lập báo cáo kết quả sàng lọc cuối"
+        },
+        {
+          "id": "D",
+          "text": "Đăng tin tuyển mộ mới – để có thêm ứng viên so sánh trước khi quyết định"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 33: quy trình tuyển chọn gồm sàng lọc hồ sơ (dựa trên tiêu chuẩn công việc, báo cáo kết quả) → phỏng vấn (chọn phương pháp phù hợp, dùng phiếu đánh giá) → thử việc (đánh giá năng lực, sự phù hợp với công việc và tổ chức) → ra quyết định tuyển dụng.",
+      "sourceSlides": [
+        33
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Một chuyên gia kỹ thuật chủ chốt sẽ nghỉ hưu sau 6 tháng. Hoạt động nào nên được tổ chức ưu tiên thực hiện?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Bố trí nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lập kế hoạch chuyển giao tri thức, xây dựng đội ngũ kế thừa"
+        },
+        {
+          "id": "B",
+          "text": "Chờ đến ngày người lao động nghỉ hưu mới bắt đầu tuyển người thay"
+        },
+        {
+          "id": "C",
+          "text": "Giáng chức người lao động để giảm chi phí lương trước khi nghỉ hưu"
+        },
+        {
+          "id": "D",
+          "text": "Thuyên chuyển người lao động sang địa điểm khác trong thời gian còn lại"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 54: với hưu trí, tổ chức cần lập kế hoạch chuyển giao tri thức, xây dựng đội ngũ kế thừa, thông báo tới các bộ phận và bên liên quan (nhà cung cấp, khách hàng), tôn vinh đóng góp, cung cấp chương trình chuẩn bị hưu trí.",
+      "sourceSlides": [
+        54
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi" data-root="..">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kết quả – Luyện thi Quản trị nhân lực</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Cpath d=%27M3 8h10l3 3h13v16H3z%27 fill=%27%230f6e6a%27/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/result.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true"></span><span>Luyện thi Quản trị nhân lực</span></a>
+      <div class="header-actions">
+        <button id="theme-toggle" class="btn btn-ghost icon-btn" type="button" aria-pressed="false" aria-label="Chuyển giao diện tối"></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="result-root">
+    <p class="loading">Đang tải kết quả…</p>
+
+    <section id="result-view" hidden>
+      <div class="result-head">
+        <div class="score-sheet">
+          <p class="score-label" id="r-mode"></p>
+          <p class="score-big"><span id="r-score"></span><small>/10</small></p>
+          <p class="score-sub" id="r-sub"></p>
+        </div>
+        <div class="result-info">
+          <h1 id="r-title"></h1>
+          <p class="time-up" id="r-timeup" hidden>Hết giờ, bài đã được tự động nộp.</p>
+          <div class="split" id="r-split" role="img"></div>
+          <dl class="stats" id="r-stats"></dl>
+          <div class="result-actions">
+            <a class="btn btn-primary" id="r-retry" href="#">Làm lại bài</a>
+            <a class="btn" id="r-detail" href="#">Chọn chế độ khác</a>
+            <a class="btn btn-ghost" href="../index.html">Về trang chủ</a>
+          </div>
+        </div>
+      </div>
+
+      <section class="review">
+        <div class="review-head">
+          <h2>Chi tiết từng câu</h2>
+          <div class="filters" role="group" aria-label="Lọc câu hỏi" id="r-filters"></div>
+        </div>
+        <ol class="review-list" id="r-list"></ol>
+      </section>
+    </section>
+  </main>
+
+  <script src="../js/storage.js"></script>
+  <script src="../js/data-loader.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/result.js"></script>
+</body>
+</html>

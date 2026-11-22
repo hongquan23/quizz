@@ -1,0 +1,916 @@
+{
+  "documentId": "chapter_05",
+  "documentTitle": "Chương 5 - Đào tạo và phát triển nhân lực",
+  "sourceFile": "Chương 5 - Đào tạo và phát triển.pdf",
+  "totalSlides": 45,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Theo Lê Trọng Hùng và cộng sự (2025), đào tạo nhân lực là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và vai trò đào tạo, phát triển",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình có mục tiêu nhằm nâng cao năng lực, giá trị của nhân viên để đáp ứng yêu cầu hiện tại và tương lai, hỗ trợ phát triển sự nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Các hoạt động học tập nhằm giúp người lao động nâng cao khả năng thực hiện chức năng và nhiệm vụ công việc một cách hiệu quả hơn"
+        },
+        {
+          "id": "C",
+          "text": "Chuỗi các vị trí việc làm mà một cá nhân đảm nhiệm theo thời gian"
+        },
+        {
+          "id": "D",
+          "text": "Việc so sánh kết quả trước và sau đào tạo với mục tiêu của doanh nghiệp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 5: Đào tạo nhân lực là các hoạt động học tập giúp NLĐ nâng cao khả năng thực hiện chức năng, nhiệm vụ hiệu quả hơn. Phương án thứ hai là định nghĩa phát triển nhân lực.",
+      "sourceSlides": [
+        5
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "\"Quá trình nhân viên được trang bị kỹ năng, kiến thức chuyên môn sâu hơn để phát triển trong lĩnh vực nghề nghiệp hiện tại\" là khái niệm nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Khái niệm và vai trò đào tạo, phát triển",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phát triển sự nghiệp"
+        },
+        {
+          "id": "B",
+          "text": "Phát triển cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Phát triển nghề nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo hội nhập"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 7: Phát triển cá nhân – nâng cao kỹ năng mềm; Phát triển sự nghiệp – lộ trình dài hạn giúp thăng tiến qua các vị trí; Phát triển nghề nghiệp – trang bị kiến thức, kỹ năng chuyên môn sâu hơn trong lĩnh vực hiện tại.",
+      "sourceSlides": [
+        7
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Hình thức đào tạo nào giúp nhân viên mới làm quen với tổ chức và công việc?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Các hình thức đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo lại"
+        },
+        {
+          "id": "B",
+          "text": "Đào tạo thay đổi thái độ"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo nâng cao"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo hội nhập"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 12 (theo mục tiêu đào tạo): đào tạo hội nhập giúp nhân viên mới làm quen với tổ chức và công việc; đào tạo lại củng cố kiến thức khi có thay đổi; đào tạo nâng cao cung cấp kiến thức chuyên sâu.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Trong mô hình ADDIE, bước \"Phát triển\" (Development) bao gồm những hoạt động nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Quy trình đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phân tích tổ chức, phân tích công việc và phân tích con người"
+        },
+        {
+          "id": "B",
+          "text": "Lựa chọn phương pháp đào tạo và xây dựng tài liệu đào tạo"
+        },
+        {
+          "id": "C",
+          "text": "Lên lịch đào tạo và chuẩn bị cơ sở vật chất"
+        },
+        {
+          "id": "D",
+          "text": "Đánh giá kết quả đào tạo so với mục tiêu và đề xuất cải tiến"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 18 (Dessler, 2020): Phân tích – xác định nhu cầu; Thiết kế – mục tiêu, đối tượng, hình thức, chi phí; Phát triển – chọn phương pháp, xây dựng tài liệu; Thực hiện – lên lịch, chuẩn bị cơ sở vật chất; Đánh giá – so với mục tiêu, đề xuất cải tiến.",
+      "sourceSlides": [
+        18
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Trong mô hình học tập 70-20-10, tỷ lệ 20% tương ứng với hình thức nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học tập xã hội: học từ đồng nghiệp, quản lý, mentoring, coaching"
+        },
+        {
+          "id": "B",
+          "text": "Trải nghiệm thực tế: đào tạo trong công việc, tham gia dự án"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo chính quy: bài giảng, khóa học nội bộ và bên ngoài, tự học"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo ngoài công việc: hội thảo, hội nghị, chương trình chứng chỉ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 25: 70% trải nghiệm thực tế (đào tạo trong công việc, dự án); 20% học tập xã hội (học từ đồng nghiệp, quản lý, mentoring, coaching); 10% đào tạo chính quy (bài giảng, khóa học, tự học).",
+      "sourceSlides": [
+        25
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Trong mô hình Kirkpatrick, cấp độ nào kiểm tra người học đã học được gì mới (kiến thức, kỹ năng, nguyên lý…)?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cấp 2 – Học tập"
+        },
+        {
+          "id": "B",
+          "text": "Cấp 1 – Phản ứng"
+        },
+        {
+          "id": "C",
+          "text": "Cấp 3 – Hành vi"
+        },
+        {
+          "id": "D",
+          "text": "Cấp 4 – Kết quả"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 27: Cấp 1 Phản ứng (có thích, thấy giá trị không); Cấp 2 Học tập (học được gì mới); Cấp 3 Hành vi (thay đổi hành vi sau khóa học); Cấp 4 Kết quả (mục tiêu đào tạo có đạt không).",
+      "sourceSlides": [
+        27
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Công thức tính ROI của chương trình đào tạo được trình bày trong bài giảng là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "ROI (%) = Chi phí đào tạo / Lợi nhuận × 100"
+        },
+        {
+          "id": "B",
+          "text": "ROI (%) = Lợi nhuận / Chi phí đào tạo × 100"
+        },
+        {
+          "id": "C",
+          "text": "ROI (%) = (Chi phí đào tạo − Lợi nhuận) × 100"
+        },
+        {
+          "id": "D",
+          "text": "ROI (%) = Số học viên đạt / Tổng số học viên × 100"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 29: ROI % = Lợi nhuận / Chi phí đào tạo × 100.",
+      "sourceSlides": [
+        29
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Theo bài giảng, \"sự nghiệp\" được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trình tự sắp xếp các vị trí công việc cụ thể mà cá nhân có thể đảm nhiệm tại tổ chức"
+        },
+        {
+          "id": "B",
+          "text": "Các hoạt động nâng cao kỹ năng mềm cho cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Chuỗi các vị trí việc làm mà một cá nhân đảm nhiệm theo thời gian"
+        },
+        {
+          "id": "D",
+          "text": "Kế hoạch học tập 6–12 tháng của nhân viên"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 33: sự nghiệp là chuỗi các vị trí việc làm mà một cá nhân đảm nhiệm theo thời gian. Phương án thứ hai là định nghĩa lộ trình sự nghiệp (slide 37).",
+      "sourceSlides": [
+        33,
+        37
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Các giai đoạn của sự nghiệp được trình bày theo trình tự nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khám phá → Thiết lập → Giữa sự nghiệp → Cuối sự nghiệp → Suy giảm"
+        },
+        {
+          "id": "B",
+          "text": "Thiết lập → Khám phá → Giữa sự nghiệp → Suy giảm → Cuối sự nghiệp"
+        },
+        {
+          "id": "C",
+          "text": "Khám phá → Giữa sự nghiệp → Thiết lập → Cuối sự nghiệp → Suy giảm"
+        },
+        {
+          "id": "D",
+          "text": "Học việc → Khám phá → Thiết lập → Suy giảm → Cuối sự nghiệp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 33–34: các giai đoạn sự nghiệp gồm Khám phá, Thiết lập, Giữa sự nghiệp, Cuối sự nghiệp và Suy giảm (DeCenzo et al., 2010).",
+      "sourceSlides": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Đâu là một trong những thách thức trong phát triển nhân lực được nêu trong bài giảng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thiếu văn bản pháp luật về lao động"
+        },
+        {
+          "id": "B",
+          "text": "Không có nhu cầu đào tạo"
+        },
+        {
+          "id": "C",
+          "text": "Rủi ro mất nhân tài"
+        },
+        {
+          "id": "D",
+          "text": "Chi phí tuyển dụng quá thấp"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 44: các thách thức trong phát triển nhân lực gồm thiếu cam kết, rủi ro mất nhân tài, khó đo lường và khả năng thích ứng.",
+      "sourceSlides": [
+        44
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "Nhận định nào phân biệt đúng đào tạo và phát triển nhân lực?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Khái niệm và vai trò đào tạo, phát triển",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo: dài hạn, định hướng năng lực, nhu cầu tương lai; phát triển: ngắn hạn, định hướng nhiệm vụ hiện tại"
+        },
+        {
+          "id": "B",
+          "text": "Đào tạo: chỉ dành cho nhà quản lý cấp cao; phát triển: chỉ dành cho nhân viên mới vào làm việc tại tổ chức"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo và phát triển đều là hoạt động ngắn hạn, chỉ tập trung đáp ứng nhu cầu công việc hiện tại của tổ chức"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo: ngắn hạn, định hướng nhiệm vụ, nhu cầu hiện tại; phát triển: dài hạn, định hướng năng lực, tương lai"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 6: Đào tạo – mục tiêu ngắn hạn, định hướng nhiệm vụ (task-oriented), tập trung nhu cầu hiện tại. Phát triển – mục tiêu dài hạn, định hướng năng lực (competence-oriented), hướng tới nhu cầu tương lai.",
+      "sourceSlides": [
+        6
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "Theo cách thức tổ chức, đào tạo chính quy khác đào tạo vừa làm vừa học ở điểm nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Các hình thức đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chính quy: luôn tổ chức trực tuyến qua internet; vừa làm vừa học: luôn tổ chức tại trung tâm đào tạo"
+        },
+        {
+          "id": "B",
+          "text": "Chính quy: chỉ dành cho nhân viên mới; vừa làm vừa học: chỉ dành cho đội ngũ lãnh đạo, quản lý"
+        },
+        {
+          "id": "C",
+          "text": "Chính quy: không cần đánh giá kết quả học tập; vừa làm vừa học: bắt buộc thi lấy chứng chỉ quốc tế"
+        },
+        {
+          "id": "D",
+          "text": "Chính quy: quy trình bài bản, thời gian cố định, có giám sát, đánh giá; vừa làm vừa học: kết hợp làm và học"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 13: đào tạo chính quy được thực hiện theo quy trình bài bản, thời gian cố định, có giám sát và đánh giá kết quả; đào tạo vừa làm vừa học là vừa làm công việc thực tế vừa tham gia hoạt động học tập.",
+      "sourceSlides": [
+        13
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "Phương pháp nào sau đây thuộc nhóm đào tạo TRONG công việc?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học qua quan sát (Job shadowing)"
+        },
+        {
+          "id": "B",
+          "text": "Đào tạo tại lớp học"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo qua hội thảo, hội nghị"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo trực tuyến (e-learning)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 19–22: đào tạo trong công việc gồm học qua quan sát, hướng dẫn trực tiếp, đào tạo qua công việc thực tế, làm việc nhóm, tình huống mô phỏng, thảo luận và phản hồi. Lớp học, hội thảo, e-learning là đào tạo ngoài công việc.",
+      "sourceSlides": [
+        19,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "Điểm khác nhau giữa \"học qua quan sát\" (Job shadowing) và \"hướng dẫn trực tiếp\" (Direct Instruction) là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shadowing: người mới chủ động theo dõi người có kinh nghiệm; hướng dẫn trực tiếp: người có kinh nghiệm giải thích, làm mẫu"
+        },
+        {
+          "id": "B",
+          "text": "Shadowing: diễn ra tại trung tâm đào tạo ngoài nơi làm việc; hướng dẫn trực tiếp: diễn ra hoàn toàn trực tuyến"
+        },
+        {
+          "id": "C",
+          "text": "Shadowing: luân phiên qua nhiều công việc để hiểu quy trình; hướng dẫn trực tiếp: học tập trung tại lớp học"
+        },
+        {
+          "id": "D",
+          "text": "Shadowing: giải quyết tình huống mô phỏng; hướng dẫn trực tiếp: thảo luận nhóm rồi nhận phản hồi từ đồng nghiệp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 20: Job shadowing – NLĐ mới theo dõi và học hỏi từ NLĐ có kinh nghiệm; Direct Instruction – NLĐ có kinh nghiệm hướng dẫn: giải thích công việc, cung cấp tài liệu và làm mẫu.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "Cấp độ \"Kết quả\" (cấp 4) trong mô hình Kirkpatrick trả lời câu hỏi nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học viên có thích và thấy chương trình có giá trị không?"
+        },
+        {
+          "id": "B",
+          "text": "Học viên đã học được những kiến thức, kỹ năng gì mới?"
+        },
+        {
+          "id": "C",
+          "text": "Học viên có thay đổi hành vi sau khóa học không?"
+        },
+        {
+          "id": "D",
+          "text": "Mục tiêu đào tạo đặt ra có đạt được không?"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 27: cấp 4 Kết quả – mục tiêu đào tạo có đạt được không; cấp 3 Hành vi – nhận diện thay đổi hành vi; cấp 2 Học tập; cấp 1 Phản ứng.",
+      "sourceSlides": [
+        27
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "Mô hình Kaufman đánh giá hiệu quả đào tạo theo những cấp độ nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phản ứng – Học tập – Hành vi – Kết quả"
+        },
+        {
+          "id": "B",
+          "text": "Đầu vào – Quá trình – Tiếp thu – Ứng dụng – Ảnh hưởng"
+        },
+        {
+          "id": "C",
+          "text": "Phân tích – Thiết kế – Phát triển – Thực hiện – Đánh giá"
+        },
+        {
+          "id": "D",
+          "text": "Chiêm nghiệm – Lựa chọn ưu tiên – Kết quả kỳ vọng – Kế hoạch – Thực hiện"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 28: mô hình Kaufman gồm 5 cấp: Đầu vào, Quá trình, Tiếp thu, Ứng dụng và Ảnh hưởng. Phương án thứ hai là Kirkpatrick (4 cấp), thứ ba là ADDIE, thứ tư là quy trình IDP.",
+      "sourceSlides": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "Đánh giá hiệu quả đào tạo được hiểu là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thống kê số lượng khóa học và số giờ đào tạo đã tổ chức trong năm"
+        },
+        {
+          "id": "B",
+          "text": "So sánh kết quả trước và sau đào tạo với mục tiêu, kỳ vọng của doanh nghiệp"
+        },
+        {
+          "id": "C",
+          "text": "Tính tổng chi phí đã chi cho giảng viên, tài liệu và cơ sở vật chất"
+        },
+        {
+          "id": "D",
+          "text": "Lập danh sách học viên tham gia và tỷ lệ có mặt tại các buổi học"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 26: đánh giá hiệu quả đào tạo là so sánh kết quả trước và sau đào tạo với mục tiêu, kỳ vọng của doanh nghiệp; giúp đo lường tính ứng dụng, mức độ hiệu quả và điều chỉnh phù hợp.",
+      "sourceSlides": [
+        26
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "Ở giai đoạn Phân tích (xác định nhu cầu đào tạo) của mô hình ADDIE, tổ chức cần tiến hành những phân tích nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Quy trình đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phân tích đối thủ, phân tích khách hàng và phân tích thị trường"
+        },
+        {
+          "id": "B",
+          "text": "Phân tích tài chính, phân tích rủi ro và phân tích pháp lý"
+        },
+        {
+          "id": "C",
+          "text": "Phân tích chi phí, phân tích lợi nhuận và phân tích ROI"
+        },
+        {
+          "id": "D",
+          "text": "Phân tích tổ chức, phân tích công việc và phân tích con người"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 18: xác định nhu cầu đào tạo gồm phân tích tổ chức, phân tích công việc và phân tích con người.",
+      "sourceSlides": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "Theo quy trình lập kế hoạch phát triển cá nhân (IDP), ở bước \"Lựa chọn ưu tiên phát triển\", cá nhân nên làm gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chọn càng nhiều mục tiêu càng tốt để phát triển toàn diện trong 5 năm"
+        },
+        {
+          "id": "B",
+          "text": "Chọn 1–2 ưu tiên có ảnh hưởng lớn nhất trong 6–12 tháng tới"
+        },
+        {
+          "id": "C",
+          "text": "Để cấp trên quyết định toàn bộ ưu tiên, không cần tự chiêm nghiệm"
+        },
+        {
+          "id": "D",
+          "text": "Chọn những kỹ năng mà phần lớn đồng nghiệp trong phòng đang học"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 32: Lựa chọn ưu tiên – chọn 1–2 ưu tiên có ảnh hưởng lớn nhất trong 6–12 tháng tới; sau đó xác định kết quả kỳ vọng (SMART), lập kế hoạch, thảo luận với cấp trên và đánh giá sau 3–4 tháng.",
+      "sourceSlides": [
+        32
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "Hình thức \"phát triển qua công việc\" bao gồm những hoạt động nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tổ chức các khóa học, hội thảo, chương trình đào tạo"
+        },
+        {
+          "id": "B",
+          "text": "Nhân viên được hướng dẫn bởi cố vấn hoặc lãnh đạo giàu kinh nghiệm"
+        },
+        {
+          "id": "C",
+          "text": "Các cơ hội thăng tiến, luân chuyển công việc hoặc đảm nhiệm các dự án"
+        },
+        {
+          "id": "D",
+          "text": "Nhân viên chủ động tham gia chương trình học tập cá nhân"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 41: phát triển qua công việc (thăng tiến, luân chuyển, dự án); qua đào tạo (khóa học, hội thảo); qua cố vấn (hướng dẫn bởi cố vấn, lãnh đạo); qua tự học (chủ động học tập, thực hành cá nhân).",
+      "sourceSlides": [
+        41
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "Trong tuần đầu tiên, nhân viên kế toán mới được sắp xếp ngồi cạnh kế toán trưởng để theo dõi cách lập báo cáo và học hỏi cách xử lý chứng từ. Đây là phương pháp đào tạo nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo tại lớp học (classroom)"
+        },
+        {
+          "id": "B",
+          "text": "Học qua quan sát (Job shadowing)"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo tình huống mô phỏng"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo qua hội thảo, hội nghị"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 20: Job shadowing – NLĐ mới theo dõi và học hỏi từ NLĐ có kinh nghiệm trong quá trình làm việc thực tế.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "Ngân hàng cho nhân viên mới lần lượt làm việc ở bộ phận giao dịch, tín dụng và thẩm định để hiểu quy trình tổng thể và phát triển kỹ năng đa dạng. Đây là phương pháp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo qua công việc thực tế (Work rotation)"
+        },
+        {
+          "id": "B",
+          "text": "Hướng dẫn trực tiếp"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo trực tuyến"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo qua chương trình chứng chỉ chuyên môn"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 20: đào tạo qua công việc thực tế (work rotation) – NLĐ tham gia nhiều công việc khác nhau để hiểu quy trình tổng thể và phát triển kỹ năng đa dạng.",
+      "sourceSlides": [
+        20
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "Ngay khi kết thúc khóa đào tạo kỹ năng bán hàng, công ty phát phiếu hỏi học viên có hài lòng với giảng viên, nội dung và thấy khóa học hữu ích không. Công ty đang đánh giá ở cấp độ nào của Kirkpatrick?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Học tập"
+        },
+        {
+          "id": "B",
+          "text": "Phản ứng"
+        },
+        {
+          "id": "C",
+          "text": "Hành vi"
+        },
+        {
+          "id": "D",
+          "text": "Kết quả"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Slide 27: cấp 1 Phản ứng – người học có thích và thấy chương trình có giá trị không. Phiếu khảo sát mức độ hài lòng ngay sau khóa học đo lường phản ứng.",
+      "sourceSlides": [
+        27
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "Ba tháng sau khóa đào tạo xử lý khiếu nại, quản lý quan sát xem nhân viên có áp dụng các kỹ năng đã học khi làm việc với khách hàng hay không. Đây là đánh giá ở cấp độ nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phản ứng"
+        },
+        {
+          "id": "B",
+          "text": "Học tập"
+        },
+        {
+          "id": "C",
+          "text": "Đầu vào"
+        },
+        {
+          "id": "D",
+          "text": "Hành vi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Slide 27: cấp 3 Hành vi – nhận diện sự thay đổi về hành vi sau khóa học. Việc quan sát áp dụng kỹ năng trong công việc thực tế là đánh giá hành vi.",
+      "sourceSlides": [
+        27
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "Một chương trình đào tạo có chi phí 200 triệu đồng và mang lại lợi nhuận 300 triệu đồng. ROI của chương trình là bao nhiêu?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "66,7%"
+        },
+        {
+          "id": "B",
+          "text": "50%"
+        },
+        {
+          "id": "C",
+          "text": "250%"
+        },
+        {
+          "id": "D",
+          "text": "150%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Áp dụng công thức slide 29: ROI = Lợi nhuận / Chi phí đào tạo × 100 = 300 / 200 × 100 = 150%.",
+      "sourceSlides": [
+        29
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "Công ty chuẩn bị chuyển sang hệ thống phần mềm kế toán mới, nhân viên kế toán hiện tại cần được củng cố kiến thức, kỹ năng để làm việc với hệ thống mới. Hình thức đào tạo theo mục tiêu nào phù hợp?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Các hình thức đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo hội nhập"
+        },
+        {
+          "id": "B",
+          "text": "Đào tạo đa dạng và bao hàm"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo lại"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo thay đổi thái độ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 12: đào tạo lại nhằm củng cố kiến thức, kỹ năng khi có sự thay đổi – phù hợp khi doanh nghiệp thay đổi hệ thống làm việc.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "Một công ty có nhân viên đến từ nhiều quốc gia và nền văn hóa khác nhau, thường xảy ra hiểu lầm và thiếu tôn trọng khác biệt. Chương trình đào tạo nào phù hợp nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Các hình thức đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đào tạo nâng cao"
+        },
+        {
+          "id": "B",
+          "text": "Đào tạo lại"
+        },
+        {
+          "id": "C",
+          "text": "Đào tạo đa dạng và bao hàm"
+        },
+        {
+          "id": "D",
+          "text": "Đào tạo kỹ năng lãnh đạo"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 12: đào tạo đa dạng và bao hàm giúp NLĐ hiểu và tôn trọng sự đa dạng trong môi trường làm việc.",
+      "sourceSlides": [
+        12
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "Một nhân viên lập IDP với 6 mục tiêu phát triển cho 3 năm tới, không trao đổi với cấp trên và không có mốc kiểm tra. Theo quy trình IDP trong bài giảng, nên điều chỉnh thế nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chọn 1–2 ưu tiên trong 6–12 tháng, mục tiêu SMART, thảo luận cấp trên, đánh giá sau 3–4 tháng"
+        },
+        {
+          "id": "B",
+          "text": "Giữ nguyên 6 mục tiêu nhưng kéo dài thời gian lên 5 năm để có đủ thời gian thực hiện"
+        },
+        {
+          "id": "C",
+          "text": "Bỏ bước thảo luận với cấp trên để tiết kiệm thời gian, tự đánh giá khi hoàn thành"
+        },
+        {
+          "id": "D",
+          "text": "Giữ nguyên kế hoạch, chỉ cần đánh giá kết quả một lần duy nhất khi kết thúc 3 năm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 32: IDP gồm chiêm nghiệm; chọn 1–2 ưu tiên trong 6–12 tháng; xác định kết quả kỳ vọng theo SMART; lập kế hoạch và thảo luận với cấp trên; thực hiện, đánh giá sau 3–4 tháng và điều chỉnh.",
+      "sourceSlides": [
+        32
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "Một nhân viên tuyển dụng muốn đi theo hướng chuyên gia thay vì quản lý trong lộ trình phát triển nghề nhân sự. Lộ trình nào phù hợp với slide minh họa?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phát triển nhân lực",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chuyên viên → Chuyên gia → Chuyên gia cấp cao"
+        },
+        {
+          "id": "B",
+          "text": "Trưởng nhóm → Trưởng phòng → Giám đốc"
+        },
+        {
+          "id": "C",
+          "text": "Trưởng phòng → Phó Tổng giám đốc → Giám đốc"
+        },
+        {
+          "id": "D",
+          "text": "Trợ lý nhân sự → Trưởng nhóm → Trưởng phòng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Slide 38: hướng chuyên gia đi từ nhân sự chuyên trách (trợ lý/nhân viên tuyển dụng…) → Chuyên viên (Specialist) → Chuyên gia (Expert) → Chuyên gia cấp cao (Pre-eminent); hướng quản lý đi qua Trưởng nhóm → Trưởng phòng → Giám đốc → Phó Tổng giám đốc.",
+      "sourceSlides": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "Ngân sách đào tạo hạn chế, công ty muốn phát triển năng lực nhân viên hiệu quả theo mô hình 70-20-10. Cách phân bổ nỗ lực nào phù hợp nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "topic": "Phương pháp đào tạo",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dồn toàn bộ ngân sách cho các khóa học chính quy bên ngoài có cấp chứng chỉ chuyên môn"
+        },
+        {
+          "id": "B",
+          "text": "Chỉ khuyến khích nhân viên tự học qua tài liệu, không giao thêm nhiệm vụ hay dự án mới"
+        },
+        {
+          "id": "C",
+          "text": "Ưu tiên giao dự án, nhiệm vụ thực tế; kết hợp mentoring/coaching; bổ sung ít khóa học chính quy"
+        },
+        {
+          "id": "D",
+          "text": "Tổ chức hội thảo chuyên đề hằng tuần để thay thế cho tất cả các hình thức học tập khác"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Slide 25: 70% học tập đến từ trải nghiệm thực tế (đào tạo trong công việc, dự án), 20% từ học tập xã hội (đồng nghiệp, quản lý, mentoring, coaching) và chỉ 10% từ đào tạo chính quy.",
+      "sourceSlides": [
+        25
+      ]
+    }
+  ]
+}
