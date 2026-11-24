@@ -39,6 +39,9 @@
     return m ? String(parseInt(m[1], 10)) : String(fallback);
   }
 
+  /** Đơn vị nguồn tham khảo: "slide" (mặc định) hoặc "trang" (khai báo sourceUnit). */
+  function unitLabel(d) { return (d && d.sourceUnit) || "slide"; }
+
   function tabColor(index) { return "var(--tab-" + ((index % 8) + 1) + ")"; }
 
   function getParam(name) { return new URLSearchParams(location.search).get(name); }
@@ -80,7 +83,7 @@
 
   window.App = {
     escapeHTML, formatDuration, formatClock, formatScore, formatDate,
-    chapterNumber, tabColor, getParam, showError
+    chapterNumber, tabColor, unitLabel, getParam, showError
   };
 
   // ---------- Trang chủ ----------
@@ -100,10 +103,17 @@
       document.getElementById("site-title").textContent = manifest.siteTitle;
     }
     const totalQ = docs.reduce(function (s, d) { return s + (d.totalQuestions || 0); }, 0);
-    const totalSlides = docs.reduce(function (s, d) { return s + (d.totalSlides || 0); }, 0);
     let examsDone = 0;
 
-    drawer.innerHTML = docs.map(function (d, i) {
+    // Nhóm bộ đề theo môn (manifest.subjects). Bộ đề không khai báo môn được gom vào nhóm "Khác".
+    const subjects = (manifest.subjects || []).slice();
+    const known = {};
+    subjects.forEach(function (s) { known[s.id] = true; });
+    if (docs.some(function (d) { return !d.subject || !known[d.subject]; })) {
+      subjects.push({ id: "__other", title: subjects.length ? "Khác" : "" });
+    }
+
+    function card(d, i) {
       const p = QuizStorage.getDeck(d.id);
       const practiced = Object.keys(p.practice.answers || {}).length;
       const pct = d.totalQuestions ? Math.round(practiced / d.totalQuestions * 100) : 0;
@@ -115,8 +125,8 @@
       return '<li><a class="folder" style="--tab:' + tabColor(i) + '" href="pages/quiz.html?id=' + encodeURIComponent(d.id) + '">' +
         '<span class="folder-tab" aria-hidden="true"><small>Chương</small><b>' + escapeHTML(chapterNumber(d.id, i + 1)) + '</b></span>' +
         '<span class="folder-body">' +
-          '<h2>' + escapeHTML(d.title) + '</h2>' +
-          '<p class="folder-meta">' + d.totalSlides + ' slide, ' + d.totalQuestions + ' câu hỏi, thi ' + (d.timeLimitMinutes || 30) + ' phút</p>' +
+          '<h3>' + escapeHTML(d.title) + '</h3>' +
+          '<p class="folder-meta">' + d.totalQuestions + ' câu hỏi, thi ' + (d.timeLimitMinutes || 30) + ' phút, nguồn ' + d.totalSlides + ' ' + unitLabel(d) + '</p>' +
           '<span class="meter" role="img" aria-label="Đã luyện ' + practiced + ' trên ' + d.totalQuestions + ' câu"><i style="width:' + pct + '%"></i></span>' +
           '<span class="meter-label">Luyện tập: ' + practiced + '/' + d.totalQuestions + ' câu</span>' +
         '</span>' +
@@ -125,12 +135,26 @@
             ? '<span><span class="score">' + formatScore(p.lastScore) + '</span>/10 gần nhất</span><span>Cao nhất: ' + formatScore(p.bestScore) + '</span>'
             : '<span>Chưa có điểm thi</span>') +
         '</span></a></li>';
+    }
+
+    let colorIndex = 0;
+    drawer.innerHTML = subjects.map(function (s) {
+      const list = docs.filter(function (d) {
+        return s.id === "__other" ? (!d.subject || !known[d.subject]) : d.subject === s.id;
+      });
+      if (!list.length) return "";
+      const q = list.reduce(function (n, d) { return n + (d.totalQuestions || 0); }, 0);
+      const cards = list.map(function (d) { return card(d, colorIndex++); }).join("");
+      return '<section class="subject" aria-labelledby="sub-' + escapeHTML(s.id) + '">' +
+        (s.title ? '<div class="subject-head"><h2 id="sub-' + escapeHTML(s.id) + '">' + escapeHTML(s.title) + '</h2>' +
+          '<p>' + list.length + ' bộ đề, ' + q + ' câu' + (s.description ? '. ' + escapeHTML(s.description) : '') + '</p></div>' : '') +
+        '<ul class="drawer">' + cards + '</ul></section>';
     }).join("");
 
     document.getElementById("totals").innerHTML =
+      '<div><strong>' + subjects.filter(function (s) { return s.id !== "__other"; }).length + '</strong><span>môn học</span></div>' +
       '<div><strong>' + docs.length + '</strong><span>bộ đề</span></div>' +
       '<div><strong>' + totalQ + '</strong><span>câu hỏi</span></div>' +
-      '<div><strong>' + totalSlides + '</strong><span>slide bài giảng</span></div>' +
       '<div><strong>' + examsDone + '/' + docs.length + '</strong><span>bộ đề đã thi</span></div>';
 
     const reset = document.getElementById("reset-progress");

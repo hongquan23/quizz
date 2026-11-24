@@ -1,0 +1,614 @@
+{
+  "documentId": "hvtd_ch02",
+  "documentTitle": "Chương 2 - Văn hóa và hành vi tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Một doanh nghiệp F&B khi mở rộng chuỗi cửa hàng từ TP. Hồ Chí Minh ra Hà Nội đã giữ nguyên phong cách phục vụ nhanh, chỉ tập trung vào dòng cà phê sữa đá mang đi (takeaway) mà không thay đổi theo thói quen thưởng thức chậm rãi của người miền Bắc, dẫn đến thất bại. Thất bại này chủ yếu do doanh nghiệp đã bỏ qua yếu tố nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình lĩnh hội văn hóa có ý thức của người tiêu dùng thủ đô"
+        },
+        {
+          "id": "B",
+          "text": "Cấu trúc sinh thái học thích nghi của hệ thống tư tưởng truyền thống"
+        },
+        {
+          "id": "C",
+          "text": "Sự biến đổi của giá trị phương tiện trong học tập hành vi"
+        },
+        {
+          "id": "D",
+          "text": "Ảnh hưởng của nhánh văn hóa theo khu vực sống (vùng miền) đến hành vi tiêu dùng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thói quen thưởng thức cà phê chậm rãi của người miền Bắc khác nhịp tiêu dùng nhanh, mang đi của miền Nam. Doanh nghiệp đã bỏ qua nhánh văn hóa theo vùng miền – một cơ sở phân chia nhánh văn hóa quan trọng chi phối hành vi tiêu dùng.",
+      "sourceSlides": [
+        1
+      ],
+      "sourceRef": "Chương 2, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Một nhóm khách hàng trẻ tuổi tại Việt Nam rất thích sắm sửa và trang trí lại phòng ngủ của mình để không gian trở nên ấm cúng và hấp dẫn hơn bằng cách mua các sản phẩm nội thất thông minh của IKEA. Hành vi này phản ánh nhóm giá trị văn hóa cốt lõi nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sức khỏe"
+        },
+        {
+          "id": "B",
+          "text": "Nhà cửa"
+        },
+        {
+          "id": "C",
+          "text": "Chủ nghĩa vật chất"
+        },
+        {
+          "id": "D",
+          "text": "Tuổi trẻ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Việc chăm chút, trang trí để không gian sống ấm cúng, hấp dẫn hơn phản ánh giá trị cốt lõi \"Nhà cửa\" (coi trọng ngôi nhà, tổ ấm của mình).",
+      "sourceSlides": [
+        1
+      ],
+      "sourceRef": "Chương 2, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Quá trình “Lĩnh hội văn hóa chính thức” khác biệt với “Lĩnh hội văn hóa không chính thức” ở điểm nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xảy ra thông qua việc quan sát bạn bè và các thành viên trong gia đình hằng ngày"
+        },
+        {
+          "id": "B",
+          "text": "Diễn ra trong các cơ sở giáo dục, trường học hoặc trung tâm đào tạo tôn giáo"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ tập trung vào việc tiếp nhận các đặc điểm công nghệ và hình thức nghệ thuật mới"
+        },
+        {
+          "id": "D",
+          "text": "Là quá trình học tập các giá trị một cách hoàn toàn vô thức từ môi trường sống"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lĩnh hội văn hóa chính thức diễn ra qua giáo dục có tổ chức (trường học, trung tâm đào tạo, cơ sở tôn giáo); lĩnh hội không chính thức diễn ra qua quan sát, bắt chước gia đình, bạn bè trong đời sống hằng ngày.",
+      "sourceSlides": [
+        1
+      ],
+      "sourceRef": "Chương 2, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Một nhà nghiên cứu hành vi quan sát thấy một du khách nước ngoài sau hai năm sống tại Hà Nội đã học cách nhâm nhi ly cà phê nâu đá chậm rãi vào buổi sáng, thích đi chúc Tết bằng áo dài truyền thống và từ chối cho lửa đầu năm. Quá trình du khách này tiếp nhận và điều chỉnh hành vi cho phù hợp với văn hóa Việt Nam được gọi là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự lĩnh hội văn hóa chính thức"
+        },
+        {
+          "id": "B",
+          "text": "Sự phát triển của chủ nghĩa cá nhân trong tiêu dùng"
+        },
+        {
+          "id": "C",
+          "text": "Sự tiếp biến văn hóa ở cấp độ cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Sự hình thành cấu trúc sinh thái học đô thị mới"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Người từ nền văn hóa khác học hỏi và điều chỉnh hành vi theo văn hóa nơi mình sinh sống là sự tiếp biến văn hóa (acculturation) ở cấp độ cá nhân.",
+      "sourceSlides": [
+        1,
+        2
+      ],
+      "sourceRef": "Chương 2, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Thương hiệu dầu gội dược liệu Nguyên Xuân triển khai chiến dịch “Chuyến tàu thanh xuân mãi mãi” vào năm 2024 nhằm quảng bá dòng sản phẩm giúp chăm sóc ngoại hình và gìn giữ vẻ đẹp trước dấu ấn thời gian. Chiến dịch này đang tập trung khai thác giá trị cốt lõi nào của người tiêu dùng?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chủ nghĩa cá nhân"
+        },
+        {
+          "id": "B",
+          "text": "Tuổi trẻ"
+        },
+        {
+          "id": "C",
+          "text": "Môi trường"
+        },
+        {
+          "id": "D",
+          "text": "Sức khỏe"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thông điệp \"thanh xuân mãi mãi\", gìn giữ vẻ đẹp trước dấu ấn thời gian khai thác giá trị \"Tuổi trẻ\" – mong muốn trông trẻ trung, kéo dài tuổi xuân.",
+      "sourceSlides": [
+        2
+      ],
+      "sourceRef": "Chương 2, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Sự khác biệt cốt lõi giữa “Tục lệ” và “Quy ước” là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tục lệ liên quan đến điều cấm kỵ hoặc hành vi bị cấm, quy ước liên quan đến cách ứng xử hằng ngày."
+        },
+        {
+          "id": "B",
+          "text": "Tục lệ do trường học giảng dạy chính thức, quy ước do gia đình truyền dạy vô thức."
+        },
+        {
+          "id": "C",
+          "text": "Tục lệ có tính thay đổi nhanh chóng, quy ước có tính bền vững qua nhiều thế kỷ."
+        },
+        {
+          "id": "D",
+          "text": "Tục lệ quy định hành vi chúc Tết, quy ước quy định các nghi lễ tôn giáo trang nghiêm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tục lệ là phong tục mang tính đạo đức mạnh, thường liên quan đến điều cấm kỵ, hành vi bị cấm; quy ước là chuẩn mực về cách ứng xử trong cuộc sống hằng ngày.",
+      "sourceSlides": [
+        2
+      ],
+      "sourceRef": "Chương 2, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Thành phần biểu tượng nào sau đây được nhận định là quan trọng nhất của văn hóa?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiền bạc"
+        },
+        {
+          "id": "B",
+          "text": "Nghệ thuật"
+        },
+        {
+          "id": "C",
+          "text": "Ngôn ngữ"
+        },
+        {
+          "id": "D",
+          "text": "Tín ngưỡng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ngôn ngữ là thành phần biểu tượng quan trọng nhất của văn hóa, là phương tiện để chia sẻ, truyền đạt mọi giá trị và chuẩn mực.",
+      "sourceSlides": [
+        2
+      ],
+      "sourceRef": "Chương 2, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Một người tiêu dùng thích uống cà phê sữa đá, có nhịp độ tiêu dùng nhanh, ưa chuộng dòng cà phê pha máy và hình thức mang đi (takeaway). Theo phân tích ảnh hưởng vùng miền, người này thể hiện đặc điểm hành vi tiêu dùng điển hình của khu vực nào nhất?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miền Nam (TP. Hồ Chí Minh)"
+        },
+        {
+          "id": "B",
+          "text": "Cả ba miền Bắc, Trung, Nam"
+        },
+        {
+          "id": "C",
+          "text": "Miền Bắc"
+        },
+        {
+          "id": "D",
+          "text": "Miền Trung"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhịp độ tiêu dùng nhanh, ưa cà phê sữa đá, cà phê pha máy và mang đi là đặc điểm điển hình của người tiêu dùng miền Nam (TP. Hồ Chí Minh).",
+      "sourceSlides": [
+        2,
+        3
+      ],
+      "sourceRef": "Chương 2, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Khi một khách hàng Việt Nam kiên quyết từ chối cho người khác lửa vào sáng mùng 1 Tết Nguyên đán vì quan niệm lửa đỏ đem lại may mắn, ấm áp cho gia đình cả năm. Hành vi tiêu dùng và ứng xử này chịu ảnh hưởng trực tiếp của chuẩn mực văn hóa nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phong tục"
+        },
+        {
+          "id": "B",
+          "text": "Lĩnh hội chính thức"
+        },
+        {
+          "id": "C",
+          "text": "Quy ước"
+        },
+        {
+          "id": "D",
+          "text": "Tục lệ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kiêng cho lửa sáng mùng 1 Tết là một điều cấm kỵ được duy trì vì niềm tin về may mắn. Theo phân loại chuẩn mực văn hóa, chuẩn mực gắn với điều cấm kỵ là tục lệ.",
+      "sourceSlides": [
+        3
+      ],
+      "sourceRef": "Chương 2, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Tại Việt Nam, theo nghiên cứu của Nguyễn Quốc Tuấn (2020), giá trị nào sau đây được xếp vào nhóm “Giá trị vì mục đích cuối cùng” phổ biến nhất?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gia đình an toàn"
+        },
+        {
+          "id": "B",
+          "text": "Tinh thần trách nhiệm"
+        },
+        {
+          "id": "C",
+          "text": "Sẵn sàng giúp đỡ"
+        },
+        {
+          "id": "D",
+          "text": "Tự kiểm soát bản thân"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Rokeach, \"gia đình an toàn\" thuộc giá trị vì mục đích cuối cùng (trạng thái mong muốn đạt được); tinh thần trách nhiệm, sẵn sàng giúp đỡ, tự kiểm soát là giá trị phương tiện (cách ứng xử).",
+      "sourceSlides": [
+        3
+      ],
+      "sourceRef": "Chương 2, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Chuẩn mực văn hóa nào được định nghĩa là “được lưu truyền qua các thế hệ nhằm kiểm soát các hành vi cơ bản”?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hệ tư tưởng"
+        },
+        {
+          "id": "B",
+          "text": "Quy ước"
+        },
+        {
+          "id": "C",
+          "text": "Phong tục"
+        },
+        {
+          "id": "D",
+          "text": "Tục lệ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phong tục là các hành vi được lưu truyền qua các thế hệ nhằm kiểm soát các hành vi cơ bản.",
+      "sourceSlides": [
+        3
+      ],
+      "sourceRef": "Chương 2, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Lotteria bổ sung các món cơm vào thực đơn khi gia nhập thị trường Việt Nam; McDonald’s tại Israel loại bỏ các sản phẩm từ sữa để không vi phạm quy định ăn kiêng Kosher. Dưới góc độ quản trị marketing, các điều chỉnh này là ví dụ điển hình của việc ứng dụng quá trình nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình lĩnh hội văn hóa trong vô thức của các cá nhân"
+        },
+        {
+          "id": "B",
+          "text": "Quá trình củng cố giá trị phương tiện của thế hệ Gen Z"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình bảo tồn nguyên vẹn cấu trúc xã hội sinh thái học ban đầu"
+        },
+        {
+          "id": "D",
+          "text": "Quá trình tiếp biến theo đặc điểm văn hóa của thị trường"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lotteria và McDonald's điều chỉnh sản phẩm cho phù hợp tập quán, tôn giáo của thị trường mới – ứng dụng quá trình tiếp biến theo đặc điểm văn hóa của thị trường.",
+      "sourceSlides": [
+        3
+      ],
+      "sourceRef": "Chương 2, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Đài Truyền hình Việt Nam phát sóng kênh VTV5 bằng 8 thứ tiếng dân tộc thiểu số khác nhau (như tiếng Mông, tiếng Thái và tiếng Dao). Việc phân chia và phục vụ nhóm khách hàng đặc thù này dựa trên cơ sở phân loại nhánh văn hóa nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhánh văn hóa theo thế hệ và độ tuổi người tiêu dùng"
+        },
+        {
+          "id": "B",
+          "text": "Nhánh văn hóa theo sắc tộc và nhân khẩu học"
+        },
+        {
+          "id": "C",
+          "text": "Nhánh văn hóa theo điều kiện khí hậu và khu vực địa lý"
+        },
+        {
+          "id": "D",
+          "text": "Nhánh văn hóa theo tôn giáo và tín ngưỡng tâm linh"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phát sóng bằng tiếng các dân tộc thiểu số là phục vụ nhánh văn hóa theo sắc tộc (dân tộc), một tiêu chí nhân khẩu học.",
+      "sourceSlides": [
+        4
+      ],
+      "sourceRef": "Chương 2, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Đặc trưng nào của văn hóa thể hiện qua khái niệm “Chủ nghĩa tổng thể”, mô tả các thành phần khác nhau của một nền văn hóa được kết nối chặt chẽ và liên quan đến nhau?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Văn hóa được chia sẻ"
+        },
+        {
+          "id": "B",
+          "text": "Văn hóa có tính hệ thống biểu tượng"
+        },
+        {
+          "id": "C",
+          "text": "Văn hóa vừa lâu bền vừa thích nghi"
+        },
+        {
+          "id": "D",
+          "text": "Văn hóa được tích hợp"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đặc trưng \"văn hóa được tích hợp\" thể hiện qua chủ nghĩa tổng thể: các thành phần của văn hóa liên kết chặt chẽ, liên quan với nhau.",
+      "sourceSlides": [
+        4
+      ],
+      "sourceRef": "Chương 2, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Theo học thuyết của Rokeach (1973), nhóm “Giá trị phương tiện” (Instrumental values) được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là tiêu chuẩn mong muốn về tư chất đạo đức hoặc phương pháp đạt mục đích"
+        },
+        {
+          "id": "B",
+          "text": "Là các phương tiện vật chất hỗ trợ con người di chuyển trong đời sống"
+        },
+        {
+          "id": "C",
+          "text": "Là trạng thái cuối cùng mà một con người luôn mong muốn đạt được"
+        },
+        {
+          "id": "D",
+          "text": "Là các quy ước ứng xử tinh tế được ngầm hiểu trong cuộc sống hằng ngày"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giá trị phương tiện (Rokeach) là tiêu chuẩn mong muốn về cách ứng xử, tư chất đạo đức hoặc phương pháp để đạt mục đích; còn trạng thái cuối cùng mong muốn là giá trị mục đích.",
+      "sourceSlides": [
+        4
+      ],
+      "sourceRef": "Chương 2, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Khái niệm “Nhánh văn hóa” (Subculture) được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là chuẩn mực ứng xử ngầm ăn sâu bén rễ vào đời sống hằng ngày của một bộ phận người dân"
+        },
+        {
+          "id": "B",
+          "text": "Là một nhóm người có văn hóa khác nhau gặp nhau và giao lưu làm biến đổi mô thức ban đầu"
+        },
+        {
+          "id": "C",
+          "text": "Là nhóm khác biệt tồn tại trong một nền văn hóa lớn hơn, có hành vi đặc trưng bắt nguồn từ niềm tin, giá trị, phong tục riêng"
+        },
+        {
+          "id": "D",
+          "text": "Là hệ thống các nguyên tắc định hướng cách thức thích nghi của con người với hệ sinh thái"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhánh văn hóa là một nhóm khác biệt tồn tại trong nền văn hóa lớn hơn, có hành vi đặc trưng bắt nguồn từ niềm tin, giá trị, phong tục riêng.",
+      "sourceSlides": [
+        4
+      ],
+      "sourceRef": "Chương 2, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Thành tố “Sinh thái học” (Ecology) cấu thành nên một hệ thống văn hóa được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là đặc điểm tinh thần của một dân tộc và cách họ liên hệ với các nhóm"
+        },
+        {
+          "id": "B",
+          "text": "Là cách thức duy trì đời sống xã hội có trật tự và ổn định lâu dài"
+        },
+        {
+          "id": "C",
+          "text": "Là cách thức mà một hệ thống thích nghi với môi trường sống của nó"
+        },
+        {
+          "id": "D",
+          "text": "Là các nguyên tắc chung hình thành nên những giá trị cốt lõi của xã hội"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sinh thái học là cách thức mà một hệ thống (văn hóa) thích nghi với môi trường sống của nó.",
+      "sourceSlides": [
+        4,
+        5
+      ],
+      "sourceRef": "Chương 2, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Hai người bạn trẻ cùng tham gia một chiến dịch bảo vệ môi trường mang tên “Trồng cây, trồng trải nghiệm” của OMO vào năm 2026. Một người tham gia vì muốn bảo vệ tài nguyên thiên nhiên, người còn lại tham gia vì muốn trải nghiệm hoạt động ngoài trời lành mạnh. Dựa trên lý thuyết về giá trị và hành vi tiêu dùng, nhà quản trị marketing nên rút ra kết luận gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hành vi bảo vệ môi trường của họ là tạm thời và sẽ biến đổi cực kỳ nhanh chóng theo hoàn cảnh"
+        },
+        {
+          "id": "B",
+          "text": "Giá trị vì mục đích cuối cùng của hai người này hoàn toàn trùng khớp với giá trị phương tiện"
+        },
+        {
+          "id": "C",
+          "text": "Doanh nghiệp bắt buộc phải thiết kế hai chiến dịch truyền thông hoàn toàn độc lập cho hai người"
+        },
+        {
+          "id": "D",
+          "text": "Cùng một hành vi tiêu dùng hoặc hoạt động có thể được thúc đẩy bởi các hệ thống niềm tin khác nhau"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai người cùng tham gia một hoạt động nhưng vì những giá trị khác nhau (bảo vệ thiên nhiên và trải nghiệm lành mạnh): cùng một hành vi có thể được thúc đẩy bởi các hệ thống niềm tin khác nhau.",
+      "sourceSlides": [
+        5
+      ],
+      "sourceRef": "Chương 2, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Nhận định nào sau đây mô tả đúng nhất mối quan hệ giữa “Giá trị” và “Hành vi tiêu dùng”?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hệ thống niềm tin khác nhau luôn dẫn đến các hành vi tiêu dùng hoàn toàn khác biệt."
+        },
+        {
+          "id": "B",
+          "text": "Những người có cùng hành vi tiêu dùng bắt buộc phải có hệ thống niềm tin giống nhau."
+        },
+        {
+          "id": "C",
+          "text": "Giá trị chỉ định hướng hành vi xã hội chung chứ không ảnh hưởng đến tiêu dùng thực tế."
+        },
+        {
+          "id": "D",
+          "text": "Hai người có thể có hành vi tiêu dùng giống nhau nhưng hệ thống niềm tin cơ bản có thể khác nhau."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giá trị định hướng hành vi nhưng không theo quan hệ một-một: hai người có hành vi tiêu dùng giống nhau vẫn có thể có hệ thống niềm tin cơ bản khác nhau.",
+      "sourceSlides": [
+        5
+      ],
+      "sourceRef": "Chương 2, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Trong bữa cơm gia đình của người Việt, việc các thành viên ngầm hiểu rằng không nên dùng đũa, thìa cá nhân để khuấy trong bát canh hoặc đĩa nước chấm dùng chung là việc tuân thủ chuẩn mực văn hóa nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quy ước"
+        },
+        {
+          "id": "B",
+          "text": "Lĩnh hội có ý thức"
+        },
+        {
+          "id": "C",
+          "text": "Phong tục"
+        },
+        {
+          "id": "D",
+          "text": "Tục lệ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không khuấy đũa, thìa cá nhân vào món dùng chung là chuẩn mực ứng xử ngầm hiểu trong sinh hoạt hằng ngày – thuộc quy ước.",
+      "sourceSlides": [
+        5,
+        6
+      ],
+      "sourceRef": "Chương 2, câu 20"
+    }
+  ]
+}

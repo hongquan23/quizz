@@ -1,0 +1,612 @@
+{
+  "documentId": "hvtd_ch06",
+  "documentTitle": "Chương 6 - Giá trị chuẩn mực, cá tính và lối sống",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Sau một tuần làm việc đầy căng thẳng với các cuộc họp dày đặc và tiếng ồn đô thị (kích thích thực tế vượt quá mức tối ưu), kỳ nghỉ cuối tuần anh Tuấn quyết định tắt điện thoại, tìm về một homestay yên tĩnh ở ngoại ô để câu cá và đọc sách. Hành vi tìm kiếm sự thư giãn này của anh Tuấn phù hợp với quy luật nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kích thích thực tế đạt trạng thái cân bằng hoàn hảo giúp cá nhân duy trì sự hưng phấn cao"
+        },
+        {
+          "id": "B",
+          "text": "Mức kích thích tối ưu không liên quan tới các hành vi lựa chọn địa điểm nghỉ ngơi giải trí"
+        },
+        {
+          "id": "C",
+          "text": "Kích thích thực tế đang thấp hơn mức tối ưu nên cá nhân phải tìm kiếm thêm các hoạt động"
+        },
+        {
+          "id": "D",
+          "text": "Kích thích thực tế cao hơn mức tối ưu dẫn tới trạng thái quá kích thích cần tìm sự yên tĩnh"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sau tuần làm việc nhiều tiếng ồn, áp lực, mức kích thích thực tế của anh Tuấn cao hơn mức kích thích tối ưu, nên anh tìm sự yên tĩnh để đưa kích thích về mức tối ưu.",
+      "sourceSlides": [
+        19
+      ],
+      "sourceRef": "Chương 6, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Lối sống của người tiêu dùng được thể hiện rõ nét qua 3 khía cạnh nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phân bổ thời gian & địa điểm, Phân bổ thu nhập và Tuyên bố về bản thân trong xã hội"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm máu sinh học, Chiều cao thể chất và Năng khiếu nghệ thuật bẩm sinh của cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Trình độ học vấn, Mức độ uy tín nghề nghiệp và Quy mô tài sản gia đình thừa kế được"
+        },
+        {
+          "id": "D",
+          "text": "Cơ cấu tổ chức gia đình, Số lượng con cái và Quan hệ họ hàng thân thuộc qua nhiều đời"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lối sống thể hiện qua cách một người phân bổ thời gian và địa điểm, cách phân bổ thu nhập (chi tiêu) và những gì người đó tuyên bố về bản thân trong xã hội.",
+      "sourceSlides": [
+        19,
+        20
+      ],
+      "sourceRef": "Chương 6, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Trong cấu trúc nhân cách theo tiếp cận phân tâm học của Freud, thành phần “Bản năng” (id) có đặc điểm nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là thước đo giúp đánh giá vị thế xã hội và mức độ thành công của một người trưởng thành"
+        },
+        {
+          "id": "B",
+          "text": "Là người điều hành có ý thức thực hiện việc cân bằng giữa các xung đột nội tâm cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Là sự hiện thân bên trong của các chuẩn mực đạo đức và khuôn khổ văn hóa của xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Là bộ phận nguyên thủy vô ý thức tìm kiếm sự thỏa mãn tức thì các nhu cầu sinh lý"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo Freud, bản năng (id) là phần nguyên thủy, vô ý thức, tìm kiếm thỏa mãn tức thì các nhu cầu sinh lý; siêu tôi là chuẩn mực đạo đức; bản ngã là người điều hành có ý thức.",
+      "sourceSlides": [
+        20
+      ],
+      "sourceRef": "Chương 6, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Bà Lan luôn ưu tiên chọn mua các mặt hàng nông sản, dệt may sản xuất trong nước dù mẫu mã có thể chưa bắt mắt bằng hàng ngoại, vì bà cho rằng việc mua hàng ngoại sẽ gây bất lợi cho người lao động trong nước. Dưới góc độ nghiên cứu cá tính người tiêu dùng, bà Lan thể hiện đặc điểm nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thuộc nhóm người tiêu dùng cách tân luôn tìm kiếm sự đổi mới đa dạng trong mua sắm"
+        },
+        {
+          "id": "B",
+          "text": "Là người tiêu dùng có mức độ mở lòng rất cao đối với các nền văn hóa quốc tế du nhập"
+        },
+        {
+          "id": "C",
+          "text": "Có mức độ giáo điều thấp nên dễ dàng tiếp thu mọi cách thức hành động mới mẻ lạ lẫm"
+        },
+        {
+          "id": "D",
+          "text": "Có khuynh hướng dân tộc cao nên sẵn sàng từ chối hàng ngoại để ủng hộ người trong nước"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ưu tiên hàng trong nước, cho rằng mua hàng ngoại gây bất lợi cho lao động trong nước là biểu hiện của khuynh hướng dân tộc (vị chủng tiêu dùng) cao.",
+      "sourceSlides": [
+        20
+      ],
+      "sourceRef": "Chương 6, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Khi nhìn thấy chiếc bánh kem socola béo ngậy, bản năng muốn ăn ngay lập tức trỗi dậy, nhưng chuẩn mực giữ dáng đóng vai trò là “chiếc phanh” kiềm chế lại. Cuối cùng, người mua quyết định chọn mua một hộp sữa chua socola ít đường để vừa thỏa mãn cơn thèm vừa không hại sức khỏe. Cơ chế này phản ánh sự vận hành của yếu tố nào trong lý thuyết Freud?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiện tượng phủ định bản thân do cá nhân tự đặt ra những niềm tin sai lệch về sức khỏe"
+        },
+        {
+          "id": "B",
+          "text": "Sự áp đặt tuyệt đối của các chuẩn mực đạo đức xã hội khiến cá nhân triệt tiêu nhu cầu"
+        },
+        {
+          "id": "C",
+          "text": "Vai trò điều hành có ý thức của bản ngã giúp cân bằng giữa bản năng và siêu tôi"
+        },
+        {
+          "id": "D",
+          "text": "Sự đầu hàng hoàn toàn của cái siêu tôi trước các ham muốn nguyên thủy của bản năng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bản năng muốn ăn ngay, siêu tôi kiềm chế; bản ngã (ego) điều hành có ý thức, tìm phương án dung hòa là sữa chua ít đường.",
+      "sourceSlides": [
+        20
+      ],
+      "sourceRef": "Chương 6, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Một hãng tai nghe Bluetooth cao cấp thiết kế hai thông điệp: Mẫu 1 nhấn mạnh: “Chất âm trung thực đạt chuẩn phòng thu giúp bạn tận hưởng trọn vẹn từng nốt nhạc riêng mình”; Mẫu 2 nhấn mạnh: “Thiết kế thời thượng được giới trẻ sành điệu tại các đô thị lớn tin dùng và ngưỡng mộ”. Hai thông điệp này nhắm tới hai đối tượng cá tính nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mẫu 1 nhắm vào người có khuynh hướng dân tộc cao, Mẫu 2 nhắm vào người dân tộc thấp"
+        },
+        {
+          "id": "B",
+          "text": "Mẫu 1 nhắm vào người kiểm soát bên ngoài, Mẫu 2 nhắm vào người kiểm soát nội tâm"
+        },
+        {
+          "id": "C",
+          "text": "Mẫu 1 nhắm vào người có định hướng bên trong, Mẫu 2 nhắm vào người định hướng xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Mẫu 1 nhắm vào người có nhu cầu tri thức thấp, Mẫu 2 nhắm vào người nhu cầu tri thức cao"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mẫu 1 đề cao trải nghiệm, tiêu chuẩn riêng của bản thân (định hướng bên trong); Mẫu 2 dựa vào sự công nhận, ngưỡng mộ của người khác (định hướng xã hội/hướng ngoại).",
+      "sourceSlides": [
+        20
+      ],
+      "sourceRef": "Chương 6, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Một người phụ nữ luôn cảm thấy tự ti và lo âu vì ngoại hình thực tế của mình không thon gọn như các người mẫu trên mạng (hình ảnh bản thân không phù hợp với cái tôi lý tưởng). Nắm bắt tâm lý này, một thẩm mỹ viện đã tung ra gói Kiến tạo vóc dáng lý tưởng để giải quyết vấn đề. Thẩm mỹ viện đang khai thác hệ quả nào của sự không tương thích bản thân?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu tri thức cao thúc đẩy khách hàng tìm kiếm các tài liệu y khoa tự phẫu thuật"
+        },
+        {
+          "id": "B",
+          "text": "Sự khó chịu, lo âu nảy sinh khi hình ảnh hiện tại không phù hợp với cái tôi lý tưởng"
+        },
+        {
+          "id": "C",
+          "text": "Tình trạng kích thích thực tế bằng mức tối ưu tạo ra sự thỏa mãn sâu sắc cho người dùng"
+        },
+        {
+          "id": "D",
+          "text": "Cơ chế kiểm soát nội tâm giúp cá nhân hoàn toàn bằng lòng với những gì đang sở hữu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi hình ảnh hiện tại không phù hợp với cái tôi lý tưởng, người tiêu dùng khó chịu, lo âu và tìm sản phẩm giúp thu hẹp khoảng cách; thẩm mỹ viện khai thác chính trạng thái này.",
+      "sourceSlides": [
+        21
+      ],
+      "sourceRef": "Chương 6, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Chị Hà tự miêu tả bản thân: “Tôi là một người hướng nội thích đọc sách (1), một người mẹ chu đáo luôn chăm sóc các con (2), và là một kỹ sư tích cực trong Hội Nữ trí thức (3)”. Theo nghiên cứu của Richard Crisp và Rhiannon Turner (2020), 3 nhận định trên lần lượt phản ánh các phạm vi tự nhận thức nào của chị Hà?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Động cơ thỏa mãn sinh học, Mục tiêu khẳng định quyền lực và Nỗ lực vượt qua sự tự ti"
+        },
+        {
+          "id": "B",
+          "text": "Nhận thức theo bản năng vô thức, Nhận thức theo siêu tôi đạo đức và Nhận thức theo cái tôi"
+        },
+        {
+          "id": "C",
+          "text": "Nhận thức chấp nhận có điều kiện, Phủ định bản thân và Nhận định niềm tin sai lệch"
+        },
+        {
+          "id": "D",
+          "text": "Tôi như một cá thể, Tôi trong mối quan hệ và Tôi trong tập thể của xã hội"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hướng nội thích đọc sách là tôi như một cá thể; người mẹ chăm con là tôi trong mối quan hệ; thành viên Hội Nữ trí thức là tôi trong tập thể xã hội.",
+      "sourceSlides": [
+        21
+      ],
+      "sourceRef": "Chương 6, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Khía cạnh “Cái tôi xã hội lý tưởng” trong cấu trúc sự tự nhận thức trả lời cho câu hỏi nào của người tiêu dùng?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trong suy nghĩ của tôi, những người xung quanh hiện đang nhìn nhận và đánh giá tôi ra sao?"
+        },
+        {
+          "id": "B",
+          "text": "Tôi thực sự nhận thấy bản thân mình hiện tại đang là một con người như thế nào?"
+        },
+        {
+          "id": "C",
+          "text": "Tôi mong muốn và kỳ vọng những người xung quanh trong xã hội sẽ nhìn nhận mình thế nào?"
+        },
+        {
+          "id": "D",
+          "text": "Bản thân tôi khao khát và mong muốn sẽ trở thành một hình mẫu cá nhân như thế nào?"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cái tôi xã hội lý tưởng trả lời câu hỏi: tôi mong muốn người khác nhìn nhận mình như thế nào. Câu hỏi \"người khác đang nhìn tôi ra sao\" là cái tôi xã hội.",
+      "sourceSlides": [
+        21
+      ],
+      "sourceRef": "Chương 6, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Karen Horney chia cá tính thành 3 định hướng, trong đó nhóm cá tính “Lãnh đạm” được mô tả như thế nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dễ bị dao động cảm xúc, luôn lo lắng và tự nghi ngờ về năng lực thực tế của chính mình"
+        },
+        {
+          "id": "B",
+          "text": "Luôn hướng tới và phụ thuộc vào người khác, mong muốn được yêu thương và đánh giá cao"
+        },
+        {
+          "id": "C",
+          "text": "Có tính cách độc lập, tự thỏa mãn nhu cầu bản thân và có xu hướng tách rời người khác"
+        },
+        {
+          "id": "D",
+          "text": "Luôn khao khát trở nên xuất sắc, được ngưỡng mộ và có xu hướng cạnh tranh quyền lực mạnh"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo Karen Horney, người lãnh đạm (detached) độc lập, tự thỏa mãn và có xu hướng tách khỏi người khác; người nhượng bộ hướng về người khác; người hung hăng muốn vượt trội, cạnh tranh.",
+      "sourceSlides": [
+        21
+      ],
+      "sourceRef": "Chương 6, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Chuẩn mực cá nhân trong giá trị chuẩn mực được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là sự tổng hợp các phong cách sống khác nhau trong cùng một tầng lớp xã hội đô thị"
+        },
+        {
+          "id": "B",
+          "text": "Là kỳ vọng hoặc nghĩa vụ về hành vi phù hợp mà cá nhân cho rằng mình nên tuân theo"
+        },
+        {
+          "id": "C",
+          "text": "Là các phương tiện vật chất hữu hình phục vụ cho việc đi lại hàng ngày của con người"
+        },
+        {
+          "id": "D",
+          "text": "Là những mục tiêu và ưu tiên dài hạn mà cá nhân mong muốn đạt được trong đời sống"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chuẩn mực cá nhân là kỳ vọng hoặc nghĩa vụ về hành vi phù hợp mà cá nhân cho rằng mình nên tuân theo.",
+      "sourceSlides": [
+        21
+      ],
+      "sourceRef": "Chương 6, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Khi đọc thông tin giới thiệu một dòng máy ảnh mới, anh Hùng tỉ mỉ đọc từng thông số kỹ thuật về cảm biến, tiêu cự; trong khi anh Nam lại quyết định mua ngay vì thấy nam diễn viên mình hâm mộ xuất hiện cầm máy ảnh trên poster. Dựa trên lý thuyết cá tính và nhận thức, sự khác biệt giữa hai người là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anh Hùng có nhu cầu tri thức cao, còn anh Nam có nhu cầu tri thức thấp trong tiếp nhận"
+        },
+        {
+          "id": "B",
+          "text": "Anh Hùng thuộc nhóm cá tính nhượng bộ, còn anh Nam thuộc nhóm cá tính rất lãnh đạm"
+        },
+        {
+          "id": "C",
+          "text": "Anh Hùng có mức kích thích tối ưu cao, còn anh Nam có mức kích thích tối ưu cực thấp"
+        },
+        {
+          "id": "D",
+          "text": "Anh Hùng có khuynh hướng dân tộc cao, còn anh Nam có khuynh hướng dân tộc rất thấp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Anh Hùng xử lý kỹ thông tin kỹ thuật – nhu cầu tri thức cao; anh Nam quyết định theo tín hiệu ngoại vi (người nổi tiếng) – nhu cầu tri thức thấp.",
+      "sourceSlides": [
+        22
+      ],
+      "sourceRef": "Chương 6, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Khái niệm Cá tính của người tiêu dùng được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là toàn bộ các nguồn lực tài chính và vật chất mà một cá nhân sở hữu trong đời sống"
+        },
+        {
+          "id": "B",
+          "text": "Là những đặc trưng tâm lý bên trong, xác định và phản ánh cách đáp lại các kích thích"
+        },
+        {
+          "id": "C",
+          "text": "Là tập hợp các quy định pháp luật bắt buộc mọi người dân phải nghiêm chỉnh chấp hành"
+        },
+        {
+          "id": "D",
+          "text": "Là thứ bậc xã hội được cộng đồng xung quanh tôn vinh dựa trên nguồn gốc của gia đình"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cá tính là những đặc trưng tâm lý bên trong, quyết định và phản ánh cách một người đáp lại các kích thích của môi trường.",
+      "sourceSlides": [
+        22
+      ],
+      "sourceRef": "Chương 6, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Theo cách tiếp cận hiện tượng học về cá tính, người có khuynh hướng “Kiểm soát nội tâm” sẽ phản ứng ra sao khi một sản phẩm họ mua bị hỏng hoặc thất bại?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quy hoàn toàn trách nhiệm cho nhà sản xuất và cho rằng bao bì đóng gói quá cẩu thả"
+        },
+        {
+          "id": "B",
+          "text": "Tuyên bố tẩy chay thương hiệu ngay lập tức trên các diễn đàn mạng xã hội công cộng"
+        },
+        {
+          "id": "C",
+          "text": "Quy trách nhiệm cho bản thân, tự trách hoặc cảm thấy mình đã bất cẩn trong sử dụng"
+        },
+        {
+          "id": "D",
+          "text": "Đổ lỗi cho điều kiện thời tiết hoặc các yếu tố ngẫu nhiên ngoài tầm kiểm soát của mình"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Người kiểm soát nội tâm tin kết quả do chính mình quyết định nên khi sản phẩm hỏng thường quy trách nhiệm cho bản thân; người kiểm soát bên ngoài đổ lỗi cho nhà sản xuất, hoàn cảnh.",
+      "sourceSlides": [
+        22
+      ],
+      "sourceRef": "Chương 6, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Trong danh sách giá trị LOV (List of Values) của Kahle, 6 giá trị đầu tiên được xếp vào nhóm nào và vì sao?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là các giá trị nội bộ bởi vì nguồn gốc xuất phát của chúng bắt nguồn từ chính cá nhân"
+        },
+        {
+          "id": "B",
+          "text": "Là các giá trị truyền thống vì chúng được truyền dạy bắt buộc thông qua hệ thống tôn giáo"
+        },
+        {
+          "id": "C",
+          "text": "Là các giá trị bên ngoài vì chúng phụ thuộc hoàn toàn vào sự tán dương của xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Là các giá trị phi cá nhân vì chúng chỉ gắn liền với mức độ an ninh và trật tự chung"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong danh sách LOV của Kahle được trình bày, các giá trị đầu là giá trị nội bộ vì xuất phát từ chính cá nhân (như tự tôn trọng, tự hoàn thiện, cảm giác thành tựu), khác với giá trị phụ thuộc vào người khác.",
+      "sourceSlides": [
+        22
+      ],
+      "sourceRef": "Chương 6, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Khi mua xe ô tô hạng sang Lexus, khách hàng muốn chiếc xe thể hiện hình ảnh “thành đạt”; tương tự khi uống bia Tiger, người tiêu dùng muốn khẳng định “bản lĩnh đàn ông thời nay”. Chiến lược định vị của Lexus và Tiger thành công nhờ việc tối ưu hóa mối quan hệ tương thích nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự phù hợp giữa hình ảnh bản thân người tiêu dùng, tính cách thương hiệu và sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Chuyển đổi toàn bộ quá trình lĩnh hội văn hóa trong vô thức thành quy ước ứng xử bắt buộc"
+        },
+        {
+          "id": "C",
+          "text": "Đơn giản hóa các tính năng kỹ thuật để biến sản phẩm thành hàng hóa thiết yếu giá rẻ"
+        },
+        {
+          "id": "D",
+          "text": "Cân bằng giữa mức chiết khấu thương mại đại lý với chi phí vận chuyển hàng hóa vật chất"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lexus gắn với hình ảnh \"thành đạt\", Tiger với \"bản lĩnh đàn ông\": định vị thành công nhờ sự tương thích giữa hình ảnh bản thân khách hàng, tính cách thương hiệu và sản phẩm.",
+      "sourceSlides": [
+        22
+      ],
+      "sourceRef": "Chương 6, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Một bảng khảo sát người tiêu dùng dịch vụ thể hình (Gym) thu thập dữ liệu gồm: (1) Số giờ tập thể thao mỗi tuần, (2) Mức độ quan tâm đến sức khỏe & dinh dưỡng, và (3) Quan điểm về vai trò của thể thao đối với sự thành đạt. Ba dữ liệu này tương ứng với cấu phần nào trong mô hình nghiên cứu lối sống AIO?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tương ứng lần lượt với: Thái độ cá nhân, Giá trị cốt lõi và Đặc điểm nhân khẩu học"
+        },
+        {
+          "id": "B",
+          "text": "Tương ứng lần lượt với: Cái tôi thực tế, Cái tôi lý tưởng và Cái tôi xã hội của người tập"
+        },
+        {
+          "id": "C",
+          "text": "Tương ứng lần lượt với: Động cơ lý tưởng, Động cơ thành tích và Động cơ thể hiện bản thân"
+        },
+        {
+          "id": "D",
+          "text": "Tương ứng lần lượt với: Hoạt động, Mối quan tâm và Quan điểm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số giờ tập là Hoạt động (Activities), mức quan tâm sức khỏe là Mối quan tâm (Interests), quan điểm về vai trò thể thao là Quan điểm (Opinions) – mô hình AIO.",
+      "sourceSlides": [
+        22,
+        23
+      ],
+      "sourceRef": "Chương 6, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Thuật ngữ “Sự tự nhận thức của người tiêu dùng” được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là cách thức phân loại khách hàng hoàn toàn dựa trên mức thu nhập thực tế hàng tháng"
+        },
+        {
+          "id": "B",
+          "text": "Là việc cá nhân tính toán chi tiết các khoản chi phí sản xuất để mua hàng giá rẻ nhất"
+        },
+        {
+          "id": "C",
+          "text": "Là quá trình ghi nhớ thụ động các thông điệp quảng cáo xuất hiện trên các trang mạng xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Là toàn bộ những suy nghĩ, tình cảm mà cá nhân nhìn nhận về mình và người khác nghĩ về mình"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sự tự nhận thức là toàn bộ suy nghĩ, tình cảm của cá nhân về chính mình, gồm cách mình nhìn nhận bản thân và cách mình cho rằng người khác nghĩ về mình.",
+      "sourceSlides": [
+        23
+      ],
+      "sourceRef": "Chương 6, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Hãng thời trang Pierre Cardin định vị phục vụ nhóm nam giới thành đạt, lịch lãm; trong khi Yamaha và Suzuki tập trung vào giới trẻ năng động, thích thể thao; còn Honda lại chú trọng vào khách hàng trung niên chuộng sự bền bỉ, ổn định. Việc các hãng này xây dựng sản phẩm và truyền thông gắn với chân dung khách hàng là ứng dụng của nguyên lý nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Áp dụng kỹ thuật Door-in-the-face nhằm gây sức ép buộc người tiêu dùng phải đổi xe"
+        },
+        {
+          "id": "B",
+          "text": "Định giá thâm nhập thị trường dựa trên chi phí sản xuất trung bình của từng nhà máy"
+        },
+        {
+          "id": "C",
+          "text": "Phân loại khách hàng hoàn toàn dựa trên các tiêu chí sinh học tự nhiên như nhóm máu"
+        },
+        {
+          "id": "D",
+          "text": "Phân đoạn thị trường theo lối sống để thiết kế sản phẩm và truyền thông tương thích"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Các hãng xây dựng sản phẩm và truyền thông theo chân dung lối sống (thành đạt lịch lãm, trẻ năng động, trung niên ổn định): phân đoạn thị trường theo lối sống.",
+      "sourceSlides": [
+        23
+      ],
+      "sourceRef": "Chương 6, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Mô hình lối sống VALS (Value and Lifestyle System) phân chia người tiêu dùng dựa trên hai chiều kích thước chính nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quy mô hộ gia đình truyền thống và Giai đoạn trong chu kỳ sống của các thành viên"
+        },
+        {
+          "id": "B",
+          "text": "Mức độ nguồn lực sở hữu và Ba loại động lực chính định hướng cho hành vi cá nhân"
+        },
+        {
+          "id": "C",
+          "text": "Mức độ tuân thủ chuẩn mực văn hóa và Tần suất tiếp xúc với các phương tiện truyền thông"
+        },
+        {
+          "id": "D",
+          "text": "Mức thu nhập hàng tháng của gia đình và Vị trí địa lý nơi người tiêu dùng đang cư trú"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "VALS phân loại người tiêu dùng theo hai chiều: mức độ nguồn lực sở hữu và ba động lực chính (lý tưởng, thành tích, thể hiện bản thân).",
+      "sourceSlides": [
+        23
+      ],
+      "sourceRef": "Chương 6, câu 20"
+    }
+  ]
+}

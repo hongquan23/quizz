@@ -1,0 +1,614 @@
+{
+  "documentId": "hvtd_ch07",
+  "documentTitle": "Chương 7 - Nhu cầu và động cơ của người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Một khu nghỉ dưỡng sinh thái ra mắt gói dịch vụ “Hành trình tĩnh lặng và kết nối mẹ thiên nhiên”. Khách hàng tham gia phải nộp lại điện thoại, tham gia các khóa thiền định chuyên sâu giữa rừng già, ăn thực dưỡng và trực tiếp tham gia hoạt động trồng rừng tái sinh để tìm kiếm ý nghĩa cuộc sống đích thực. Theo học thuyết Maslow mở rộng (8 cấp độ), sản phẩm này được thiết kế để thỏa mãn cấp độ nhu cầu nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu được tôn trọng thông qua việc sở hữu những bức ảnh check-in sang trọng trên mạng"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu nhận thức nhằm tra cứu và tích lũy thêm các kiến thức lý thuyết sinh học kinh viện"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu an toàn tài chính và an toàn thể chất cá nhân trước các biến động tiêu cực xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu siêu việt được dẫn dắt bởi giá trị vượt ra ngoài bản thân và kết nối tự nhiên"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thiền định, kết nối thiên nhiên, trồng rừng để tìm ý nghĩa sống vượt ra ngoài bản thân thỏa mãn nhu cầu siêu việt – cấp cao nhất của tháp Maslow mở rộng 8 cấp.",
+      "sourceSlides": [
+        23,
+        24
+      ],
+      "sourceRef": "Chương 7, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Khái niệm Động cơ nội tại được hiểu cụ thể là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Động cơ xuất phát từ bên trong cá nhân, giúp họ hành động tự nguyện và có ý thức"
+        },
+        {
+          "id": "B",
+          "text": "Động lực thúc đẩy con người hành động để nhận được các phần thưởng vật chất bên ngoài"
+        },
+        {
+          "id": "C",
+          "text": "Động cơ điều khiển hành vi dựa trên sự tán dương và khen thưởng từ người xung quanh"
+        },
+        {
+          "id": "D",
+          "text": "Động lực hành động do bị cưỡng chế bởi các quy tắc pháp lý và chuẩn mực xã hội chung"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Động cơ nội tại xuất phát từ bên trong cá nhân (hứng thú, ý nghĩa), giúp họ hành động tự nguyện; động cơ bên ngoài gắn với phần thưởng, khen thưởng hay áp lực từ bên ngoài.",
+      "sourceSlides": [
+        24
+      ],
+      "sourceRef": "Chương 7, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Điểm khác biệt cốt lõi giữa Mong muốn và Nhu cầu có khả năng thanh toán là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mong muốn do quảng cáo tạo ra, còn nhu cầu thanh toán là bản năng vốn có từ lúc sinh ra"
+        },
+        {
+          "id": "B",
+          "text": "Mong muốn luôn có giới hạn cụ thể, còn nhu cầu thanh toán là vô hạn trong mọi hoàn cảnh"
+        },
+        {
+          "id": "C",
+          "text": "Mong muốn là hình thức đặc thù của nhu cầu, còn nhu cầu thanh toán đòi hỏi sức mua"
+        },
+        {
+          "id": "D",
+          "text": "Mong muốn gắn liền với sinh lý tự nhiên, còn nhu cầu thanh toán gắn với văn hóa vùng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mong muốn là hình thức đặc thù của nhu cầu, được định hình bởi văn hóa và cá tính; nhu cầu có khả năng thanh toán là mong muốn được bảo đảm bằng sức mua.",
+      "sourceSlides": [
+        24
+      ],
+      "sourceRef": "Chương 7, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Trong mô hình tháp Maslow mở rộng 8 cấp độ, Nhu cầu siêu việt được mô tả như thế nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là mong muốn tò mò, khám phá và tìm hiểu để mở rộng vốn tri thức khoa học của bản thân"
+        },
+        {
+          "id": "B",
+          "text": "Là sự khao khát tìm kiếm vẻ đẹp hài hòa trong nghệ thuật, âm nhạc và cảnh quan tự nhiên"
+        },
+        {
+          "id": "C",
+          "text": "Là động lực hướng tới các giá trị vượt ra ngoài bản thân, tâm linh và thế giới tự nhiên"
+        },
+        {
+          "id": "D",
+          "text": "Là nỗ lực khẳng định tài năng và tận dụng tối đa tiềm năng cá nhân để đạt đỉnh cao"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhu cầu siêu việt là động lực hướng tới giá trị vượt ra ngoài bản thân: tâm linh, phụng sự, kết nối với người khác và thế giới tự nhiên.",
+      "sourceSlides": [
+        24
+      ],
+      "sourceRef": "Chương 7, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Sau đại dịch Covid-19, chị Lan duy trì thói quen uống collagen mỗi sáng. Chị chia sẻ rằng việc uống collagen vừa giúp xương khớp dẻo dai chống thoái hóa, vừa giúp làn da căng bóng để chị tự tin, rạng rỡ khi giao tiếp với đối tác. Hành vi của chị Lan phản ánh sự kết hợp của những loại nhu cầu nào theo vấn đề giải quyết?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu quyền lực chi phối người khác kết hợp với nhu cầu sinh học duy trì sự sống còn"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu an toàn tài chính cá nhân kết hợp với nhu cầu phi xã hội độc lập hoàn toàn"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu chức năng chăm sóc thể chất kết hợp với nhu cầu biểu tượng nâng cao tự tôn"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu nhận thức tìm tòi học hỏi kết hợp với nhu cầu siêu việt tìm về với cội nguồn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Xương khớp dẻo dai là nhu cầu chức năng (chăm sóc thể chất); làn da đẹp để tự tin khi giao tiếp là nhu cầu biểu tượng (nâng cao hình ảnh, tự tôn).",
+      "sourceSlides": [
+        24
+      ],
+      "sourceRef": "Chương 7, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Khi được phỏng vấn, một khách hàng khẳng định ông mua chiếc xe thể thao Porsche đắt tiền là vì “hệ thống phanh xe rất an toàn và khung gầm đạt tiêu chuẩn quốc tế”. Tuy nhiên, chuyên gia tâm lý chỉ ra rằng động cơ sâu kín thực sự là muốn phô trương đẳng cấp giàu có và thu hút ánh nhìn ngưỡng mộ của người khác giới. Hiện tượng này phản ánh ứng dụng nào của học thuyết phân tâm học Freud?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Doanh nghiệp chỉ cần tập trung truyền thông vào tính năng kỹ thuật mà khách hàng nêu ra"
+        },
+        {
+          "id": "B",
+          "text": "Mọi quyết định mua sắm của khách hàng đều dựa trên sự tính toán chi phí hoàn toàn duy lý"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu sinh học tự nhiên luôn được bộc lộ một cách trực tiếp và không bao giờ bị giấu kín"
+        },
+        {
+          "id": "D",
+          "text": "Động cơ mua của khách hàng không chỉ là lợi ích lộ diện mà còn ẩn chứa nhu cầu tiềm ẩn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lý do nói ra (phanh, khung gầm) che giấu động cơ thật (phô trương, thu hút): theo Freud, động cơ mua gồm cả lợi ích lộ diện lẫn nhu cầu tiềm ẩn, vô thức.",
+      "sourceSlides": [
+        24,
+        25
+      ],
+      "sourceRef": "Chương 7, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Đặc điểm Nhu cầu tồn tại trong một hệ thống phân cấp phản ánh nguyên lý nào của hành vi người tiêu dùng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khi một nhu cầu được thỏa mãn thì con người sẽ không bao giờ phát sinh nhu cầu mới"
+        },
+        {
+          "id": "B",
+          "text": "Mọi nhu cầu của con người luôn có mức độ quan trọng và tính cấp thiết ngang bằng nhau"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu của cá nhân hoàn toàn độc lập và không bao giờ xảy ra xung đột hay mâu thuẫn"
+        },
+        {
+          "id": "D",
+          "text": "Nhiều nhu cầu có thể cùng xuất hiện nhưng một số nhu cầu có mức cấp thiết cao hơn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhu cầu tồn tại theo hệ thống phân cấp: nhiều nhu cầu có thể xuất hiện cùng lúc nhưng một số có mức cấp thiết cao hơn và được ưu tiên thỏa mãn trước.",
+      "sourceSlides": [
+        25
+      ],
+      "sourceRef": "Chương 7, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Nhu cầu tự nhiên của con người được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trạng thái mong muốn có được các sản phẩm có thương hiệu nổi tiếng trên thị trường"
+        },
+        {
+          "id": "B",
+          "text": "Năng lực chi trả bằng tiền mặt để sở hữu những hàng hóa thiết yếu trong đời sống"
+        },
+        {
+          "id": "C",
+          "text": "Cảm giác thiếu hụt xuất phát từ sự mất cân bằng về thể chất hoặc tâm lý của cơ thể"
+        },
+        {
+          "id": "D",
+          "text": "Ý định mua sắm hình thành sau khi tiếp xúc với các thông điệp quảng cáo trên tivi"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhu cầu tự nhiên là cảm giác thiếu hụt, xuất phát từ sự mất cân bằng về thể chất hoặc tâm lý của cơ thể.",
+      "sourceSlides": [
+        25
+      ],
+      "sourceRef": "Chương 7, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Trong học thuyết thứ bậc nhu cầu 5 cấp độ của Abraham Maslow, cấp độ nào là cơ bản nhất?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu được tôn trọng, tự tin và được xã hội công nhận các thành tích đạt được"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu sinh học gồm thức ăn, nước uống, hơi ấm, chỗ ở và sự tồn tại thể chất"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu đảm bảo an toàn về sức khỏe, tài chính và tính mạng trước nguy cơ rủi ro"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu được thuộc về các hội nhóm và được người xung quanh yêu thương, chấp nhận"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong tháp 5 cấp của Maslow, nhu cầu sinh học (thức ăn, nước uống, chỗ ở…) là cấp cơ bản nhất ở đáy tháp.",
+      "sourceSlides": [
+        25
+      ],
+      "sourceRef": "Chương 7, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Theo Philip Kotler (2016), khái niệm “Động cơ” được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thói quen mua sắm lặp đi lặp lại được hình thành qua quá trình tích lũy kinh nghiệm sống"
+        },
+        {
+          "id": "B",
+          "text": "Khả năng tài chính tích lũy được giúp khách hàng mua sắm không cần đắn đo về giá cả"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu đã trở nên bức thiết đến mức buộc con người phải hành động để thỏa mãn nó"
+        },
+        {
+          "id": "D",
+          "text": "Sự nhận thức có ý thức về các tính năng vượt trội của một sản phẩm mới trên thị trường"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo Kotler, động cơ là nhu cầu đã trở nên bức thiết đến mức buộc con người phải hành động để thỏa mãn nó.",
+      "sourceSlides": [
+        25
+      ],
+      "sourceRef": "Chương 7, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Một nhân viên văn phòng có khoản thưởng 25 triệu đồng và đang phân vân kịch liệt giữa hai lựa chọn: (1) mua một chiếc máy tính xách tay đời mới phục vụ công việc, hoặc (2) tự thưởng cho mình một kỳ nghỉ dưỡng sang trọng 4 ngày tại Đà Nẵng (xung đột tiếp cận - tiếp cận / mâu thuẫn lựa chọn). Để thúc đẩy khách hàng chốt mua gói tour du lịch ngay lập tức, công ty lữ hành nên thực hiện hành động nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yêu cầu khách hàng phải đăng ký đi du lịch theo nhóm đông người thì mới chấp nhận đặt tour"
+        },
+        {
+          "id": "B",
+          "text": "Tặng thêm đặc quyền nâng hạng phòng biển miễn phí kèm voucher ăn tối có hạn sử dụng ngắn"
+        },
+        {
+          "id": "C",
+          "text": "Giảm thời lượng tour xuống còn 2 ngày để khách hàng có thêm thời gian rảnh rỗi đi làm việc"
+        },
+        {
+          "id": "D",
+          "text": "Khuyên khách hàng hãy dành số tiền thưởng đó gửi vào tài khoản tiết kiệm ngân hàng lấy lãi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với xung đột tiếp cận – tiếp cận, cần làm một phương án hấp dẫn hơn hẳn và tạo lý do quyết ngay: tặng nâng hạng phòng kèm voucher có hạn dùng ngắn.",
+      "sourceSlides": [
+        25,
+        26
+      ],
+      "sourceRef": "Chương 7, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Một nhãn hàng nước ép trái cây đóng hộp triển khai video quảng cáo với hình ảnh nhóm bạn sinh viên cùng nhau đạp xe dã ngoại, vui đùa và sẻ chia những khoảnh khắc gắn kết tình bạn bên bãi cỏ. Theo học thuyết Maslow, thông điệp truyền thông này hướng tới cấp độ nhu cầu nào của khách hàng?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu tự khẳng định bản thân đạt được những thành tựu vượt trội trong học tập cá nhân"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu an toàn bảo vệ sức khỏe hệ tiêu hóa nhờ quy trình thanh trùng tiệt trùng hiện đại"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu sinh học giải quyết cơn khát tức thì thông qua hàm lượng dinh dưỡng của nước ép"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu được thuộc về thông qua việc giao tiếp, sẻ chia và kết nối tình cảm bạn bè"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hình ảnh nhóm bạn vui đùa, sẻ chia, gắn kết tình bạn hướng tới nhu cầu xã hội – được thuộc về và kết nối tình cảm.",
+      "sourceSlides": [
+        26
+      ],
+      "sourceRef": "Chương 7, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Trong đêm trước kỳ thi tốt nghiệp quan trọng, một học sinh cảm thấy cơ thể vô cùng mệt mỏi và thèm ngủ, nhưng cậu vẫn quyết tâm thức trắng đêm để ôn bài vì khát khao giành học bổng và đỗ vào trường đại học mơ ước. Dưới góc độ quản trị hành vi, hiện tượng này chứng minh cho nguyên lý nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu sinh học luôn luôn có sức mạnh áp đảo và triệt tiêu mọi loại nhu cầu tâm lý khác"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu bẩm sinh của con người là cố định và không bao giờ bị chi phối bởi các mục tiêu"
+        },
+        {
+          "id": "C",
+          "text": "Các nhu cầu cùng được kích hoạt nhưng nhu cầu có tính cấp thiết tâm lý cao hơn sẽ thắng thế"
+        },
+        {
+          "id": "D",
+          "text": "Động cơ hành động của con người chỉ xuất hiện khi cơ thể đạt trạng thái cân bằng sinh học"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhu cầu ngủ và nhu cầu thành tích cùng được kích hoạt; nhu cầu có tính cấp thiết tâm lý cao hơn (đỗ đại học, học bổng) đã thắng thế.",
+      "sourceSlides": [
+        26
+      ],
+      "sourceRef": "Chương 7, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Phân loại theo nguồn gốc tự nhiên, nhu cầu của con người bao gồm hai loại nào sau đây?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu quyền lực kiểm soát và Nhu cầu thành tích khẳng định cái tôi trước người khác"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu bẩm sinh gắn với sinh tồn và Nhu cầu thu nạp hình thành qua trải nghiệm sống"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu xã hội hướng ngoại và Nhu cầu phi xã hội hướng về sự thỏa mãn của riêng mình"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu chức năng sử dụng và Nhu cầu biểu tượng khẳng định lòng tự tôn của bản thân"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo nguồn gốc, nhu cầu gồm nhu cầu bẩm sinh (sinh học, gắn với sinh tồn) và nhu cầu thu nạp (tâm lý, hình thành qua trải nghiệm, văn hóa).",
+      "sourceSlides": [
+        26
+      ],
+      "sourceRef": "Chương 7, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Một nhân viên văn phòng đang đi bộ trên phố và hoàn toàn không có cảm giác đói bụng. Tuy nhiên, khi đi ngang qua một tiệm pizza và ngửi thấy mùi phô mai thơm phức nướng chín, anh đột nhiên cảm thấy cồn cào và bước vào quán gọi đồ ăn. Tình huống này minh chứng cho đặc điểm nào của nhu cầu?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu có thể được khơi gợi từ bên ngoài thông qua các kích thích của môi trường"
+        },
+        {
+          "id": "B",
+          "text": "Các nhu cầu luôn xung đột gay gắt giữa trạng thái tiếp cận và trạng thái lảng tránh"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu của con người luôn có xu hướng thay đổi liên tục theo thời gian trong ngày"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu bẩm sinh chỉ có thể được kích hoạt bởi các tín hiệu sinh học tự nhiên bên trong"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không đói nhưng mùi pizza khiến anh thèm ăn: nhu cầu có thể được khơi gợi từ bên ngoài qua các kích thích của môi trường.",
+      "sourceSlides": [
+        26
+      ],
+      "sourceRef": "Chương 7, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Anh Tuấn quyết định chi tiền lắp đặt hệ thống Smart Home để có thể chủ động theo dõi camera an ninh, kiểm tra khóa cửa và bật tắt toàn bộ thiết bị điện trong nhà từ xa qua điện thoại di động mọi lúc mọi nơi. Theo cách phân loại “tam giác nhu cầu cơ bản”, hành vi của anh Tuấn xuất phát chủ yếu từ nhu cầu nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu đạt thành tích nhằm khẳng định cái tôi và hướng tới kết quả công việc vượt bậc"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu hưởng thụ cảm giác khoái cảm giác quan thông qua những trải nghiệm âm thanh số"
+        },
+        {
+          "id": "C",
+          "text": "Nhu cầu quyền lực mong muốn kiểm soát môi trường sống xung quanh và các vật dụng"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu quan hệ xã hội mong muốn kết nối bạn bè và mở rộng tầm ảnh hưởng của bản thân"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Muốn theo dõi, khóa cửa, điều khiển mọi thiết bị từ xa là mong muốn kiểm soát môi trường xung quanh – nhu cầu quyền lực trong tam giác nhu cầu (thành tích, quyền lực, quan hệ).",
+      "sourceSlides": [
+        27
+      ],
+      "sourceRef": "Chương 7, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Một sinh viên có chiếc xe máy cũ bị vỡ lốc máy. Bạn rơi vào thế tiến thoái lưỡng nan: nếu bỏ ra 4 triệu đồng sửa chữa thì quá tốn kém, nhưng nếu không sửa mà phải đi xe buýt đông đúc mỗi ngày thì rất bất tiện và mất thời gian.Để giải tỏa “mâu thuẫn chối từ” này cho khách hàng, hãng xe máy điện nên đưa ra giải pháp marketing nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng giá bán xe điện lên cao hơn để biến chiếc xe thành biểu tượng địa vị xã hội thượng lưu"
+        },
+        {
+          "id": "B",
+          "text": "Đưa ra chính sách trả góp 0 đồng kèm chương trình thu cũ đổi mới trợ giá trực tiếp"
+        },
+        {
+          "id": "C",
+          "text": "Tung chiến dịch quảng cáo so sánh gay gắt chất lượng động cơ xe điện với xe máy chạy xăng"
+        },
+        {
+          "id": "D",
+          "text": "Mở rộng hệ thống đại lý bán lẻ sang khu vực nông thôn xa xôi để phục vụ người cao tuổi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mâu thuẫn chối từ (lảng tránh – lảng tránh) là phải chọn giữa hai phương án đều không mong muốn; giải pháp là đưa ra phương án thứ ba dễ chấp nhận như trả góp 0 đồng, thu cũ đổi mới.",
+      "sourceSlides": [
+        27
+      ],
+      "sourceRef": "Chương 7, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Chị Mai muốn mua một chiếc váy dạ hội đắt tiền để trở nên lộng lẫy trong buổi tiệc công ty, nhưng chị lại rất lo lắng và xót tiền vì chi phí chiếc váy quá cao so với thu nhập. Chị Mai đang trải qua dạng xung đột động cơ nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xung đột lảng tránh – lảng tránh khi phải chọn một trong hai phương án không mong muốn"
+        },
+        {
+          "id": "B",
+          "text": "Xung đột tiếp cận – tiếp cận khi phải lựa chọn giữa hai sản phẩm đều yêu thích như nhau"
+        },
+        {
+          "id": "C",
+          "text": "Xung đột phi xã hội khi các nhu cầu cá nhân hoàn toàn tách rời các chuẩn mực xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Xung đột tiếp cận – lảng tránh khi cùng một phương án có cả điểm tích cực và tiêu cực"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cùng một phương án (chiếc váy) vừa có điểm hấp dẫn (lộng lẫy) vừa có điểm tiêu cực (tốn tiền): xung đột tiếp cận – lảng tránh.",
+      "sourceSlides": [
+        27
+      ],
+      "sourceRef": "Chương 7, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Về vai trò của động cơ, giai đoạn Chấm dứt hành vi diễn ra trong điều kiện nào sau đây?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khi người tiêu dùng chuyển đổi mục tiêu mua sắm sang một chủng loại sản phẩm thay thế"
+        },
+        {
+          "id": "B",
+          "text": "Khi người tiêu dùng nhận ra các rào cản marketing quá lớn từ phía các đối thủ cạnh tranh"
+        },
+        {
+          "id": "C",
+          "text": "Khi người tiêu dùng bắt đầu tiến hành tìm kiếm và xử lý các thông tin về giá bán sản phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Khi mục tiêu đã đạt được, nhu cầu được thỏa mãn hoàn toàn và động cơ được giải tỏa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hành vi chấm dứt khi mục tiêu đã đạt được, nhu cầu được thỏa mãn và trạng thái căng thẳng (động cơ) được giải tỏa.",
+      "sourceSlides": [
+        27
+      ],
+      "sourceRef": "Chương 7, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Theo cách tiếp cận phân loại nhu cầu theo vấn đề cần giải quyết, Nhu cầu hưởng thụ là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu kiểm soát các đối tượng và môi trường xung quanh nhằm đảm bảo sự an toàn"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu thúc đẩy tìm kiếm sản phẩm giải quyết các rắc rối phát sinh trong quá trình sống"
+        },
+        {
+          "id": "C",
+          "text": "Ham muốn vốn có về khoái cảm giác quan nhằm giải tỏa trạng thái hưng phấn cảm xúc"
+        },
+        {
+          "id": "D",
+          "text": "Nhu cầu xuất phát từ mong muốn người khác nhìn nhận và tôn vinh địa vị của bản thân"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhu cầu hưởng thụ là ham muốn khoái cảm giác quan và cảm xúc; nhu cầu giải quyết rắc rối là nhu cầu chức năng; được tôn vinh địa vị là nhu cầu biểu tượng.",
+      "sourceSlides": [
+        27,
+        28
+      ],
+      "sourceRef": "Chương 7, câu 20"
+    }
+  ]
+}

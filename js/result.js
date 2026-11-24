@@ -35,6 +35,7 @@
   }
 
   function render(r, deck) {
+    unit = App.unitLabel(deck);
     const byId = {};
     deck.questions.forEach(function (q) { byId[q.id] = q; });
     const order = (r.order || []).filter(function (qid) { return byId[qid]; });
@@ -53,7 +54,7 @@
     const score = Math.round(correct / total * 1000) / 100;
     const pct = Math.round(correct / total * 1000) / 10;
 
-    document.title = "Kết quả " + deck.documentTitle;
+    document.title = "Kết quả " + deck.documentTitle + " – Luyện thi trắc nghiệm";
     $("r-mode").textContent = r.mode === "exam" ? "Điểm bài thi" : "Điểm luyện tập";
     $("r-score").textContent = App.formatScore(score);
     $("r-sub").textContent = correct + "/" + total + " câu đúng";
@@ -102,6 +103,13 @@
     renderList();
   }
 
+  let unit = "slide";
+  function srcText(q) {
+    let t = (unit === "trang" ? "Trang tham khảo trong tài liệu: " : "Slide tham khảo: ") + (q.sourceSlides || []).join(", ");
+    if (q.sourceRef) t += " (" + q.sourceRef + " trong đề gốc)";
+    return t;
+  }
+
   function optText(q, id) {
     const o = q.options.find(function (x) { return x.id === id; });
     return o ? id + ". " + o.text : "";
@@ -125,7 +133,7 @@
           (x.status !== "ok" ? '<div class="right"><dt>Đáp án đúng</dt><dd>' + esc(optText(q, q.correctAnswer)) + "</dd></div>" : "") +
         "</dl>" +
         '<p class="ri-exp">' + esc(q.explanation) + "</p>" +
-        '<p class="ri-src">Slide tham khảo: ' + esc((q.sourceSlides || []).join(", ")) + "</p>" +
+        '<p class="ri-src">' + esc(srcText(q)) + "</p>" +
         "</li>";
     }).join("");
   }

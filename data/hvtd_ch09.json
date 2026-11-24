@@ -1,0 +1,613 @@
+{
+  "documentId": "hvtd_ch09",
+  "documentTitle": "Chương 9 - Thái độ của người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Trong Mô hình thái độ ABC, ba thành phần cấu thành nên thái độ của người tiêu dùng bao gồm những yếu tố nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhu cầu bẩm sinh, Khả năng tài chính và Mức độ gắn kết thương hiệu."
+        },
+        {
+          "id": "B",
+          "text": "Lược đồ tư duy, Trí nhớ ngắn hạn và Khả năng xử lý thông tin phức tạp."
+        },
+        {
+          "id": "C",
+          "text": "Thành phần nhận thức, Thành phần cảm xúc và Thành phần ý định hành vi."
+        },
+        {
+          "id": "D",
+          "text": "Động cơ cá nhân, Áp lực nhóm tham chiếu và Mức thu nhập hàng tháng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mô hình ABC gồm thành phần nhận thức (Cognition), cảm xúc (Affect) và ý định hành vi (Behavior/Conation).",
+      "sourceSlides": [
+        36
+      ],
+      "sourceRef": "Chương 9, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Một hãng xe máy điện nhận thấy người tiêu dùng có thái độ mâu thuẫn: họ rất thích xe điện vì kiểu dáng hiện đại và bảo vệ môi trường, nhưng lại lo lắng về tuổi thọ pin và sự thiếu hụt trạm sạc. Để giải quyết triệt để sự mâu thuẫn này và thúc đẩy hành vi mua, hãng xe nên ưu tiên chiến lược phối hợp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cung cấp chính sách bảo hành pin trọn đời và mở rộng cam kết hạ tầng trạm sạc"
+        },
+        {
+          "id": "B",
+          "text": "Giảm giá bán xe xuống mức rẻ nhất thị trường và cắt bỏ hoàn toàn dịch vụ hậu mãi"
+        },
+        {
+          "id": "C",
+          "text": "Yêu cầu khách hàng tự tìm kiếm thông tin về trạm sạc trên các diễn đàn công nghệ"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ tăng cường phát sóng các video ca nhạc sôi động để át đi nỗi lo lắng về trạm sạc"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mâu thuẫn đến từ niềm tin tiêu cực về pin và trạm sạc; cần xử lý gốc rễ bằng bảo hành pin và cam kết hạ tầng sạc để thái độ nhất quán, thúc đẩy mua.",
+      "sourceSlides": [
+        36
+      ],
+      "sourceRef": "Chương 9, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Khi Diet Coke phát hiện ra rằng người tiêu dùng có niềm tin hiện tại rằng sản phẩm hơi thiếu vị ngọt tự nhiên, công ty đã quyết định thay đổi công thức chất tạo ngọt, đồng thời ra mắt chiến dịch truyền thông khẳng định vị ngọt mới đậm đà sảng khoái như Coke nguyên bản. Dưới góc độ quản trị thái độ, Diet Coke đã xử lý vấn đề ra sao?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thay đổi thành phần cảm xúc bằng cách bắt buộc khách hàng phải xem video quảng cáo"
+        },
+        {
+          "id": "B",
+          "text": "Chuyển đổi thái độ từ gắn kết cao sang gắn kết thấp bằng phương pháp thử - sai"
+        },
+        {
+          "id": "C",
+          "text": "Cải thiện sản phẩm thực tế kết hợp truyền thông để thay đổi niềm tin hiện có"
+        },
+        {
+          "id": "D",
+          "text": "Ép buộc người tiêu dùng phải chấp nhận vị ngọt cũ thông qua việc tăng giá bán"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diet Coke cải tiến công thức (thay đổi sản phẩm thực tế) và truyền thông để thay đổi niềm tin hiện có về vị ngọt – tác động vào thành phần nhận thức.",
+      "sourceSlides": [
+        36,
+        37
+      ],
+      "sourceRef": "Chương 9, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Siêu thị F&B nhận thấy khách hàng có thái độ ngần ngại đối với dòng sữa chua uống men sống mới do chưa từng dùng thử. Để giải quyết rào cản này, siêu thị đặt quầy dùng thử miễn phí kèm phiếu giảm giá 20% cho lần mua đầu tiên. Siêu thị đã tác động vào thành phần thái độ nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tác động vào thái độ đối với đối tượng thông qua việc thay đổi thiết kế nhãn mác"
+        },
+        {
+          "id": "B",
+          "text": "Tác động vào thành phần ý định hành vi bằng cách tạo ra hành vi dùng thử"
+        },
+        {
+          "id": "C",
+          "text": "Tác động vào thành phần nhận thức bằng cách nhồi nhét lý thuyết chuyên môn"
+        },
+        {
+          "id": "D",
+          "text": "Tác động vào thành phần cảm xúc bằng cách phát đi phát lại nhạc thiếu nhi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dùng thử miễn phí và phiếu giảm giá lần đầu tạo ra hành vi thử, tác động trực tiếp vào thành phần ý định hành vi.",
+      "sourceSlides": [
+        37
+      ],
+      "sourceRef": "Chương 9, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Tiến trình hình thành thái độ Cảm xúc → Ý định hành vi → Nhận thức đại diện cho tình huống mua sắm nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tình huống mua sắm sản phẩm có độ gắn kết thấp dựa trên học hỏi qua hành vi"
+        },
+        {
+          "id": "B",
+          "text": "Tình huống mua sắm các hàng hóa thiết yếu lặp đi lặp lại thành thói quen"
+        },
+        {
+          "id": "C",
+          "text": "Tình huống mua sắm sản phẩm có độ gắn kết cao và giá trị tài chính rất lớn"
+        },
+        {
+          "id": "D",
+          "text": "Tình huống mua hàng trải nghiệm và tiêu dùng sản phẩm mang tính hưởng thụ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thứ bậc Cảm xúc → Hành vi → Nhận thức là thứ bậc trải nghiệm, đặc trưng cho mua hàng mang tính hưởng thụ, cảm xúc; gắn kết thấp theo trật tự Nhận thức → Hành vi → Cảm xúc.",
+      "sourceSlides": [
+        37
+      ],
+      "sourceRef": "Chương 9, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Công ty thời trang công sở Mai Linh lồng ghép khéo léo chiếc áo sơ mi mới của mình vào một bộ phim truyền hình lãng mạn đang vô cùng nổi tiếng, nơi nhân vật chính thông minh, thanh lịch và được đông đảo khán giả yêu mến sử dụng chiếc áo đó. Công ty đã áp dụng phương pháp thay đổi cảm xúc nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phương pháp phản xạ có điều kiện cổ điển gắn với tác nhân được yêu thích"
+        },
+        {
+          "id": "B",
+          "text": "Phương pháp sử dụng các bài kiểm tra đánh giá chất lượng sản phẩm công khai"
+        },
+        {
+          "id": "C",
+          "text": "Phương pháp tạo ra sự mâu thuẫn thái độ để buộc người mua phải thay đổi"
+        },
+        {
+          "id": "D",
+          "text": "Phương pháp kích thích nhu cầu nhận thức cao qua việc đọc thông số kỹ thuật"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gắn sản phẩm với nhân vật được khán giả yêu mến để cảm xúc tích cực chuyển sang chiếc áo là phương pháp phản xạ có điều kiện cổ điển.",
+      "sourceSlides": [
+        37
+      ],
+      "sourceRef": "Chương 9, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Một nhãn hàng trà thảo mộc đóng chai muốn xây dựng chiến lược thay đổi thái độ toàn diện cho sản phẩm mới. Họ kết hợp: (1) cung cấp bằng chứng y khoa về công dụng thanh nhiệt, (2) dùng MV ca nhạc kể chuyện xúc động của ca sĩ nổi tiếng, và (3) tặng phiếu cào trúng thưởng trực tiếp trên nắp chai. Sự phối hợp này minh chứng cho nguyên lý cốt lõi nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Việc nghiên cứu thái độ chỉ có ý nghĩa lý thuyết chứ không áp dụng được vào thực tế"
+        },
+        {
+          "id": "B",
+          "text": "Tác động vào một thành phần duy nhất là đủ để thay đổi hoàn toàn hành vi người mua"
+        },
+        {
+          "id": "C",
+          "text": "Tác động đồng bộ vào cả 3 thành phần của mô hình ABC giúp củng cố thái độ bền vững"
+        },
+        {
+          "id": "D",
+          "text": "Thành phần ý định hành vi luôn hoàn toàn độc lập với các yếu tố cảm xúc và niềm tin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bằng chứng y khoa (nhận thức), MV xúc động (cảm xúc) và phiếu cào trúng thưởng (hành vi) tác động đồng bộ cả 3 thành phần ABC, giúp thái độ bền vững hơn.",
+      "sourceSlides": [
+        37
+      ],
+      "sourceRef": "Chương 9, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Khái niệm Thái độ đối với hành vi được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đánh giá của cộng đồng xã hội đối với toàn bộ các chiến dịch truyền thông của hãng"
+        },
+        {
+          "id": "B",
+          "text": "Thái độ của người tiêu dùng đối với một sản phẩm, thương hiệu hoặc cửa hàng cụ thể"
+        },
+        {
+          "id": "C",
+          "text": "Phản ứng tức thời của người mua khi tiếp xúc với bao bì sản phẩm tại điểm bán"
+        },
+        {
+          "id": "D",
+          "text": "Thái độ của người tiêu dùng đối với việc thực hiện một hành động cụ thể nào đó"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thái độ đối với hành vi là thái độ của người tiêu dùng đối với việc thực hiện một hành động cụ thể (ví dụ: việc mua, việc sử dụng), khác với thái độ đối với đối tượng.",
+      "sourceSlides": [
+        37,
+        38
+      ],
+      "sourceRef": "Chương 9, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Một hãng nước ép lựu ra mắt chiến dịch truyền thông không chỉ nhấn mạnh việc bổ sung Vitamin C mà còn cung cấp thông tin khoa học rằng “nước ép lựu chứa chất chống oxy hóa mạnh gấp 7 lần trà xanh giúp ngăn ngừa lão hóa”. Hãng nước ép đã áp dụng chiến lược thay đổi nhận thức nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chiến lược thay đổi quan niệm của khách hàng về đặc điểm sản phẩm lý tưởng"
+        },
+        {
+          "id": "B",
+          "text": "Chiến lược khuyến khích dùng thử sản phẩm trực tiếp thông qua các mã giảm giá"
+        },
+        {
+          "id": "C",
+          "text": "Chiến lược chuyển dịch mức độ quan trọng sang các thuộc tính phục vụ giải trí"
+        },
+        {
+          "id": "D",
+          "text": "Chiến lược bổ sung một thuộc tính hoặc lợi ích mới vào cấu trúc niềm tin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thông tin \"chống oxy hóa gấp 7 lần trà xanh\" bổ sung một lợi ích mới (ngăn lão hóa) vào cấu trúc niềm tin về sản phẩm.",
+      "sourceSlides": [
+        38
+      ],
+      "sourceRef": "Chương 9, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Phương pháp Tiếp xúc thường xuyên trong việc thay đổi thành phần cảm xúc hoạt động dựa trên cơ chế nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lặp lại việc tiếp xúc thương hiệu nhiều lần tạo sự quen thuộc và thiện cảm"
+        },
+        {
+          "id": "B",
+          "text": "Đe dọa khách hàng bằng các hậu quả nghiêm trọng nếu không sử dụng sản phẩm ngay"
+        },
+        {
+          "id": "C",
+          "text": "Yêu cầu khách hàng tham gia các khóa đào tạo chuyên sâu về kỹ thuật của sản phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Ghép nối thương hiệu với một nhân vật nổi tiếng đã được công chúng yêu mến từ trước"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiếp xúc thường xuyên dựa trên hiệu ứng quen thuộc: tiếp xúc lặp lại với thương hiệu tạo sự quen thuộc và thiện cảm.",
+      "sourceSlides": [
+        38
+      ],
+      "sourceRef": "Chương 9, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Chiến lược tác động vào thành phần ý định hành vi bằng phương pháp “Sampling” là hoạt động nào sau đây?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phát mẫu dùng thử miễn phí giúp khách hàng trải nghiệm thực tế sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Tổ chức các buổi hội thảo khoa học giải thích chi tiết các thành phần dinh dưỡng"
+        },
+        {
+          "id": "C",
+          "text": "Thiết kế lại biểu tượng logo thương hiệu theo phong cách tối giản hiện đại"
+        },
+        {
+          "id": "D",
+          "text": "Phát sóng liên tục các video quảng cáo truyền hình vào khung giờ vàng của đài"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sampling là phát mẫu dùng thử miễn phí để khách trải nghiệm thực tế, tác động vào thành phần hành vi.",
+      "sourceSlides": [
+        38
+      ],
+      "sourceRef": "Chương 9, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Một thương hiệu mỹ phẩm gặp phải sự cố truyền thông khiến khách hàng nảy sinh cảm xúc giận dữ trên mạng xã hội dẫn đến làn sóng kêu gọi không mua hàng. Nếu áp dụng nguyên lý sự nhất quán giữa các thành phần thái độ, Giám đốc Marketing cần làm gì đầu tiên để cứu vãn thái độ chung?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minh bạch thông tin chứng nhận chất lượng và xin lỗi chân thành"
+        },
+        {
+          "id": "B",
+          "text": "Khởi kiện tất cả những khách hàng đã để lại bình luận tiêu cực trên các trang mạng"
+        },
+        {
+          "id": "C",
+          "text": "Tăng giá bán sản phẩm lên gấp đôi để chứng minh đẳng cấp xa xỉ của thương hiệu"
+        },
+        {
+          "id": "D",
+          "text": "Giữ nguyên toàn bộ thông điệp cũ và chờ đợi làn sóng giận dữ tự lắng xuống theo thời gian"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cảm xúc giận dữ bắt nguồn từ niềm tin bị lung lay; minh bạch thông tin, xin lỗi chân thành giúp khôi phục niềm tin, kéo cảm xúc và ý định hành vi trở lại nhất quán.",
+      "sourceSlides": [
+        38
+      ],
+      "sourceRef": "Chương 9, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Trong thứ tự hình thành thái độ đối với Sản phẩm gắn kết cao, tiến trình ba thành phần diễn ra theo thứ tự nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cảm xúc → Ý định hành vi → Nhận thức"
+        },
+        {
+          "id": "B",
+          "text": "Nhận thức → Cảm xúc → Ý định hành vi"
+        },
+        {
+          "id": "C",
+          "text": "Nhận thức → Ý định hành vi → Cảm xúc"
+        },
+        {
+          "id": "D",
+          "text": "Ý định hành vi → Cảm xúc → Nhận thức"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với sản phẩm gắn kết cao, thái độ hình thành theo thứ bậc học tập chuẩn: Nhận thức → Cảm xúc → Ý định hành vi.",
+      "sourceSlides": [
+        38
+      ],
+      "sourceRef": "Chương 9, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Thái độ của người tiêu dùng là:",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phản ứng sinh học tự nhiên tức thời của cơ thể trước các chương trình khuyến mại lớn."
+        },
+        {
+          "id": "B",
+          "text": "Thói quen mua sắm ngẫu hứng không chịu sự chi phối bởi bất kỳ thông tin quá khứ nào."
+        },
+        {
+          "id": "C",
+          "text": "Khuynh hướng phản ứng thích hoặc không thích một cách nhất quán về một đối tượng."
+        },
+        {
+          "id": "D",
+          "text": "Khả năng tài chính sẵn có giúp người tiêu dùng ra quyết định mua sắm ngay lập tức."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thái độ là khuynh hướng được học hỏi để phản ứng thích hoặc không thích một cách nhất quán đối với một đối tượng.",
+      "sourceSlides": [
+        39
+      ],
+      "sourceRef": "Chương 9, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Nhãn hàng nước giặt sinh học TB triển khai chiến dịch truyền thông thuyết phục người tiêu dùng chuyển từ sử dụng túi nilon sang dùng túi giấy đựng sản phẩm bằng cách phân tích chi tiết tác hại của nhựa đối với sức khỏe gia đình và môi trường. Nhãn hàng này đang thực hiện chiến lược nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tập trung vào việc tác động trực tiếp đến thành phần cảm xúc qua âm nhạc"
+        },
+        {
+          "id": "B",
+          "text": "Khuyến khích người tiêu dùng mua hàng lặp lại thông qua thẻ khách hàng thân thiết"
+        },
+        {
+          "id": "C",
+          "text": "Thay đổi quan niệm của người tiêu dùng về đặc điểm sản phẩm lý tưởng"
+        },
+        {
+          "id": "D",
+          "text": "Bổ sung một thuộc tính kỹ thuật mới chưa từng xuất hiện trên thị trường"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phân tích tác hại của nhựa để người tiêu dùng coi bao bì giấy là đặc điểm của sản phẩm lý tưởng: chiến lược thay đổi quan niệm về sản phẩm lý tưởng.",
+      "sourceSlides": [
+        39
+      ],
+      "sourceRef": "Chương 9, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Khi doanh nghiệp áp dụng chiến lược Chuyển dịch mức độ quan trọng để thay đổi thành phần nhận thức, họ thực hiện việc gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bổ sung thêm một thuộc tính hoàn toàn mới vào cấu trúc niềm tin của khách hàng"
+        },
+        {
+          "id": "B",
+          "text": "Chứng minh các niềm tin hiện tại của khách hàng về đối thủ cạnh tranh là sai lệch"
+        },
+        {
+          "id": "C",
+          "text": "Cung cấp các mã giảm giá trực tiếp để buộc khách hàng phải mua sản phẩm ngay"
+        },
+        {
+          "id": "D",
+          "text": "Hướng sự chú ý của khách hàng vào các thuộc tính mà thương hiệu có lợi thế"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chuyển dịch mức độ quan trọng là hướng sự chú ý của khách hàng vào những thuộc tính mà thương hiệu có lợi thế, làm chúng trở nên quan trọng hơn khi đánh giá.",
+      "sourceSlides": [
+        39
+      ],
+      "sourceRef": "Chương 9, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Khi một nhà hàng cao cấp nhận thấy thực khách thường có quan niệm “đi ăn tiệm thì món ăn ngon là quan trọng nhất”, họ liền tập trung quảng cáo nhấn mạnh không gian kiến trúc sang trọng, âm nhạc tinh tế và dịch vụ chăm sóc cá nhân hóa để hút khách. Nhà hàng này đang áp dụng chiến lược thay đổi nhận thức nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chiến lược phủ nhận hoàn toàn vai trò của chất lượng món ăn đối với người tiêu dùng"
+        },
+        {
+          "id": "B",
+          "text": "Chiến lược tạo lập phản xạ thưởng phạt thông qua việc tặng quà khuyến mại nhỏ"
+        },
+        {
+          "id": "C",
+          "text": "Chiến lược thay đổi các quy định pháp lý bắt buộc trong ngành kinh doanh ẩm thực"
+        },
+        {
+          "id": "D",
+          "text": "Chiến lược chuyển dịch mức độ quan trọng sang thuộc tính trải nghiệm dịch vụ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhà hàng chuyển trọng tâm đánh giá từ món ăn sang không gian, âm nhạc, dịch vụ – chiến lược chuyển dịch mức độ quan trọng sang thuộc tính trải nghiệm dịch vụ.",
+      "sourceSlides": [
+        39
+      ],
+      "sourceRef": "Chương 9, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Một hãng hàng không giá rẻ muốn thu hút khách hàng doanh nhân - những người vốn có thái độ không thuận lợi với hãng do nghĩ rằng dịch vụ kém chất lượng và hay trễ giờ. Hãng ra mắt dòng vé Business Flex có lối đi riêng, phòng chờ sang trọng và chính sách hoãn đổi linh hoạt. Hãng hàng không đã vận dụng hàm ý marketing nào về thái độ?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phát triển dòng sản phẩm mới với các thuộc tính thỏa mãn lợi ích nhóm tìm kiếm"
+        },
+        {
+          "id": "B",
+          "text": "Tạo phản ứng đe dọa hậu quả tiêu cực nếu doanh nhân không đi máy bay của hãng"
+        },
+        {
+          "id": "C",
+          "text": "Phớt lờ thái độ tiêu cực của nhóm doanh nhân và chỉ tập trung phục vụ khách sinh viên"
+        },
+        {
+          "id": "D",
+          "text": "Áp dụng kỹ thuật tiếp xúc thường xuyên bằng cách nhắn tin quảng cáo liên tục mỗi ngày"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hãng phát triển dòng sản phẩm mới có các thuộc tính (lối đi riêng, phòng chờ, đổi vé linh hoạt) thỏa mãn đúng lợi ích mà nhóm doanh nhân tìm kiếm.",
+      "sourceSlides": [
+        39
+      ],
+      "sourceRef": "Chương 9, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Khái niệm Thành phần nhận thức trong mô hình thái độ ABC đại diện cho điều gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cảm xúc và phản ứng cảm tính chung của người tiêu dùng về một đối tượng"
+        },
+        {
+          "id": "B",
+          "text": "Niềm tin và sự hiểu biết của người tiêu dùng về các thuộc tính của đối tượng"
+        },
+        {
+          "id": "C",
+          "text": "Xu hướng thực hiện hành vi mua hoặc mua lặp lại sản phẩm trên thực tế"
+        },
+        {
+          "id": "D",
+          "text": "Mức độ ưu đãi giảm giá mà người tiêu dùng nhận được tại các siêu thị lớn"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thành phần nhận thức là niềm tin và hiểu biết của người tiêu dùng về các thuộc tính của đối tượng.",
+      "sourceSlides": [
+        39,
+        40
+      ],
+      "sourceRef": "Chương 9, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Nhận định nào sau đây là ĐÚNG khi nói về mối quan hệ giữa thái độ và hành vi tiêu dùng?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thái độ hình thành từ quảng cáo luôn bền vững hơn thái độ từ trải nghiệm thực tế"
+        },
+        {
+          "id": "B",
+          "text": "Thái độ tích cực luôn đảm bảo 100% người tiêu dùng sẽ thực hiện hành vi mua"
+        },
+        {
+          "id": "C",
+          "text": "Thái độ giúp dự báo hành vi nhưng còn chịu ảnh hưởng của tình huống cụ thể"
+        },
+        {
+          "id": "D",
+          "text": "Suy luận ngược từ hành vi mua về thái độ luôn mang lại kết quả chính xác tuyệt đối"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thái độ giúp dự báo hành vi nhưng không đảm bảo tuyệt đối, vì hành vi còn chịu tác động của các yếu tố tình huống cụ thể.",
+      "sourceSlides": [
+        40
+      ],
+      "sourceRef": "Chương 9, câu 20"
+    }
+  ]
+}

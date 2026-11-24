@@ -1,6 +1,6 @@
 {
-  "siteTitle": "Luyện thi Quản trị nhân lực",
-  "version": 1,
+  "siteTitle": "Luyện thi trắc nghiệm",
+  "version": 2,
   "documents": [
     {
       "id": "chapter_01",
@@ -10,7 +10,10 @@
       "totalSlides": 47,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, vai trò, đối tượng, nội dung, chức năng, triết lý, trường phái QTNL, các yếu tố ảnh hưởng và mô hình tổ chức phòng nhân sự."
+      "description": "Khái niệm, vai trò, đối tượng, nội dung, chức năng, triết lý, trường phái QTNL, các yếu tố ảnh hưởng và mô hình tổ chức phòng nhân sự.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_03",
@@ -20,7 +23,10 @@
       "totalSlides": 48,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Các khái niệm về công việc, thiết kế và thiết kế lại công việc, quy trình và phương pháp phân tích công việc, bản mô tả và tiêu chuẩn công việc."
+      "description": "Các khái niệm về công việc, thiết kế và thiết kế lại công việc, quy trình và phương pháp phân tích công việc, bản mô tả và tiêu chuẩn công việc.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_04",
@@ -30,7 +36,10 @@
       "totalSlides": 57,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, vai trò tuyển dụng; xác định nhu cầu tuyển dụng; tuyển mộ; tuyển chọn; các hình thức bố trí nhân lực và quy định liên quan trong Bộ luật Lao động 2019."
+      "description": "Khái niệm, vai trò tuyển dụng; xác định nhu cầu tuyển dụng; tuyển mộ; tuyển chọn; các hình thức bố trí nhân lực và quy định liên quan trong Bộ luật Lao động 2019.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_05",
@@ -40,7 +49,10 @@
       "totalSlides": 45,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, vai trò, hình thức, quy trình và phương pháp đào tạo; đánh giá hiệu quả đào tạo; phát triển nhân lực, IDP và lộ trình sự nghiệp."
+      "description": "Khái niệm, vai trò, hình thức, quy trình và phương pháp đào tạo; đánh giá hiệu quả đào tạo; phát triển nhân lực, IDP và lộ trình sự nghiệp.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_06",
@@ -50,7 +62,10 @@
       "totalSlides": 57,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, mục tiêu, quy trình đánh giá thực hiện công việc; các phương pháp đánh giá (thang đồ họa, BARS, MBO/OKR, 360 độ…); lỗi người đánh giá và phỏng vấn đánh giá."
+      "description": "Khái niệm, mục tiêu, quy trình đánh giá thực hiện công việc; các phương pháp đánh giá (thang đồ họa, BARS, MBO/OKR, 360 độ…); lỗi người đánh giá và phỏng vấn đánh giá.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_07",
@@ -60,7 +75,10 @@
       "totalSlides": 93,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, phân loại, vai trò, chức năng của tiền lương; yêu cầu, nguyên tắc trả lương; thang bảng lương; các hình thức trả lương (thời gian, sản phẩm, khoán, 3P, KPI) và phúc lợi."
+      "description": "Khái niệm, phân loại, vai trò, chức năng của tiền lương; yêu cầu, nguyên tắc trả lương; thang bảng lương; các hình thức trả lương (thời gian, sản phẩm, khoán, 3P, KPI) và phúc lợi.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
     },
     {
       "id": "chapter_08",
@@ -70,7 +88,130 @@
       "totalSlides": 51,
       "totalQuestions": 30,
       "timeLimitMinutes": 30,
-      "description": "Khái niệm, phân loại, nội dung, giao kết, sửa đổi, tạm hoãn, chấm dứt hợp đồng lao động; quan hệ lao động; tranh chấp lao động và giải quyết tranh chấp."
+      "description": "Khái niệm, phân loại, nội dung, giao kết, sửa đổi, tạm hoãn, chấm dứt hợp đồng lao động; quan hệ lao động; tranh chấp lao động và giải quyết tranh chấp.",
+      "subject": "qtnl",
+      "expectQuestions": 30,
+      "expectPerLevel": 10
+    },
+    {
+      "id": "hvtd_ch02",
+      "subject": "hvtd",
+      "file": "hvtd_ch02.json",
+      "title": "Chương 2 - Văn hóa và hành vi tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 2 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch03",
+      "subject": "hvtd",
+      "file": "hvtd_ch03.json",
+      "title": "Chương 3 - Giai tầng xã hội và hành vi tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 3 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch04",
+      "subject": "hvtd",
+      "file": "hvtd_ch04.json",
+      "title": "Chương 4 - Nhóm tham khảo và hành vi người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 4 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch05",
+      "subject": "hvtd",
+      "file": "hvtd_ch05.json",
+      "title": "Chương 5 - Gia đình và hành vi người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 21,
+      "timeLimitMinutes": 21,
+      "description": "21 câu trắc nghiệm chương 5 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch06",
+      "subject": "hvtd",
+      "file": "hvtd_ch06.json",
+      "title": "Chương 6 - Giá trị chuẩn mực, cá tính và lối sống",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 6 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch07",
+      "subject": "hvtd",
+      "file": "hvtd_ch07.json",
+      "title": "Chương 7 - Nhu cầu và động cơ của người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 7 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch08",
+      "subject": "hvtd",
+      "file": "hvtd_ch08.json",
+      "title": "Chương 8 - Kiến thức, sự hiểu biết và nhận thức của người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 8 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch09",
+      "subject": "hvtd",
+      "file": "hvtd_ch09.json",
+      "title": "Chương 9 - Thái độ của người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 9 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    },
+    {
+      "id": "hvtd_ch10",
+      "subject": "hvtd",
+      "file": "hvtd_ch10.json",
+      "title": "Chương 10 - Quá trình ra quyết định mua của người tiêu dùng",
+      "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+      "totalSlides": 44,
+      "sourceUnit": "trang",
+      "totalQuestions": 20,
+      "timeLimitMinutes": 20,
+      "description": "20 câu trắc nghiệm chương 10 từ ngân hàng câu hỏi môn Hành vi người tiêu dùng. Đáp án và giải thích do Claude biên soạn."
+    }
+  ],
+  "subjects": [
+    {
+      "id": "qtnl",
+      "title": "Quản trị nhân lực",
+      "description": "Câu hỏi biên soạn từ slide bài giảng, mỗi chương 30 câu."
+    },
+    {
+      "id": "hvtd",
+      "title": "Hành vi người tiêu dùng",
+      "description": "Ngân hàng câu hỏi theo chương. Đáp án và giải thích do Claude biên soạn, nên đối chiếu với giáo trình."
     }
   ]
 }

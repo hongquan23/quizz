@@ -1,0 +1,614 @@
+{
+  "documentId": "hvtd_ch03",
+  "documentTitle": "Chương 3 - Giai tầng xã hội và hành vi tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Giai tầng xã hội tác động đến hành vi tiêu dùng qua 4 lăng kính nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giá trị cảm nhận & cách tiêu tiền, Thế giới quan, Văn hóa thị hiếu, Văn hóa giao tiếp"
+        },
+        {
+          "id": "B",
+          "text": "Khả năng chi trả kinh tế, Khoảng cách địa lý, Cơ cấu gia đình và Độ tuổi người mua"
+        },
+        {
+          "id": "C",
+          "text": "Động cơ tiêu dùng, Tri giác cá nhân, Thái độ nhận thức và Trình độ học vấn cá nhân"
+        },
+        {
+          "id": "D",
+          "text": "Nguồn gốc của cải tài sản, Mức độ uy tín cá nhân, Quyền lực xã hội và Tình trạng hôn nhân"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giai tầng xã hội tác động đến hành vi tiêu dùng qua 4 lăng kính: giá trị cảm nhận và cách tiêu tiền, thế giới quan, văn hóa thị hiếu, văn hóa giao tiếp.",
+      "sourceSlides": [
+        6
+      ],
+      "sourceRef": "Chương 3, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Đối với loại sản phẩm nào thì tiêu thức “Giai tầng xã hội” thể hiện ưu thế phân đoạn thị trường rõ rệt hơn tiêu thức “Thu nhập”?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Các sản phẩm mang tính biểu tượng, phản ánh rõ nét lối sống và địa vị xã hội"
+        },
+        {
+          "id": "B",
+          "text": "Các mặt hàng có tần suất mua sắm liên tục với chi phí thay thế thấp trên thị trường"
+        },
+        {
+          "id": "C",
+          "text": "Các sản phẩm hàng hóa tiêu dùng thiết yếu sử dụng hàng ngày trong gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Các dịch vụ công cộng cơ bản do Nhà nước cung cấp đồng đều cho mọi người dân"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Với sản phẩm mang tính biểu tượng, phản ánh lối sống và địa vị, sự lựa chọn phụ thuộc vào giá trị, thị hiếu của giai tầng nhiều hơn là mức thu nhập, nên giai tầng phân đoạn hiệu quả hơn.",
+      "sourceSlides": [
+        6
+      ],
+      "sourceRef": "Chương 3, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Một hãng thời trang mới muốn đo lường quy mô phân đoạn thị trường thượng lưu tại Hà Nội để chuẩn bị mở showroom. Thay vì chỉ hỏi thu nhập tự kê khai (dễ bị sai lệch), nhà nghiên cứu đã kết hợp thu thập data về: Nghề nghiệp, Trình độ học vấn, Thu nhập hộ gia đình và Loại hình/chất lượng nhà ở. Nhà nghiên cứu này đang áp dụng kỹ thuật xác định giai tầng nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phương pháp phân tích định tính dựa trên quan sát thói quen giao tiếp ngẫu nhiên"
+        },
+        {
+          "id": "B",
+          "text": "Phương pháp danh tiếng dựa trên sự đánh giá và xếp hạng của các thành viên khác"
+        },
+        {
+          "id": "C",
+          "text": "Phương pháp khách quan dựa trên tập hợp các chỉ số đa biến kinh tế xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Phương pháp chủ quan dựa trên việc cá nhân tự đánh giá vị trí của mình trong xã hội"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kết hợp nhiều chỉ số kinh tế – xã hội (nghề nghiệp, học vấn, thu nhập, nhà ở) để xếp giai tầng là phương pháp khách quan dùng chỉ số đa biến.",
+      "sourceSlides": [
+        6,
+        7
+      ],
+      "sourceRef": "Chương 3, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "“Phân tầng xã hội” được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vị trí của một cá nhân trong xã hội gắn liền với uy tín và quy mô tài sản gia đình sở hữu"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm tương đối bền chặt gồm các cá nhân chia sẻ cùng hệ thống giá trị và lối sống chung"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình phân chia xã hội tạo ra vị thế, quyền lực và khả năng tiếp cận nguồn lực khác nhau"
+        },
+        {
+          "id": "D",
+          "text": "Quá trình di chuyển của các cá nhân từ tầng lớp xã hội này sang một tầng lớp xã hội khác"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phân tầng xã hội là quá trình phân chia xã hội thành các tầng lớp có vị thế, quyền lực và khả năng tiếp cận nguồn lực khác nhau.",
+      "sourceSlides": [
+        7
+      ],
+      "sourceRef": "Chương 3, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Anh Nam xuất thân từ gia đình lao động bình thường, nhưng nhờ nỗ lực học tập và thăng tiến thành Giám đốc công nghệ, anh đã mua nhà tại khu đô thị cao cấp và gia nhập nhóm có mức sống cao. Tình huống này mô tả khái niệm nào trong chương học?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự phân tầng xã hội mang tính cố định không thể thay đổi ranh giới"
+        },
+        {
+          "id": "B",
+          "text": "Sự dịch chuyển giai tầng xã hội lên cao dựa vào địa vị giành được"
+        },
+        {
+          "id": "C",
+          "text": "Hiện tượng duy trì ranh giới giai tầng để hạn chế tiếp xúc xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Địa vị gán cho nhờ sự thừa hưởng từ nền tảng gia đình truyền thống"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Anh Nam đi lên tầng lớp cao hơn nhờ nỗ lực học tập, thăng tiến – đây là dịch chuyển giai tầng đi lên dựa trên địa vị giành được.",
+      "sourceSlides": [
+        7
+      ],
+      "sourceRef": "Chương 3, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Nhóm biến số nào sau đây KHÔNG thuộc 3 nhóm biến số cấu thành giai tầng xã hội?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhóm kinh tế bao gồm tài sản, nghề nghiệp và thu nhập"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm lập trường tư tưởng bao gồm ý thức hệ và quyền lực"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm tương tác bao gồm uy tín, sự giao du và giá trị"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm nhân khẩu học sinh học bao gồm giới tính và nhóm máu"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ba nhóm biến số cấu thành giai tầng là kinh tế, tương tác và chính trị (quyền lực, ý thức hệ). Giới tính, nhóm máu không thuộc các nhóm này.",
+      "sourceSlides": [
+        7
+      ],
+      "sourceRef": "Chương 3, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Ba yếu tố cốt lõi được sử dụng để xác định địa vị xã hội của một cá nhân bao gồm những yếu tố nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nghề nghiệp, Nguồn thu nhập và Địa điểm cư trú"
+        },
+        {
+          "id": "B",
+          "text": "Lối sống, Thị hiếu và Văn hóa giao tiếp"
+        },
+        {
+          "id": "C",
+          "text": "Của cải, Quyền lực và Uy tín trong xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Thu nhập, Trình độ học vấn và Loại hình nhà ở"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Địa vị xã hội của cá nhân được xác định bởi ba yếu tố: của cải, quyền lực và uy tín.",
+      "sourceSlides": [
+        7,
+        8
+      ],
+      "sourceRef": "Chương 3, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Tập đoàn Trung Nguyên Legend triển khai chuỗi không gian cà phê với câu chuyện “Cà phê triết đạo, cà phê khởi nghiệp”, sử dụng hình ảnh cà phê phin truyền thống và không gian trưng bày sách đổi đời. Dựa trên phân tích chiến lược ở slide 25, Trung Nguyên Legend đã thành công nhờ khai thác tốt sự kết hợp nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhắm vào nhóm “Giàu mới nổi” thích phô trương biểu tượng địa vị xa xỉ nhập khẩu từ Đức"
+        },
+        {
+          "id": "B",
+          "text": "Định vị hướng tới khách hàng yêu giá trị Việt, khai thác sâu tố chất văn hóa bản địa"
+        },
+        {
+          "id": "C",
+          "text": "Khai thác nhóm khách hàng thượng lưu quốc tế dựa trên phong cách tiêu dùng phương Tây"
+        },
+        {
+          "id": "D",
+          "text": "Phân đoạn thị trường theo tầng lớp dưới với chiến lược giá rẻ và quy mô vỉa hè rộng khắp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trung Nguyên Legend dùng cà phê phin, câu chuyện triết đạo và khởi nghiệp để định vị cho khách hàng yêu giá trị Việt, khai thác tố chất văn hóa bản địa.",
+      "sourceSlides": [
+        8
+      ],
+      "sourceRef": "Chương 3, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Khái niệm “Địa vị giành được” được hiểu là địa vị xã hội có được từ nguồn nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức độ giàu có bất ngờ do may mắn trúng thưởng hoặc được đền bù đất"
+        },
+        {
+          "id": "B",
+          "text": "Việc gia nhập tự động vào các tổ chức chính trị xã hội tại địa phương"
+        },
+        {
+          "id": "C",
+          "text": "Sự nỗ lực, phấn đấu cùng các thành tựu cá nhân đạt được trong cuộc sống"
+        },
+        {
+          "id": "D",
+          "text": "Thừa hưởng hoàn toàn từ nền tảng gia đình truyền thống qua nhiều thế hệ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Địa vị giành được có được nhờ nỗ lực, phấn đấu và thành tựu cá nhân; ngược lại địa vị gán cho được thừa hưởng từ gia đình.",
+      "sourceSlides": [
+        8
+      ],
+      "sourceRef": "Chương 3, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Yếu tố nào dưới đây là một trong các đặc điểm của sản phẩm giúp sản phẩm trở thành “biểu tượng địa vị”?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sản phẩm mang tính khan hiếm và đòi hỏi sự am hiểu, tinh tế khi lựa chọn"
+        },
+        {
+          "id": "B",
+          "text": "Thiết kế đơn giản, phổ thông và tập trung tối đa vào các tính năng sử dụng cơ bản"
+        },
+        {
+          "id": "C",
+          "text": "Được sản xuất hàng loạt với số lượng cực lớn để phục vụ đông đảo người tiêu dùng"
+        },
+        {
+          "id": "D",
+          "text": "Mức giá bán thuộc phân khúc bình dân giúp nhiều đối tượng dễ dàng tiếp cận sản phẩm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Biểu tượng địa vị thường đắt, khan hiếm và đòi hỏi sự am hiểu, tinh tế khi lựa chọn, nên chỉ một nhóm nhất định tiếp cận được.",
+      "sourceSlides": [
+        8
+      ],
+      "sourceRef": "Chương 3, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Doanh nghiệp bán lẻ đồ nội thất cao cấp nhận thấy: khi tiếp cận khách hàng tầng lớp dưới, chiến dịch quảng cáo cần tập trung vào độ bền, tính năng thực tế và giá hợp lý. Tuy nhiên, khi tiếp cận tầng lớp trên, thông điệp quảng cáo phải truyền tải gu thẩm mỹ, nghệ thuật sống và cá tính độc bản. Ý nghĩa chiến lược marketing cốt lõi ở đây là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phân đoạn thị trường theo giai tầng xã hội chỉ cần áp dụng cho chiến lược giá bán sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Mọi tầng lớp xã hội đều có phản ứng giống hệt nhau trước các thông điệp khuyến mại tài chính"
+        },
+        {
+          "id": "C",
+          "text": "Doanh nghiệp nên đồng nhất đơn giản giai tầng xã hội với thu nhập để tiết kiệm ngân sách"
+        },
+        {
+          "id": "D",
+          "text": "Hiểu rõ giai tầng giúp doanh nghiệp xây dựng đúng chân dung và chiến lược marketing thích ứng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mỗi giai tầng có giá trị, thị hiếu khác nhau; hiểu rõ giai tầng giúp doanh nghiệp xây dựng đúng chân dung khách hàng và thiết kế thông điệp, chiến lược phù hợp từng nhóm.",
+      "sourceSlides": [
+        8,
+        9
+      ],
+      "sourceRef": "Chương 3, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Một thương hiệu xe điện ra mắt chiến dịch marketing nhắm vào tầng lớp “Giàu mới nổi” tại Việt Nam. Để thu hút hiệu quả nhóm khách hàng này, chiến dịch truyền thông và thiết kế sản phẩm của hãng nên nhấn mạnh vào yếu tố nào dưới đây?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức giá chiết khấu sâu, tập trung truyền thông vào chi phí vận hành tiết kiệm hàng tháng"
+        },
+        {
+          "id": "B",
+          "text": "Thiết kế xe tối giản, không gắn logo, nhấn mạnh tính bền vững và sự kín đáo khi di chuyển"
+        },
+        {
+          "id": "C",
+          "text": "Thông điệp truyền thông hoài niệm về các giá trị gia đình truyền thống lâu đời của dòng họ"
+        },
+        {
+          "id": "D",
+          "text": "Thiết kế nổi bật, thương hiệu thể hiện đúng đẳng cấp và khẳng định biểu tượng địa vị rõ ràng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm \"giàu mới nổi\" thích phô trương, dùng sản phẩm để khẳng định địa vị, nên cần thiết kế nổi bật, thương hiệu thể hiện rõ đẳng cấp.",
+      "sourceSlides": [
+        9
+      ],
+      "sourceRef": "Chương 3, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Hãng xe Porsche ra mắt dòng xe thể thao phiên bản giới hạn chỉ sản xuất 500 chiếc trên toàn thế giới, kèm mức giá 15 tỷ đồng và yêu cầu khách hàng phải gửi hồ sơ phê duyệt trước khi mua. Ứng dụng này đánh vào đặc điểm biểu tượng địa vị nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ưu tiên tính năng sử dụng hàng ngày và khả năng tiết kiệm nhiên liệu tối đa"
+        },
+        {
+          "id": "B",
+          "text": "Định giá dựa trên chi phí sản xuất thực tế nhằm mở rộng tối đa thị phần bán"
+        },
+        {
+          "id": "C",
+          "text": "Sản phẩm đắt đỏ, mang tính khan hiếm và được kiểm soát bởi nhóm có địa vị cao"
+        },
+        {
+          "id": "D",
+          "text": "Hướng tới đại đa số người tiêu dùng muốn thể hiện sự giàu có mới nổi phô trương"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giá rất cao, số lượng giới hạn và phải được duyệt mới được mua: sản phẩm đắt, khan hiếm và được kiểm soát bởi nhóm có địa vị cao – đặc điểm của biểu tượng địa vị.",
+      "sourceSlides": [
+        9
+      ],
+      "sourceRef": "Chương 3, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Starbucks định vị cửa hàng tại các trung tâm thương mại cao cấp, sử dụng menu tiếng Anh, không gian hiện đại và bán các dòng sản phẩm có giá từ 90.000đ - 150.000đ/ly. Chiến lược của Starbucks đã khéo léo biến ly cà phê thành “biểu tượng địa vị” bằng cách nào theo khung lý thuyết bài học?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kết hợp mức giá cao, không gian sang trọng và lối sống quốc tế dành cho tầng lớp trên"
+        },
+        {
+          "id": "B",
+          "text": "Sử dụng phương pháp đánh giá chủ quan để khách hàng tự xếp hạng bản thân vào tầng lớp dưới"
+        },
+        {
+          "id": "C",
+          "text": "Giảm thiểu chi phí vận hành để biến ly cà phê thành sản phẩm tiêu dùng thiết yếu giá rẻ"
+        },
+        {
+          "id": "D",
+          "text": "Tập trung đáp ứng nhu cầu tỉnh táo làm việc đơn thuần của tầng lớp lao động phổ thông"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Starbucks kết hợp giá cao, không gian sang trọng, menu tiếng Anh và phong cách quốc tế để ly cà phê trở thành biểu tượng địa vị của tầng lớp trên.",
+      "sourceSlides": [
+        9
+      ],
+      "sourceRef": "Chương 3, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Khi nghiên cứu thị trường tiêu dùng đồ gia dụng, một công ty nhận thấy hai hộ gia đình A và B đều có thu nhập 40 triệu đồng/tháng. Tuy nhiên, gia đình A (bố mẹ là bác sĩ, giảng viên) mua nhiều sách, dụng cụ âm nhạc; còn gia đình B (buôn bán tự do) chi nhiều cho đồ uống xa xỉ và dàn karaoke đắt tiền. Phát hiện này củng cố nguyên lý nào trong bài học?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cùng thu nhập nhưng khác giai tầng vẫn dẫn đến sự khác biệt lớn về lối sống và chi tiêu"
+        },
+        {
+          "id": "B",
+          "text": "Giai tầng xã hội chỉ ảnh hưởng đến sắm đồ thiết yếu chứ không ảnh hưởng đồ giải trí"
+        },
+        {
+          "id": "C",
+          "text": "Mức thu nhập là chỉ báo duy nhất quyết định toàn bộ mô hình chi tiêu của gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Nghề nghiệp không có ảnh hưởng tới quyết định lựa chọn sản phẩm của người tiêu dùng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai gia đình cùng thu nhập nhưng khác nghề nghiệp, học vấn (khác giai tầng) nên lối sống và cơ cấu chi tiêu khác nhau – thu nhập không phải chỉ báo duy nhất.",
+      "sourceSlides": [
+        10
+      ],
+      "sourceRef": "Chương 3, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Một thương hiệu thời trang thiết kế dịch vụ “may đo riêng tại nhà” dành cho các doanh nhân thành đạt. Dù giá bán rất cao, hãng không công khai bảng giá hay chạy quảng cáo rầm rộ trên mạng xã hội mà chỉ gửi thư mời riêng. Chiến lược này phù hợp nhất với nhóm khách hàng nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhóm khách hàng khá giả ưu tiên tính tiện lợi và tốc độ giao hàng trực tuyến"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm khách hàng “Tiền cũ” đề cao sự kín đáo, thanh lịch và dịch vụ riêng biệt"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm người tiêu dùng thuộc tầng lớp dưới đang tìm kiếm mức ưu đãi giảm giá"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm khách hàng “Giàu mới nổi” thích phô trương logo thương hiệu ra bên ngoài"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kín đáo, không quảng cáo rầm rộ, dịch vụ riêng biệt theo thư mời phù hợp nhóm \"tiền cũ\" đề cao sự thanh lịch, ít phô trương.",
+      "sourceSlides": [
+        10
+      ],
+      "sourceRef": "Chương 3, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Phương pháp khách quan trong xác định giai tầng xã hội sử dụng chỉ số đa biến “vị thế kinh tế xã hội” bao gồm các biến số chính nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nguồn gốc tài sản, Địa điểm cư trú và Thái độ tiêu dùng thực tế"
+        },
+        {
+          "id": "B",
+          "text": "Khả năng giao tiếp, Lối sống cá nhân và Mức độ hòa nhập xã hội"
+        },
+        {
+          "id": "C",
+          "text": "Vị trí nghề nghiệp, Mức thu nhập gia đình và Trình độ học vấn"
+        },
+        {
+          "id": "D",
+          "text": "Đánh giá danh tiếng, Cảm nhận cá nhân và Xếp hạng của cộng đồng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chỉ số vị thế kinh tế – xã hội trong phương pháp khách quan dựa trên nghề nghiệp, thu nhập gia đình và trình độ học vấn.",
+      "sourceSlides": [
+        10
+      ],
+      "sourceRef": "Chương 3, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Một công nhân nhà máy chọn uống cà phê muối ở quán vỉa hè giá 15.000đ để tỉnh táo làm việc. Trong khi đó, một chuyên viên truyền thông chọn làm việc tại The Coffee House với ly cà phê 55.000đ. Phân tích theo slide, sự khác biệt này phản ánh điều gì về ảnh hưởng của giai tầng xã hội?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Người thu nhập thấp hoàn toàn không có nhu cầu thưởng thức các sản phẩm cà phê chất lượng"
+        },
+        {
+          "id": "B",
+          "text": "Giai tầng xã hội tạo ra sự khác biệt về nhu cầu, lối sống và lăng kính giá trị cảm nhận"
+        },
+        {
+          "id": "C",
+          "text": "Thu nhập là yếu tố duy nhất quyết định địa điểm mua sắm mà không liên quan tới nghề nghiệp"
+        },
+        {
+          "id": "D",
+          "text": "Thương hiệu cửa hàng chỉ có ý nghĩa đối với người thuộc giai tầng xã hội thượng lưu cao cấp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lựa chọn khác nhau của công nhân và chuyên viên truyền thông phản ánh khác biệt về nhu cầu, lối sống và giá trị cảm nhận do giai tầng tạo ra.",
+      "sourceSlides": [
+        10,
+        11
+      ],
+      "sourceRef": "Chương 3, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Nhóm khách hàng thuộc phân đoạn “Tiền cũ” có đặc điểm hành vi tiêu dùng nổi bật nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thường xuyên mua sắm ngẫu hứng theo các trào lưu mới nổi trên mạng xã hội hiện đại"
+        },
+        {
+          "id": "B",
+          "text": "Tập trung chủ yếu vào giá trị chức năng cốt lõi và tìm kiếm mức giá rẻ nhất có thể"
+        },
+        {
+          "id": "C",
+          "text": "Ưu tiên phong cách kín đáo, thanh lịch, giá trị bền vững và ít phô trương vật chất"
+        },
+        {
+          "id": "D",
+          "text": "Thích phô trương thương hiệu nổi tiếng để khẳng định đẳng cấp vượt trội của bản thân"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhóm \"tiền cũ\" ưa phong cách kín đáo, thanh lịch, giá trị bền vững, ít phô trương vật chất – trái với nhóm giàu mới nổi.",
+      "sourceSlides": [
+        11
+      ],
+      "sourceRef": "Chương 3, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Điểm khác biệt cơ bản giữa “Giai tầng xã hội” và “Địa vị xã hội” được bài giảng làm rõ là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giai tầng có thể thay đổi dễ dàng, còn địa vị xã hội là yếu tố cố định không thể dịch chuyển"
+        },
+        {
+          "id": "B",
+          "text": "Giai tầng là nhóm người có vị trí tương đồng, còn địa vị là thứ bậc cá nhân trong hệ thống"
+        },
+        {
+          "id": "C",
+          "text": "Giai tầng đại diện cho quyền lực chính trị, còn địa vị phản ánh nguồn gốc gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Giai tầng xã hội chỉ gắn liền với thu nhập, còn địa vị xã hội chỉ gắn với trình độ học vấn"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giai tầng xã hội là nhóm người có vị trí tương đồng trong xã hội; địa vị xã hội là thứ bậc, vị trí của một cá nhân trong hệ thống xã hội.",
+      "sourceSlides": [
+        11
+      ],
+      "sourceRef": "Chương 3, câu 20"
+    }
+  ]
+}

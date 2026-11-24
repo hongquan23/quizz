@@ -1,0 +1,613 @@
+{
+  "documentId": "hvtd_ch04",
+  "documentTitle": "Chương 4 - Nhóm tham khảo và hành vi người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Ba loại ảnh hưởng cốt lõi của nhóm tham khảo tới hành vi người tiêu dùng bao gồm những loại nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ảnh hưởng tài chính cá nhân, Ảnh hưởng pháp lý và Ảnh hưởng công nghệ số"
+        },
+        {
+          "id": "B",
+          "text": "Tác động gia đình, Tác động vùng miền địa lý và Tác động mức sống"
+        },
+        {
+          "id": "C",
+          "text": "Tiếp thu thông tin, Tạo các chuẩn mực hành vi và Thể hiện giá trị"
+        },
+        {
+          "id": "D",
+          "text": "Nhận biết nhu cầu, Đánh giá phương án mua và Quyết định mua hàng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhóm tham khảo ảnh hưởng tới người tiêu dùng qua ba loại: ảnh hưởng tiếp thu thông tin, ảnh hưởng tạo chuẩn mực hành vi (thực dụng) và ảnh hưởng thể hiện giá trị.",
+      "sourceSlides": [
+        11
+      ],
+      "sourceRef": "Chương 4, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Một thương hiệu xe điện ra mắt “Cộng đồng người dùng xe điện toàn cầu”, tổ chức các chuyến diễu hành xuyên Việt, cấp đặc quyền tích điểm thưởng và diễn đàn chia sẻ mẹo lái xe an toàn. Dựa trên lý thuyết Chương 4, doanh nghiệp này đang vận dụng thành công ứng dụng marketing nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Áp dụng cơ chế phản kháng nhằm loại bỏ các đối thủ cạnh tranh trên thị trường xe máy"
+        },
+        {
+          "id": "B",
+          "text": "Sử dụng kỹ thuật Door-in-the-face để buộc khách hàng phải nâng cấp xe hàng năm"
+        },
+        {
+          "id": "C",
+          "text": "Phát triển cộng đồng thương hiệu để thúc đẩy hành vi mua và tiêu dùng theo nhóm"
+        },
+        {
+          "id": "D",
+          "text": "Kỹ thuật Even-a-penny-will-help để thu hút nguồn tài trợ từ các nhóm phi chính thức"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cộng đồng người dùng, hoạt động diễu hành, đặc quyền và diễn đàn chung là cách phát triển cộng đồng thương hiệu, tận dụng ảnh hưởng nhóm để thúc đẩy mua và tiêu dùng.",
+      "sourceSlides": [
+        11,
+        12
+      ],
+      "sourceRef": "Chương 4, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Nhóm tham khảo được định nghĩa chính xác là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là tập hợp các khách hàng đã từng mua sắm sản phẩm tại đại lý chính thức"
+        },
+        {
+          "id": "B",
+          "text": "Là nhóm các nhà quản trị marketing trực tiếp tham gia thiết kế sản phẩm"
+        },
+        {
+          "id": "C",
+          "text": "Là tập hợp các cá nhân có cùng mức thu nhập và nghề nghiệp trong xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Là nhóm người được khách hàng xem là cơ sở để so sánh khi định hình hành vi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm tham khảo là cá nhân hoặc nhóm người được người tiêu dùng dùng làm cơ sở so sánh, tham chiếu khi hình thành thái độ, giá trị và hành vi.",
+      "sourceSlides": [
+        12
+      ],
+      "sourceRef": "Chương 4, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Một nhãn hàng thời trang cao cấp dành cho giới trẻ muốn ra mắt bộ sưu tập mới. Thay vì chọn các ngôi sao điện ảnh truyền thống, họ chọn hợp tác với Lil Miquela - một Influencer ảo có vẻ ngoài mô phỏng người thật. Tuy nhiên, rủi ro lớn nhất về mặt tâm lý khách hàng mà nhãn hàng phải đối mặt là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự dè dặt của người tiêu dùng do nhân vật ảo thiếu cảm xúc và trải nghiệm thực tế"
+        },
+        {
+          "id": "B",
+          "text": "Lil Miquela không thể duy trì tần xuất xuất hiện ổn định và liên tục trên mạng xã hội"
+        },
+        {
+          "id": "C",
+          "text": "Lil Miquela dễ vướng vào các bê bối phát ngôn cá nhân làm tổn hại hình ảnh hãng"
+        },
+        {
+          "id": "D",
+          "text": "Chi phí duy trì hình ảnh nhân vật ảo theo thời gian sẽ tăng cao do bị lão hóa sinh học"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rủi ro lớn của influencer ảo là người tiêu dùng dè dặt, khó tin vì nhân vật thiếu cảm xúc và trải nghiệm thực tế với sản phẩm.",
+      "sourceSlides": [
+        12
+      ],
+      "sourceRef": "Chương 4, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Một công ty sản xuất nệm cao su cao cấp muốn quảng cáo sản phẩm của mình. Dựa vào ma trận ảnh hưởng của nhóm tham khảo đối với hàng hóa thiết yếu và tiêu dùng riêng tư, chiến lược truyền thông của công ty nên tập trung vào yếu tố nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thuê các KOLs thời trang nổi tiếng check-in sang chảnh bên cạnh chiếc nệm ở nhà"
+        },
+        {
+          "id": "B",
+          "text": "Tập trung xây dựng các chuẩn mực hành vi khắt khe bắt buộc nhóm bạn bè phải theo"
+        },
+        {
+          "id": "C",
+          "text": "Nhấn mạnh việc sở hữu chiếc nệm này sẽ giúp người mua hãnh diện với bạn bè đến chơi"
+        },
+        {
+          "id": "D",
+          "text": "Nhấn mạnh vào tính năng cốt lõi như độ êm ái, hỗ trợ cột sống và chất lượng giấc ngủ"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nệm là hàng thiết yếu, tiêu dùng riêng tư nên ảnh hưởng nhóm tham khảo yếu ở cả sản phẩm lẫn thương hiệu; truyền thông nên tập trung vào lợi ích chức năng cốt lõi.",
+      "sourceSlides": [
+        12
+      ],
+      "sourceRef": "Chương 4, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Nhóm tham khảo nào dưới đây thuộc loại “Nhóm tham khảo chính thức”?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đoàn thanh niên hoặc Công đoàn cơ sở"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm bạn thân thường xuyên đi cà phê"
+        },
+        {
+          "id": "C",
+          "text": "Hội các bà mẹ bỉm sữa trên mạng xã hội"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm bạn cùng chơi game online buổi tối"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm chính thức có cơ cấu tổ chức, điều lệ, vai trò rõ ràng như Đoàn thanh niên, Công đoàn; nhóm bạn bè, hội nhóm mạng xã hội là nhóm không chính thức.",
+      "sourceSlides": [
+        12
+      ],
+      "sourceRef": "Chương 4, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Nhóm tham khảo nào mà người tiêu dùng KHÔNG thuộc về nhưng có thái độ ghét bỏ và tuyệt đối không muốn giống họ?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhóm tẩy chay"
+        },
+        {
+          "id": "B",
+          "text": "Nhóm thứ cấp"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm sơ cấp"
+        },
+        {
+          "id": "D",
+          "text": "Nhóm ngưỡng mộ"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm tẩy chay (nhóm bất ứng/dissociative) là nhóm cá nhân không thuộc về và không muốn bị đồng nhất, có thái độ né tránh, ghét bỏ.",
+      "sourceSlides": [
+        12
+      ],
+      "sourceRef": "Chương 4, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Khi một nhân viên bán hàng trang sức tiếp cận khách hàng và giới thiệu bộ dây chuyền kim cương trị giá 500 USD, khi thấy khách hàng lắc đầu từ chối, nhân viên liền nhanh trí gợi ý sang đôi bông tai bạc đang giảm giá chỉ còn 25 USD khiến khách hàng vui vẻ mua ngay. Nhân viên này đã áp dụng kỹ thuật nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kỹ thuật Foot-in-the-door"
+        },
+        {
+          "id": "B",
+          "text": "Kỹ thuật Door-in-the-face"
+        },
+        {
+          "id": "C",
+          "text": "Kỹ thuật Even-a-penny-will-help"
+        },
+        {
+          "id": "D",
+          "text": "Kỹ thuật tạo dựng cộng đồng thương hiệu chính thức"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đưa ra yêu cầu lớn để bị từ chối rồi chuyển sang yêu cầu nhỏ hơn dễ được chấp nhận là kỹ thuật Door-in-the-face.",
+      "sourceSlides": [
+        12,
+        13
+      ],
+      "sourceRef": "Chương 4, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Một hãng cà phê phát hiện ra rằng ở khu vực miền Bắc, người tiêu dùng uống cà phê bị ảnh hưởng mạnh bởi tính nghi thức và thói quen truyền thống của thế hệ lớn tuổi; trong khi ở miền Nam, người tiêu dùng chịu ảnh hưởng mạnh bởi nhóm bạn bè và tính tiện lợi. Để thành công trên cả hai miền, chiến lược sản phẩm và nhóm tham khảo của hãng nên là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ép buộc người tiêu dùng miền Nam phải tuân thủ chuẩn mực uống cà phê phin đậm của miền Bắc"
+        },
+        {
+          "id": "B",
+          "text": "Miền Bắc dùng chuẩn mực gia đình truyền thống; miền Nam dùng KOLs trẻ trung, hiện đại"
+        },
+        {
+          "id": "C",
+          "text": "Chỉ tập trung phân phối qua các nhóm tham khảo chính thức như Đoàn thanh niên và Công đoàn"
+        },
+        {
+          "id": "D",
+          "text": "Áp dụng một thông điệp quảng cáo duy nhất sử dụng KOLs ảo hoạt hình phủ sóng trên toàn quốc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhóm tham khảo chi phối khác nhau theo vùng: miền Bắc chịu ảnh hưởng gia đình, truyền thống; miền Nam chịu ảnh hưởng bạn bè, sự tiện lợi. Nên dùng nhóm tham khảo phù hợp từng miền.",
+      "sourceSlides": [
+        13
+      ],
+      "sourceRef": "Chương 4, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Một tổ chức vận động hiến máu nhân đạo nhận thấy nếu chỉ gửi thư mời đơn thuần thì tỷ lệ người tham gia chỉ đạt 2%. Tuy nhiên, khi họ kết hợp gửi thông tin về ý nghĩa y khoa của việc hiến máu (ảnh hưởng thông tin) đồng thời đi cùng nhóm bạn thân đăng ký công khai trên mạng xã hội (ảnh hưởng chuẩn mực), tỷ lệ tham gia tăng lên 22%. Hiện tượng này củng cố nguyên lý nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự kết hợp đồng thời giữa ảnh hưởng thông tin và chuẩn mực nhóm tạo tác động vượt trội"
+        },
+        {
+          "id": "B",
+          "text": "Ảnh hưởng chuẩn mực chỉ có tác dụng khi đi kèm với phần thưởng tài chính hữu hình rất lớn"
+        },
+        {
+          "id": "C",
+          "text": "Ảnh hưởng thông tin luôn có tác động mạnh mẽ hơn rất nhiều so với ảnh hưởng chuẩn mực nhóm"
+        },
+        {
+          "id": "D",
+          "text": "Người tiêu dùng chỉ quyết định hành động khi cảm thấy quyền tự do bị đe dọa nghiêm trọng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kết hợp thông tin (ý nghĩa y khoa) với chuẩn mực nhóm (đăng ký cùng bạn bè, công khai) cho tác động vượt trội so với từng loại ảnh hưởng riêng lẻ.",
+      "sourceSlides": [
+        13
+      ],
+      "sourceRef": "Chương 4, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Ưu điểm nổi bật nhất của Influencer ảo so với Influencer người thật trong hoạt động marketing là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Influencer ảo không bao giờ khiến người tiêu dùng cảm thấy lo ngại về quan niệm cái đẹp"
+        },
+        {
+          "id": "B",
+          "text": "Chi phí tạo dựng ban đầu của Influencer ảo luôn thấp hơn việc thuê người nổi tiếng lẻ"
+        },
+        {
+          "id": "C",
+          "text": "Thương hiệu có thể kiểm soát hoàn toàn hình ảnh, tránh bê bối và duy trì sự ổn định"
+        },
+        {
+          "id": "D",
+          "text": "Influencer ảo luôn tạo ra sự kết nối cảm xúc tự nhiên và câu chuyện đời thực chân thật hơn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thương hiệu kiểm soát hoàn toàn hình ảnh, phát ngôn của influencer ảo nên tránh được bê bối và duy trì sự ổn định.",
+      "sourceSlides": [
+        13
+      ],
+      "sourceRef": "Chương 4, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Sự khác biệt cốt lõi giữa “Nguồn thông tin marketing” và “Nguồn thông tin phi marketing” là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nguồn marketing có chi phí miễn phí, nguồn phi marketing tốn rất nhiều ngân sách"
+        },
+        {
+          "id": "B",
+          "text": "Nguồn marketing chỉ truyền thông hai chiều, nguồn phi marketing chỉ truyền một chiều"
+        },
+        {
+          "id": "C",
+          "text": "Nguồn phi marketing không đại diện cho doanh nghiệp nên có độ tin cậy cao hơn"
+        },
+        {
+          "id": "D",
+          "text": "Nguồn phi marketing do doanh nghiệp tạo ra, nguồn marketing do người mua tự nghĩ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nguồn phi marketing (bạn bè, người dùng, chuyên gia độc lập) không đại diện doanh nghiệp, không có động cơ bán hàng nên được tin cậy hơn nguồn marketing.",
+      "sourceSlides": [
+        13,
+        14
+      ],
+      "sourceRef": "Chương 4, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Minh là thành viên của một câu lạc bộ xe chạy điện. Dù chiếc nón bảo hiểm cũ vẫn dùng tốt, Minh vẫn quyết định chi 2 triệu đồng mua chiếc nón bảo hiểm có in logo riêng của câu lạc bộ để giống với các thành viên khác khi diễu hành. Hành vi của Minh phản ánh phản ứng tuân thủ nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiếp thu thông tin ngẫu nhiên từ các nguồn truyền thông đại chúng không chính thức"
+        },
+        {
+          "id": "B",
+          "text": "Tuân thủ chủ động nhằm tạo sự tương đồng với chuẩn mực của nhóm"
+        },
+        {
+          "id": "C",
+          "text": "Tuân thủ theo yêu cầu do sợ bị ban quản nhiệm câu lạc bộ sa thải"
+        },
+        {
+          "id": "D",
+          "text": "Hành vi phản kháng nhằm khẳng định bản sắc cá nhân độc lập cho mình"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Minh chi tiền mua nón có logo câu lạc bộ dù không cần thiết để giống các thành viên khác: đó là tuân thủ chuẩn mực nhóm nhằm tạo sự tương đồng.",
+      "sourceSlides": [
+        14
+      ],
+      "sourceRef": "Chương 4, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Khi một người tiêu dùng thực hiện hành vi “Phản kháng” (Reactance / Hiệu ứng boomerang) đối với nhóm tham khảo, điều này có nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Người tiêu dùng hành động ngược lại vì cảm thấy sự tự do cá nhân bị đe dọa"
+        },
+        {
+          "id": "B",
+          "text": "Người tiêu dùng tự nguyện làm theo mọi hướng dẫn của người đại diện thương hiệu"
+        },
+        {
+          "id": "C",
+          "text": "Người tiêu dùng bắt chước hoàn toàn phong cách ăn mặc của nhóm bạn thân thiết"
+        },
+        {
+          "id": "D",
+          "text": "Người tiêu dùng im lặng tuân thủ yêu cầu do sợ bị nhóm đưa ra hình phạt vô hình"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản kháng (reactance/hiệu ứng boomerang) là khi người tiêu dùng làm ngược lại vì thấy tự do lựa chọn của mình bị đe dọa.",
+      "sourceSlides": [
+        14
+      ],
+      "sourceRef": "Chương 4, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Khi xuất hiện tin đồn thất thiệt trên mạng xã hội rằng sản phẩm thực phẩm của công ty A chứa chất gây hại, ban lãnh đạo công ty đã lập tức họp báo công khai toàn bộ giấy chứng nhận an toàn, quay video quy trình sản xuất và phát sóng trên tất cả các kênh truyền hình lớn để bác bỏ trực tiếp. Công ty A đã phản ứng theo cách nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Làm kín đáo thông qua việc tài trợ cho các quỹ từ thiện xã hội"
+        },
+        {
+          "id": "B",
+          "text": "Làm cục bộ bằng cách chỉ giải thích cho khách gọi đường dây nóng"
+        },
+        {
+          "id": "C",
+          "text": "Làm lớn lao sử dụng nguồn lực truyền thông bác bỏ trực tiếp"
+        },
+        {
+          "id": "D",
+          "text": "Không làm gì cả nhằm chờ tin đồn tự chìm xuống theo thời gian"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Họp báo, công bố chứng nhận, phát trên mọi kênh truyền hình lớn để bác bỏ trực tiếp là phản ứng \"làm lớn lao\" trước tin đồn.",
+      "sourceSlides": [
+        14
+      ],
+      "sourceRef": "Chương 4, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Kỹ thuật tạo sự tuân thủ chuẩn mực “Foot-in-the-door” được người làm marketing ứng dụng như thế nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thuyết phục cá nhân đồng ý một việc nhỏ trước, sau đó gợi ý việc lớn hơn"
+        },
+        {
+          "id": "B",
+          "text": "Đưa ra một yêu cầu cực kỳ nhỏ bé khiến khách hàng không thể nỡ từ chối"
+        },
+        {
+          "id": "C",
+          "text": "Đưa ra một yêu cầu rất lớn để bị từ chối, sau đó đưa ra yêu cầu nhỏ hơn"
+        },
+        {
+          "id": "D",
+          "text": "Yêu cầu khách hàng thanh toán toàn bộ chi phí trước khi dùng thử sản phẩm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Foot-in-the-door: thuyết phục đồng ý một yêu cầu nhỏ trước, sau đó đưa ra yêu cầu lớn hơn để tăng khả năng được chấp thuận.",
+      "sourceSlides": [
+        14
+      ],
+      "sourceRef": "Chương 4, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Thuật ngữ “Market Maven” (Người dẫn dắt thị trường) dùng để chỉ nhóm đối tượng nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cầu thủ bóng đá nổi tiếng được doanh nghiệp thuê làm đại diện thương hiệu"
+        },
+        {
+          "id": "B",
+          "text": "Khách hàng thường xuyên tẩy chay các thương hiệu vi phạm đạo đức kinh doanh"
+        },
+        {
+          "id": "C",
+          "text": "Chuyên gia có hiểu biết chi tiết về sản phẩm, địa điểm mua và thông tin bí mật"
+        },
+        {
+          "id": "D",
+          "text": "Người mẫu thời trang ảo được tạo ra hoàn toàn bằng công nghệ dựng hình CGI"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Market maven là người có hiểu biết rộng và chi tiết về sản phẩm, nơi mua, giá cả và thông tin thị trường, thường chủ động chia sẻ cho người khác.",
+      "sourceSlides": [
+        14
+      ],
+      "sourceRef": "Chương 4, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Một sinh viên muốn mua một chiếc máy tính xách tay cao cấp để học lập trình. Anh chủ động lên các diễn đàn công nghệ hỏi ý kiến các chuyên gia và đọc bài đánh giá từ những người đã dùng trước khi mua. Đây là ví dụ của cơ chế ảnh hưởng nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cơ chế ảnh hưởng tiếp thu thông tin nhằm giảm thiểu rủi ro"
+        },
+        {
+          "id": "B",
+          "text": "Cơ chế ảnh hưởng tuân thủ theo yêu cầu từ nhóm thứ cấp"
+        },
+        {
+          "id": "C",
+          "text": "Cơ chế ảnh hưởng chuẩn mực mang tính chất cưỡng chế tài chính"
+        },
+        {
+          "id": "D",
+          "text": "Cơ chế ảnh hưởng thể hiện giá trị bản thân thông qua nhóm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chủ động hỏi chuyên gia, đọc đánh giá của người đã dùng trước khi mua là ảnh hưởng tiếp thu thông tin, nhằm giảm rủi ro khi mua.",
+      "sourceSlides": [
+        15
+      ],
+      "sourceRef": "Chương 4, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Khi triển khai chiến dịch truyền thông cho sản phẩm tai nghe chống ồn cao cấp (Sản phẩm xa xỉ - Tiêu dùng công cộng), doanh nghiệp nhận thấy khách hàng trẻ mua tai nghe không chỉ để nghe nhạc mà còn để đeo trên cổ như một phụ kiện thời trang khẳng định gu thẩm mỹ. Doanh nghiệp nên phối hợp các cơ chế ảnh hưởng nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kết hợp ảnh hưởng thể hiện giá trị bản thân với ảnh hưởng chuẩn mực từ nhóm ngưỡng mộ"
+        },
+        {
+          "id": "B",
+          "text": "Sử dụng nhóm tẩy chay để buộc khách hàng phải tiêu dùng sản phẩm trong không gian riêng tư"
+        },
+        {
+          "id": "C",
+          "text": "Tập trung duy nhất vào cơ chế phản kháng để kích thích người tiêu dùng chống lại bạn bè"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ sử dụng ảnh hưởng thông tin từ các kỹ sư âm thanh kết hợp kỹ thuật Even-a-penny"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tai nghe cao cấp đeo nơi công cộng là sản phẩm xa xỉ – tiêu dùng công cộng, dùng để thể hiện gu thẩm mỹ: nên kết hợp ảnh hưởng thể hiện giá trị với chuẩn mực từ nhóm ngưỡng mộ.",
+      "sourceSlides": [
+        15
+      ],
+      "sourceRef": "Chương 4, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Theo sơ đồ ma trận ảnh hưởng của nhóm tham khảo, ảnh hưởng của nhóm đối với cả việc “chọn sản phẩm” lẫn “chọn thương hiệu” đạt mức MẠNH NHẤT trong trường hợp nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sản phẩm thiết yếu được tiêu dùng ở nơi công cộng"
+        },
+        {
+          "id": "B",
+          "text": "Sản phẩm thiết yếu được tiêu dùng ở nơi riêng tư"
+        },
+        {
+          "id": "C",
+          "text": "Sản phẩm xa xỉ được tiêu dùng ở nơi riêng tư"
+        },
+        {
+          "id": "D",
+          "text": "Sản phẩm xa xỉ được tiêu dùng ở nơi công cộng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo ma trận, ảnh hưởng của nhóm tham khảo mạnh ở cả lựa chọn sản phẩm và thương hiệu đối với sản phẩm xa xỉ tiêu dùng nơi công cộng (vừa hiếm có, vừa được người khác nhìn thấy).",
+      "sourceSlides": [
+        15
+      ],
+      "sourceRef": "Chương 4, câu 20"
+    }
+  ]
+}

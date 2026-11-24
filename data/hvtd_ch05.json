@@ -1,0 +1,643 @@
+{
+  "documentId": "hvtd_ch05",
+  "documentTitle": "Chương 5 - Gia đình và hành vi người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 21,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Trẻ em ở giai đoạn phân tích (7-11 tuổi) trong quá trình xã hội hóa người tiêu dùng đạt được năng lực nhận thức nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bắt đầu có sự hiểu biết sâu sắc và hoài nghi đối với các kịch bản mua sắm phức tạp"
+        },
+        {
+          "id": "B",
+          "text": "Đã có ngân sách tài chính riêng để tự mình quyết định mọi mua sắm lớn trong nhà"
+        },
+        {
+          "id": "C",
+          "text": "Đã nắm bắt được ý định thuyết phục và xử lý tín hiệu chức năng của quảng cáo"
+        },
+        {
+          "id": "D",
+          "text": "Hoàn toàn chưa thể phân biệt được đâu là chương trình phim và đâu là quảng cáo"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ở giai đoạn phân tích (7–11 tuổi), trẻ đã hiểu được ý định thuyết phục của quảng cáo và xử lý được các tín hiệu chức năng; sự hoài nghi sâu sắc xuất hiện ở giai đoạn phản ánh (11–16 tuổi).",
+      "sourceSlides": [
+        15
+      ],
+      "sourceRef": "Chương 5, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Theo nghiên cứu của Schiffman & Wisenblit (2019), các thành viên gia đình tác động mạnh nhất đến yếu tố nào của người trẻ?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lựa chọn nguyên tắc đạo đức và tôn giáo"
+        },
+        {
+          "id": "B",
+          "text": "Lựa chọn phong cách thời trang hàng ngày"
+        },
+        {
+          "id": "C",
+          "text": "Lựa chọn thương hiệu điện thoại yêu thích"
+        },
+        {
+          "id": "D",
+          "text": "Lựa chọn các hoạt động giải trí cuối tuần"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Schiffman & Wisenblit, gia đình ảnh hưởng mạnh nhất đến các giá trị nền tảng như đạo đức, tôn giáo; các lựa chọn như thời trang, giải trí chịu ảnh hưởng nhiều hơn của bạn bè.",
+      "sourceSlides": [
+        15,
+        16
+      ],
+      "sourceRef": "Chương 5, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Công ty bảo hiểm Y muốn thiết kế gói sản phẩm dành riêng cho nhóm gia đình mà hai vợ chồng đã nghỉ hưu, con cái đã trưởng thành ra ở riêng, có tài chính tích lũy tương đối tốt nhưng rất lo lắng về sức khỏe và sự an toàn khi về già. Công ty Y nên định hướng gói sản phẩm này cho giai đoạn nào của chu kỳ sống gia đình?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giai đoạn tổ ấm trống vắng II"
+        },
+        {
+          "id": "B",
+          "text": "Giai đoạn tổ ấm đầy đủ III"
+        },
+        {
+          "id": "C",
+          "text": "Giai đoạn người già sống độc thân"
+        },
+        {
+          "id": "D",
+          "text": "Giai đoạn tổ ấm trống vắng I"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vợ chồng đã nghỉ hưu, con cái ra ở riêng, quan tâm sức khỏe và an toàn tuổi già là giai đoạn tổ ấm trống vắng II.",
+      "sourceSlides": [
+        16
+      ],
+      "sourceRef": "Chương 5, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Gia đình anh Nam gồm 2 vợ chồng và 1 con nhỏ 3 tuổi. Dù thu nhập của hai vợ chồng rất tốt, gia đình vẫn luôn cảm thấy nhạy cảm về giá và phải cân nhắc kỹ khi chi tiêu do phát sinh quá nhiều chi phí chăm sóc con. Gia đình anh Nam đang ở giai đoạn nào của chu kỳ sống gia đình?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giai đoạn tổ ấm đầy đủ II"
+        },
+        {
+          "id": "B",
+          "text": "Giai đoạn vợ chồng mới cưới chưa có con"
+        },
+        {
+          "id": "C",
+          "text": "Giai đoạn tổ ấm đầy đủ I"
+        },
+        {
+          "id": "D",
+          "text": "Giai đoạn tổ ấm trống vắng I"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vợ chồng trẻ có con nhỏ nhất dưới 6 tuổi là tổ ấm đầy đủ I; giai đoạn này chi phí cho con lớn nên gia đình nhạy cảm về giá.",
+      "sourceSlides": [
+        16
+      ],
+      "sourceRef": "Chương 5, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Trong các vai trò của quyết định mua sắm gia đình, “Người gác cổng” (Gatekeeper) thực hiện nhiệm vụ gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là người đưa ra quyết định cuối cùng có chi tiền mua sản phẩm hay không"
+        },
+        {
+          "id": "B",
+          "text": "Là người điều khiển, kiểm soát luồng thông tin mua sắm trong gia đình"
+        },
+        {
+          "id": "C",
+          "text": "Là người đầu tiên nhận ra nhu cầu tiêu dùng sản phẩm của cả gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Là người trực tiếp thực hiện giao dịch thanh toán tiền tại điểm bán lẻ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Người gác cổng là người kiểm soát luồng thông tin về sản phẩm, dịch vụ đi vào gia đình.",
+      "sourceSlides": [
+        16
+      ],
+      "sourceRef": "Chương 5, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Khi nghiên cứu vai trò của người chồng và người vợ trong quyết định mua sắm gia đình, nhóm sản phẩm nào thường do người vợ chi phối?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ô tô, xe máy và các thiết bị điện tử công nghệ cao"
+        },
+        {
+          "id": "B",
+          "text": "Bất động sản, gói bảo hiểm nhân thọ và chứng khoán"
+        },
+        {
+          "id": "C",
+          "text": "Thực phẩm, hóa mỹ phẩm tiêu dùng nhanh và đồ nhà bếp"
+        },
+        {
+          "id": "D",
+          "text": "Máy tính cá nhân, đồng hồ đeo tay và dụng cụ thể thao"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Người vợ thường chi phối quyết định mua thực phẩm, hóa mỹ phẩm, đồ dùng nhà bếp; người chồng thường chi phối các sản phẩm như ô tô, thiết bị kỹ thuật, tài chính.",
+      "sourceSlides": [
+        16
+      ],
+      "sourceRef": "Chương 5, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Cháu Bông (14 tuổi) rất thích uống trà sữa. Mỗi khi xem tivi thấy quảng cáo trà sữa mới ra mắt, Bông đều nhận ra ngay các kịch bản thu hút khách hàng của quảng cáo và tỏ ra khá hoài nghi về các lời hứa hẹn giảm cân trên quảng cáo. Cháu Bông đang ở giai đoạn xã hội hóa tiêu dùng nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giai đoạn phân tích (từ 7 đến 11 tuổi)"
+        },
+        {
+          "id": "B",
+          "text": "Giai đoạn độc thân trưởng thành độc lập"
+        },
+        {
+          "id": "C",
+          "text": "Giai đoạn phản ánh (từ 11 đến 16 tuổi)"
+        },
+        {
+          "id": "D",
+          "text": "Giai đoạn nhận thức (từ 3 đến 7 tuổi)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bông 14 tuổi, nhận ra kịch bản quảng cáo và hoài nghi lời hứa hẹn: đặc điểm của giai đoạn phản ánh (11–16 tuổi).",
+      "sourceSlides": [
+        16,
+        17
+      ],
+      "sourceRef": "Chương 5, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Một hãng xe máy điện phát hiện ra rằng khi các gia đình trẻ quyết định mua xe máy, người vợ thường khởi xướng nhu cầu do cần đi làm hàng ngày, người con tuổi teen tìm kiếm thông tin kỹ thuật trên TikTok, nhưng người chồng mới là người giữ tiền và đưa ra quyết định chi trả cuối cùng. Để tối ưu hóa chiến lược truyền thông, hãng xe nên tiếp cận gia đình này như thế nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chỉ tập trung thiết kế các bài viết phân tích kỹ thuật nhắm vào người con"
+        },
+        {
+          "id": "B",
+          "text": "Thiết kế thông điệp đa dạng nhắm đúng vai trò từng thành viên trong nhà"
+        },
+        {
+          "id": "C",
+          "text": "Bỏ qua các yếu tố gia đình và chỉ quảng cáo giảm giá trực tiếp tại đại lý"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ tập trung toàn bộ ngân sách quảng cáo nhắm vào duy nhất người vợ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi thành viên giữ một vai trò (khởi xướng, tìm thông tin, quyết định chi trả) nên cần thiết kế thông điệp nhắm đúng vai trò của từng người.",
+      "sourceSlides": [
+        17
+      ],
+      "sourceRef": "Chương 5, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Một chuỗi siêu thị gia dụng nhận thấy: Khi quảng cáo sản phẩm máy hút bụi tự động, nếu chỉ nhấn mạnh vào yếu tố “tiết kiệm thời gian cho người vợ” thì doanh số không tăng mạnh. Tuy nhiên, khi chuyển sang thông điệp “Thiết bị công nghệ thông minh giúp người chồng dễ dàng chia sẻ việc nhà”, doanh số tăng đột biến. Sự thành công này được giải thích tốt nhất bởi lý do nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tác động vào sự chuyển dịch khuôn mẫu giới tính và vai trò chia sẻ trong nhà"
+        },
+        {
+          "id": "B",
+          "text": "Loại bỏ hoàn toàn ảnh hưởng của đứa con ra khỏi quyết định mua sắm đồ gia dụng"
+        },
+        {
+          "id": "C",
+          "text": "Thay đổi thông điệp giúp chuyển sản phẩm từ người vợ chi phối sang độc thân"
+        },
+        {
+          "id": "D",
+          "text": "Biến máy hút bụi từ sản phẩm tiêu dùng nhanh thành sản phẩm khu vực tự trị"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thông điệp mới tác động vào sự thay đổi khuôn mẫu giới: người chồng chia sẻ việc nhà, mở rộng đối tượng tham gia quyết định mua.",
+      "sourceSlides": [
+        17
+      ],
+      "sourceRef": "Chương 5, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Điểm khác biệt cơ bản giữa “Gia đình” và “Hộ gia đình” (Hộ tiêu dùng) được thể hiện ở yếu tố nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gia đình gắn kết bằng quan hệ thân thuộc, còn hộ gia đình có thể không có"
+        },
+        {
+          "id": "B",
+          "text": "Gia đình luôn sống tách biệt hoàn toàn, còn hộ gia đình luôn sống chung nhiều thế hệ"
+        },
+        {
+          "id": "C",
+          "text": "Gia đình bắt buộc phải có con cái, còn hộ gia đình không bao giờ có con cái"
+        },
+        {
+          "id": "D",
+          "text": "Gia đình chỉ mua sản phẩm giá rẻ, còn hộ gia đình ưu tiên mua sản phẩm cao cấp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gia đình là những người gắn kết bằng hôn nhân, huyết thống hoặc nhận nuôi; hộ gia đình (hộ tiêu dùng) là những người sống chung, có thể không có quan hệ thân thuộc.",
+      "sourceSlides": [
+        17
+      ],
+      "sourceRef": "Chương 5, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Quá trình trẻ em thu nhận kỹ năng, kiến thức, thái độ và kinh nghiệm cần thiết để trở thành người tiêu dùng được gọi là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình thương mại hóa hành vi người tiêu dùng"
+        },
+        {
+          "id": "B",
+          "text": "Quá trình xã hội hóa của người tiêu dùng"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình phát triển chu kỳ đời sống gia đình"
+        },
+        {
+          "id": "D",
+          "text": "Quá trình phân đoạn thị trường theo hộ gia đình"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xã hội hóa người tiêu dùng là quá trình trẻ em thu nhận kỹ năng, kiến thức, thái độ và kinh nghiệm cần thiết để trở thành người tiêu dùng.",
+      "sourceSlides": [
+        17
+      ],
+      "sourceRef": "Chương 5, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Giai đoạn nào trong chu kỳ sống gia đình truyền thống mô tả đôi vợ chồng trẻ có con nhỏ nhất dưới 6 tuổi?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giai đoạn tổ ấm đầy đủ I"
+        },
+        {
+          "id": "B",
+          "text": "Giai đoạn tổ ấm trống vắng I"
+        },
+        {
+          "id": "C",
+          "text": "Giai đoạn tổ ấm đầy đủ II"
+        },
+        {
+          "id": "D",
+          "text": "Giai đoạn vợ chồng mới cưới chưa có con"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổ ấm đầy đủ I: vợ chồng trẻ có con nhỏ nhất dưới 6 tuổi; tổ ấm đầy đủ II: con nhỏ nhất từ 6 tuổi trở lên.",
+      "sourceSlides": [
+        17
+      ],
+      "sourceRef": "Chương 5, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Nhóm người sống chung không có quan hệ hôn nhân hay huyết thống nhưng chi tiêu chung được gọi là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gia đình phi truyền thống"
+        },
+        {
+          "id": "B",
+          "text": "Gia đình mở rộng hiện đại"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm tham khảo thứ cấp"
+        },
+        {
+          "id": "D",
+          "text": "Hộ tiêu dùng gia đình"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Những người sống chung, chi tiêu chung nhưng không có quan hệ hôn nhân hay huyết thống tạo thành một hộ tiêu dùng (hộ gia đình), không phải gia đình theo nghĩa thân thuộc.",
+      "sourceSlides": [
+        18
+      ],
+      "sourceRef": "Chương 5, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Nhãn hàng nước giặt X thực hiện chiến dịch quảng cáo với thông điệp: “Mẹ chọn nước giặt dịu nhẹ - Bảo vệ làn da nhạy cảm cho cả gia đình”. Trong chiến dịch này, nhãn hàng đã khai thác sâu sắc yếu tố nào trong hành vi tiêu dùng gia đình tại Việt Nam?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khai thác mâu thuẫn tài chính trong giai đoạn tổ ấm trống vắng II"
+        },
+        {
+          "id": "B",
+          "text": "Khai thác xu hướng độc thân và kết hôn muộn của thế hệ trẻ hiện đại"
+        },
+        {
+          "id": "C",
+          "text": "Khai thác vai trò gác cổng kiểm soát thông tin tài chính của người chồng"
+        },
+        {
+          "id": "D",
+          "text": "Khai thác vai trò của người mẹ trong định hướng tiêu dùng vì sức khỏe"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thông điệp \"Mẹ chọn… bảo vệ làn da cả gia đình\" khai thác vai trò người mẹ trong việc định hướng tiêu dùng vì sức khỏe của các thành viên.",
+      "sourceSlides": [
+        18
+      ],
+      "sourceRef": "Chương 5, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Trong quá trình xã hội hóa tiêu dùng, cách thức cha mẹ “Làm trung gian” được hiểu cụ thể như thế nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cha mẹ bắt buộc đứa trẻ phải tuân theo các quy định tiêu dùng của gia đình"
+        },
+        {
+          "id": "B",
+          "text": "Thái độ của cha mẹ đối với quảng cáo định hình nên nhận thức của đứa trẻ"
+        },
+        {
+          "id": "C",
+          "text": "Đứa trẻ tự quan sát hành vi mua sắm của cha mẹ tại siêu thị để bắt chước theo"
+        },
+        {
+          "id": "D",
+          "text": "Cha mẹ trực tiếp giải thích từng tính năng kỹ thuật của sản phẩm cho đứa trẻ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Làm trung gian (mediation) là cha mẹ diễn giải, nhận xét về quảng cáo và thông tin thị trường; thái độ của cha mẹ đối với quảng cáo định hình nhận thức của trẻ.",
+      "sourceSlides": [
+        18
+      ],
+      "sourceRef": "Chương 5, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Chị Minh muốn mua một chiếc máy giặt mới cho gia đình. Chị là người nhận ra máy giặt cũ bị hỏng và chủ động tìm kiếm các thông tin về tính năng, giá cả của các dòng máy giặt trên mạng. Tuy nhiên, việc quyết định chọn mua nhãn hiệu nào lại được hai vợ chồng thảo luận và thống nhất chung. Kết luận nào sau đây là ĐÚNG về tiến trình quyết định mua này?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiến trình mua sắm máy giặt hoàn toàn thuộc về khu vực tự trị của vợ"
+        },
+        {
+          "id": "B",
+          "text": "Người vợ là người gác cổng duy nhất ngăn chặn các thông tin về giá bán"
+        },
+        {
+          "id": "C",
+          "text": "Người vợ chi phối giai đoạn đầu, quyết định cuối cùng là sự hợp tác"
+        },
+        {
+          "id": "D",
+          "text": "Người chồng chi phối toàn bộ tiến trình ra quyết định mua sắm máy giặt"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vợ chi phối giai đoạn nhận biết nhu cầu và tìm kiếm thông tin, còn quyết định chọn thương hiệu là quyết định hợp tác của hai vợ chồng.",
+      "sourceSlides": [
+        18
+      ],
+      "sourceRef": "Chương 5, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Khái niệm “Gia đình” theo định nghĩa của Schiffman (2006) xác định bao gồm bao nhiêu thành viên trở lên?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bao gồm từ 3 người đại diện cho ít nhất hai thế hệ trở lên"
+        },
+        {
+          "id": "B",
+          "text": "Bao gồm từ 4 người trở lên cùng chung sống dưới một mái nhà"
+        },
+        {
+          "id": "C",
+          "text": "Bao gồm từ 2 hay nhiều người có quan hệ sống cùng nhau"
+        },
+        {
+          "id": "D",
+          "text": "Bao gồm từ 1 cá nhân độc thân trở lên sống cùng nhau"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo Schiffman, gia đình gồm hai hay nhiều người có quan hệ (huyết thống, hôn nhân, nhận nuôi) sống cùng nhau.",
+      "sourceSlides": [
+        18
+      ],
+      "sourceRef": "Chương 5, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Ba bạn sinh viên Nam, Bắc và Dũng thuê chung một căn hộ chung cư để đi học đại học. Hàng tháng, cả ba cùng góp một khoản tiền quỹ chung để mua thực phẩm, nước uống và các đồ dùng sinh hoạt tiêu dùng trong nhà. Nhóm của ba bạn sinh viên này được xếp vào loại hình nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hộ gia đình đơn thân mở rộng"
+        },
+        {
+          "id": "B",
+          "text": "Hộ tiêu dùng không phải gia đình"
+        },
+        {
+          "id": "C",
+          "text": "Gia đình phi truyền thống Boomerang"
+        },
+        {
+          "id": "D",
+          "text": "Gia đình truyền thống đa thế hệ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ba sinh viên không có quan hệ thân thuộc nhưng sống chung và chi tiêu chung nên là hộ tiêu dùng không phải gia đình.",
+      "sourceSlides": [
+        18,
+        19
+      ],
+      "sourceRef": "Chương 5, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Bố mẹ bé An có thói quen mua cà phê sạch nguyên chất tại cửa hàng uy tín và luôn ưu tiên chọn các sản phẩm ít đường, ít caffeine cho cả nhà. Nhờ quan sát thói quen này từ nhỏ, bé An khi lớn lên cũng tự động hình thành thói quen lựa chọn các đồ uống có lợi cho sức khỏe. Gia đình đã tác động đến bé An qua phương thức xã hội hóa nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kiểm soát luồng thông tin với vai trò là người gác cổng gia đình"
+        },
+        {
+          "id": "B",
+          "text": "Tạo ra sự hoài nghi đối với các kịch bản quảng cáo trên truyền hình"
+        },
+        {
+          "id": "C",
+          "text": "Huấn luyện dạy dỗ trực tiếp thông qua các bài giảng lý thuyết"
+        },
+        {
+          "id": "D",
+          "text": "Trẻ em học tập thông qua việc quan sát cha mẹ làm hình mẫu"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bé An hình thành thói quen nhờ quan sát và bắt chước cha mẹ: xã hội hóa qua việc học tập từ hình mẫu.",
+      "sourceSlides": [
+        19
+      ],
+      "sourceRef": "Chương 5, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Anh Hoàng 25 tuổi, sinh sống tại TP.HCM, sống cùng bố mẹ. Buổi sáng anh thường có thói quen mua cà phê sữa đá pha máy mang đi (take-away) tại chuỗi Katinat để uống nhanh trước khi làm việc. Tuy nhiên vào cuối tuần, anh vẫn thích cùng bố ngồi pha cà phê phin truyền thống tại nhà để trò chuyện. Hiện tượng tiêu dùng của anh Hoàng phản ánh sự kết hợp giữa các yếu tố nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự xung đột gay gắt về giá trị tiêu dùng giữa các thành viên gia đình"
+        },
+        {
+          "id": "B",
+          "text": "Sự áp đặt hoàn toàn phong cách tiêu dùng của bạn bè lên thế hệ trẻ"
+        },
+        {
+          "id": "C",
+          "text": "Sự suy giảm hoàn toàn ảnh hưởng của gia đình đối với người trưởng thành"
+        },
+        {
+          "id": "D",
+          "text": "Sự khác biệt thế hệ, vùng miền và ký ức văn hóa gắn kết gia đình"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Anh Hoàng vừa tiêu dùng theo phong cách nhanh của giới trẻ miền Nam, vừa giữ thói quen cà phê phin cùng bố: kết hợp khác biệt thế hệ, vùng miền và ký ức văn hóa gắn kết gia đình.",
+      "sourceSlides": [
+        19
+      ],
+      "sourceRef": "Chương 5, câu 20"
+    },
+    {
+      "id": "Q021",
+      "question": "Điểm khác biệt cốt lõi giữa “Người ảnh hưởng có tính chất cố vấn” và “Người ảnh hưởng có tính chất áp đặt” là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Người cố vấn là người thực hiện giao dịch thực tế, còn người áp đặt là người nảy sinh ý tưởng."
+        },
+        {
+          "id": "B",
+          "text": "Người cố vấn luôn có chuyên môn kỹ thuật cao, còn người áp đặt chỉ dựa vào cảm tính cá nhân."
+        },
+        {
+          "id": "C",
+          "text": "Người cố vấn chỉ xuất hiện trong mua sắm tổ chức, còn người áp đặt chỉ có trong mua sắm cá nhân."
+        },
+        {
+          "id": "D",
+          "text": "Người cố vấn đưa ra chỉ dẫn khuyên bảo, còn người áp đặt mang tính chất cưỡng chế quyết định."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Người ảnh hưởng có tính chất cố vấn đưa ra lời khuyên, chỉ dẫn; người ảnh hưởng có tính chất áp đặt có quyền chi phối, buộc quyết định đi theo ý mình.",
+      "sourceSlides": [
+        6
+      ],
+      "sourceRef": "Chương 2, câu bổ sung"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "documentId": "hvtd_ch10",
+  "documentTitle": "Chương 10 - Quá trình ra quyết định mua của người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Trong các nguồn thông tin từ bên ngoài, nguồn thông tin nào sau đây được xếp vào nhóm Nguồn thông tin thương mại?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trải nghiệm trực tiếp qua việc dùng thử sản phẩm"
+        },
+        {
+          "id": "B",
+          "text": "Bài viết đánh giá từ các hội nhóm trên mạng xã hội"
+        },
+        {
+          "id": "C",
+          "text": "Lời khuyên từ người thân, bạn bè và láng giềng"
+        },
+        {
+          "id": "D",
+          "text": "Quảng cáo, người bán hàng, trang web và bao bì"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nguồn thông tin thương mại do doanh nghiệp kiểm soát: quảng cáo, nhân viên bán hàng, website, bao bì. Người thân, bạn bè là nguồn cá nhân; trải nghiệm dùng thử là nguồn kinh nghiệm.",
+      "sourceSlides": [
+        40
+      ],
+      "sourceRef": "Chương 10, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Chị Mai vào siêu thị mua nước rửa chén. Chị đi thẳng đến kệ hàng, nhặt ngay chai nước rửa chén Sunlight mà gia đình vẫn dùng hàng tháng mà không hề dừng lại đọc thông tin hay so sánh với các nhãn hiệu khác. Hành vi mua của chị Mai thuộc loại nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình ra quyết định mua sắm mở rộng"
+        },
+        {
+          "id": "B",
+          "text": "Quá trình ra quyết định mua sắm có hoài nghi"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình ra quyết định mua sắm thông thường"
+        },
+        {
+          "id": "D",
+          "text": "Quá trình ra quyết định mua sắm tìm đa dạng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mua lại nhãn quen thuộc theo thói quen, không tìm kiếm hay so sánh là quá trình ra quyết định mua thông thường.",
+      "sourceSlides": [
+        40
+      ],
+      "sourceRef": "Chương 10, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Tập đoàn ô tô Y nhận thấy khách hàng sau khi mua xe xa xỉ thường dễ rơi vào trạng thái mâu thuẫn nhận thức sau mua và lo lắng về quyết định chi tiền của mình. Để củng cố niềm tin và ngăn chặn truyền thông tiêu cực, tập đoàn Y nên chủ động triển khai hành động quản trị sau mua nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xóa bỏ đường dây nóng hỗ trợ giải quyết thắc mắc kỹ thuật của khách"
+        },
+        {
+          "id": "B",
+          "text": "Gửi thư cảm ơn, quà tặng cao cấp và tài liệu khẳng định lựa chọn đúng"
+        },
+        {
+          "id": "C",
+          "text": "Yêu cầu khách hàng thanh toán thêm chi phí bảo dưỡng ngay tháng đầu"
+        },
+        {
+          "id": "D",
+          "text": "Ngừng kết nối với khách hàng để họ tự trải nghiệm và đánh giá xe"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Để giảm mâu thuẫn nhận thức sau mua, doanh nghiệp chủ động củng cố lựa chọn của khách: thư cảm ơn, quà tặng, thông tin khẳng định họ đã chọn đúng.",
+      "sourceSlides": [
+        40
+      ],
+      "sourceRef": "Chương 10, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Nam thường xuyên mua bánh mì ngọt tại cửa hàng tiện lợi vào giờ nghỉ giải lao. Mỗi ngày Nam chọn một thương hiệu hoặc hương vị khác nhau (hôm nay nhân dừa, ngày mai nhân socola) chỉ vì muốn trải nghiệm cảm giác mới lạ chứ không phải vì thất vọng với nhãn hàng cũ. Nam có kiểu hành vi mua gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hành vi mua giảm thiểu sự hoài nghi"
+        },
+        {
+          "id": "B",
+          "text": "Hành vi mua tìm kiếm sự đa dạng"
+        },
+        {
+          "id": "C",
+          "text": "Hành vi mua theo thói quen định kiến"
+        },
+        {
+          "id": "D",
+          "text": "Hành vi mua phức hợp dựa trên lý trí"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đổi nhãn, đổi hương vị chỉ vì muốn trải nghiệm mới lạ (không phải vì không hài lòng) với sản phẩm gắn kết thấp là hành vi mua tìm kiếm sự đa dạng.",
+      "sourceSlides": [
+        40,
+        41
+      ],
+      "sourceRef": "Chương 10, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Thuật ngữ Quá trình ra quyết định mua thông thường được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quá trình mua sắm các hàng hóa xa xỉ đắt tiền với sự tham gia của nhiều thành viên gia đình"
+        },
+        {
+          "id": "B",
+          "text": "Quá trình mua sắm theo thói quen với mức độ quan tâm thấp và chủ yếu dùng bộ nhớ nội tại"
+        },
+        {
+          "id": "C",
+          "text": "Quá trình mua sắm đòi hỏi người mua phải tìm kiếm thông tin bên ngoài một cách kỹ lưỡng"
+        },
+        {
+          "id": "D",
+          "text": "Quá trình mua sắm với mức độ quan tâm trung bình và so sánh nhiều thương hiệu cạnh tranh"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quyết định mua thông thường là mua theo thói quen, mức độ quan tâm thấp, chủ yếu dựa vào thông tin có sẵn trong trí nhớ.",
+      "sourceSlides": [
+        41
+      ],
+      "sourceRef": "Chương 10, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Để giảm bớt sự mâu thuẫn trong nhận thức của người tiêu dùng sau khi mua sắm, doanh nghiệp hoặc người tiêu dùng có thể áp dụng chiến lược nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tăng nhận thức về sức hấp dẫn của giải pháp đã chọn và giảm hấp dẫn của phương án bị bỏ qua"
+        },
+        {
+          "id": "B",
+          "text": "Bắt buộc người tiêu dùng phải ký cam kết không được hoàn trả sản phẩm dưới mọi hình thức"
+        },
+        {
+          "id": "C",
+          "text": "Giảm thiểu các dịch vụ chăm sóc khách hàng sau khi giao dịch mua bán đã hoàn tất"
+        },
+        {
+          "id": "D",
+          "text": "Cung cấp thêm các thông tin cảnh báo tiêu cực về sản phẩm mà người tiêu dùng vừa mua"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Để giảm mâu thuẫn nhận thức sau mua, người tiêu dùng (và doanh nghiệp) tăng nhận thức về ưu điểm của phương án đã chọn và giảm sức hấp dẫn của phương án bị bỏ qua.",
+      "sourceSlides": [
+        41
+      ],
+      "sourceRef": "Chương 10, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Trong giờ nghỉ trưa 30 phút ngắn ngủi, anh Hoàng cần tìm một nhà hàng ăn nhanh. Dù rất thích quán bún chả nổi tiếng ở xa, nhưng do áp lực thời gian, anh quyết định chọn tiệm cơm tấm ngay sát công ty vì tốc độ phục vụ nhanh. Tiêu chí đánh giá của anh Hoàng bị chi phối bởi yếu tố nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khả năng phân biệt cảm giác của cá nhân"
+        },
+        {
+          "id": "B",
+          "text": "Sự đa dạng của bộ thương hiệu nhận diện"
+        },
+        {
+          "id": "C",
+          "text": "Sự ảnh hưởng của hiệu ứng quảng cáo tivi"
+        },
+        {
+          "id": "D",
+          "text": "Tình huống sử dụng và áp lực bối cảnh"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Áp lực thời gian nghỉ trưa khiến tiêu chí \"phục vụ nhanh, gần\" trở nên quan trọng nhất: tiêu chí đánh giá bị chi phối bởi tình huống sử dụng.",
+      "sourceSlides": [
+        41
+      ],
+      "sourceRef": "Chương 10, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Sự khác biệt cốt lõi giữa Lựa chọn dựa trên thái độ và Lựa chọn dựa trên thuộc tính là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lựa chọn dựa trên thái độ yêu cầu kiến thức kỹ thuật sâu hơn lựa chọn dựa trên thuộc tính"
+        },
+        {
+          "id": "B",
+          "text": "Lựa chọn dựa trên thái độ dùng ấn tượng tổng thể, còn thuộc tính so sánh từng chi tiết"
+        },
+        {
+          "id": "C",
+          "text": "Lựa chọn dựa trên thái độ chỉ áp dụng cho đồ điện tử, còn thuộc tính áp dụng cho thực phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Lựa chọn dựa trên thái độ tốn nhiều thời gian hơn so với lựa chọn dựa trên thuộc tính"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lựa chọn dựa trên thái độ dùng ấn tượng, đánh giá tổng thể; lựa chọn dựa trên thuộc tính so sánh các phương án theo từng thuộc tính cụ thể.",
+      "sourceSlides": [
+        41
+      ],
+      "sourceRef": "Chương 10, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Thuyết Hành vi có kế hoạch (TPB - Ajzen, 1991) đã bổ sung yếu tố cốt lõi nào so với Thuyết Hành vi hợp lý (TRA)?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chuẩn mực chủ quan từ phía gia đình và người thân"
+        },
+        {
+          "id": "B",
+          "text": "Động cơ giải tỏa mâu thuẫn nhận thức sau mua hàng"
+        },
+        {
+          "id": "C",
+          "text": "Thái độ cảm xúc đối với thương hiệu sản phẩm"
+        },
+        {
+          "id": "D",
+          "text": "Nhận thức về khả năng kiểm soát hành vi của cá nhân"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "TPB của Ajzen bổ sung yếu tố nhận thức kiểm soát hành vi vào hai yếu tố của TRA (thái độ đối với hành vi và chuẩn mực chủ quan).",
+      "sourceSlides": [
+        42
+      ],
+      "sourceRef": "Chương 10, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Phân biệt giữa Hành vi mua phức hợp và Hành vi mua hoài nghi dựa trên đặc điểm nào?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mức độ tham gia vào quyết định mua sắm của người tiêu dùng là cao hay thấp"
+        },
+        {
+          "id": "B",
+          "text": "Mức độ nhận thức về sự khác biệt lớn hay ít giữa các thương hiệu cạnh tranh"
+        },
+        {
+          "id": "C",
+          "text": "Khả năng tài chính và mức độ sẵn có của các sản phẩm thay thế trên thị trường"
+        },
+        {
+          "id": "D",
+          "text": "Tần suất xuất hiện các thông điệp quảng cáo của doanh nghiệp trên truyền thông"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cả hai đều có mức độ tham gia cao; khác nhau ở chỗ hành vi mua phức hợp nhận thấy khác biệt lớn giữa các thương hiệu, còn hành vi mua hoài nghi (giảm bất hòa) thấy ít khác biệt.",
+      "sourceSlides": [
+        42
+      ],
+      "sourceRef": "Chương 10, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Sau khi chi 35 triệu đồng mua chiếc điện thoại flagship mới, anh Tuấn cảm thấy băn khoăn, lo lắng liệu mình chọn có đúng không và tự hỏi chiếc điện thoại đối thủ vừa ra mắt có chụp ảnh đẹp hơn không. Trạng thái tâm lý này của anh Tuấn được gọi là gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự suy giảm mức độ nhận biết thương hiệu"
+        },
+        {
+          "id": "B",
+          "text": "Trạng thái nhận thức nhu cầu bị kìm hãm"
+        },
+        {
+          "id": "C",
+          "text": "Trạng thái lựa chọn dựa trên thái độ cảm xúc"
+        },
+        {
+          "id": "D",
+          "text": "Sự mâu thuẫn trong nhận thức sau khi mua"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Băn khoăn, lo lắng liệu mình đã chọn đúng sau khi mua món đắt tiền là mâu thuẫn trong nhận thức sau khi mua (bất hòa nhận thức).",
+      "sourceSlides": [
+        42
+      ],
+      "sourceRef": "Chương 10, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Một hãng thời trang muốn kích thích “Nhận thức nhu cầu” ở những khách hàng đang cảm thấy hài lòng với tủ quần áo hiện tại (chưa có nhu cầu mua mới). Hãng nên thực hiện giải pháp truyền thông marketing nào để tạo ra sự khác biệt giữa tình trạng hiện tại và tình trạng mong muốn?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tạo ra trào lưu phong cách mới thông qua người ảnh hưởng và điểm chạm"
+        },
+        {
+          "id": "B",
+          "text": "Giữ nguyên các thiết kế cũ và tăng ngân sách chạy quảng cáo tìm kiếm"
+        },
+        {
+          "id": "C",
+          "text": "Yêu cầu cửa hàng thu hồi lại toàn bộ các sản phẩm đã bán ra trước đó"
+        },
+        {
+          "id": "D",
+          "text": "Chỉ tập trung phát tờ rơi giảm giá tại các điểm bán lẻ truyền thống"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận thức nhu cầu xuất hiện khi có khác biệt giữa trạng thái hiện tại và trạng thái mong muốn; tạo trào lưu mới qua người ảnh hưởng và điểm chạm nâng trạng thái mong muốn lên.",
+      "sourceSlides": [
+        42
+      ],
+      "sourceRef": "Chương 10, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Một hãng trà đóng chai nhận thấy sản phẩm của mình lọt vào “Bộ thương hiệu nhận diện” nhưng bị loại khỏi “Bộ thương hiệu cân nhắc” do khách hàng nghĩ trà đóng chai chứa quá nhiều đường. Doanh nghiệp nên triển khai chiến lược truyền thông nào để vượt qua rào cản này?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chuyển hướng phân phối sản phẩm hoàn toàn sang các kênh bán hàng trực tuyến số"
+        },
+        {
+          "id": "B",
+          "text": "Cung cấp thông tin chứng nhận ít đường/không đường để thay đổi tiêu chí đánh giá"
+        },
+        {
+          "id": "C",
+          "text": "Tăng tần suất quảng cáo hình ảnh bao bì mà không đề cập đến thành phần nguyên liệu"
+        },
+        {
+          "id": "D",
+          "text": "Hạ giá bán sản phẩm xuống mức rẻ nhất thị trường để kích thích mua hàng ngẫu hứng"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sản phẩm bị loại vì niềm tin \"nhiều đường\"; cung cấp chứng nhận ít đường/không đường giúp đáp ứng tiêu chí đánh giá để vào bộ thương hiệu cân nhắc.",
+      "sourceSlides": [
+        42
+      ],
+      "sourceRef": "Chương 10, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Giai đoạn đầu tiên trong tiến trình 5 bước ra quyết định mua của người tiêu dùng là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Đánh giá các phương án lựa chọn trên thị trường"
+        },
+        {
+          "id": "B",
+          "text": "Tìm kiếm các thông tin liên quan đến sản phẩm"
+        },
+        {
+          "id": "C",
+          "text": "Quyết định lựa chọn thương hiệu phù hợp nhất"
+        },
+        {
+          "id": "D",
+          "text": "Nhận thức nhu cầu do sự khác biệt trạng thái"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tiến trình 5 bước bắt đầu bằng nhận thức nhu cầu (khi có khác biệt giữa trạng thái hiện tại và mong muốn), sau đó là tìm kiếm thông tin, đánh giá phương án, quyết định mua, hành vi sau mua.",
+      "sourceSlides": [
+        42,
+        43
+      ],
+      "sourceRef": "Chương 10, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Theo Thuyết Hành vi hợp lý (TRA - Fishbein và Ajzen, 1975), ý định hành vi của người tiêu dùng phụ thuộc vào hai yếu tố nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thái độ đối với hành vi và các chuẩn mực chủ quan xã hội"
+        },
+        {
+          "id": "B",
+          "text": "Nhu cầu bẩm sinh cá nhân và các rủi ro hoàn cảnh đột xuất"
+        },
+        {
+          "id": "C",
+          "text": "Động cơ tìm kiếm trải nghiệm và nhận thức về kiểm soát hành vi"
+        },
+        {
+          "id": "D",
+          "text": "Thu nhập khả dụng thực tế và mức độ chiết khấu của điểm bán"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo TRA, ý định hành vi phụ thuộc vào thái độ đối với hành vi và chuẩn mực chủ quan.",
+      "sourceSlides": [
+        43
+      ],
+      "sourceRef": "Chương 10, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Điểm khác biệt chính giữa Tìm kiếm thông tin trước khi mua và Tìm kiếm thông tin thường xuyên là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tìm kiếm trước khi mua diễn ra ở người cao tuổi, thường xuyên diễn ra ở người trẻ tuổi"
+        },
+        {
+          "id": "B",
+          "text": "Tìm kiếm trước khi mua nhằm phục vụ một quyết định cụ thể, thường xuyên để tích lũy kiến thức"
+        },
+        {
+          "id": "C",
+          "text": "Tìm kiếm trước khi mua hoàn toàn miễn phí, thường xuyên đòi hỏi chi phí tài chính cao"
+        },
+        {
+          "id": "D",
+          "text": "Tìm kiếm trước khi mua chỉ dùng nguồn nội tại, còn thường xuyên chỉ dùng nguồn bên ngoài"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tìm kiếm trước khi mua phục vụ một quyết định mua cụ thể; tìm kiếm thường xuyên diễn ra liên tục để tích lũy kiến thức, thỏa mãn sự quan tâm.",
+      "sourceSlides": [
+        43
+      ],
+      "sourceRef": "Chương 10, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Thuật ngữ Hành vi mua nhằm tìm kiếm sự đa dạng được định nghĩa là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hành vi mua với mức độ tham gia thấp và hoàn toàn không nhận thấy sự khác biệt thương hiệu"
+        },
+        {
+          "id": "B",
+          "text": "Hành vi mua với mức độ tham gia thấp nhưng nhận thấy sự khác biệt đáng kể giữa thương hiệu"
+        },
+        {
+          "id": "C",
+          "text": "Hành vi mua với mức độ tham gia cao và nhận thấy sự khác biệt rõ rệt giữa các thương hiệu"
+        },
+        {
+          "id": "D",
+          "text": "Hành vi mua với mức độ tham gia cao nhưng ít nhận thấy sự khác biệt giữa các thương hiệu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hành vi mua tìm kiếm sự đa dạng xảy ra khi mức độ tham gia thấp nhưng người mua nhận thấy khác biệt đáng kể giữa các thương hiệu.",
+      "sourceSlides": [
+        43
+      ],
+      "sourceRef": "Chương 10, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Minh muốn mua một chiếc máy tính xách tay đắt tiền phục vụ công việc thiết kế đồ họa. Anh dành 2 tuần đọc bài đánh giá trên mạng, xem video tư vấn và so sánh từng thông số chip, RAM, màn hình giữa Apple và Dell trước khi quyết định. Minh đang thực hiện kiểu hành vi mua nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hành vi mua hoài nghi giảm thiểu mâu thuẫn"
+        },
+        {
+          "id": "B",
+          "text": "Hành vi mua phức hợp có sự tham gia cao"
+        },
+        {
+          "id": "C",
+          "text": "Hành vi mua theo thói quen lặp đi lặp lại"
+        },
+        {
+          "id": "D",
+          "text": "Hành vi mua nhằm tìm kiếm sự đa dạng mới"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sản phẩm đắt tiền, tìm hiểu kỹ trong 2 tuần và so sánh chi tiết thông số giữa các thương hiệu khác biệt rõ: hành vi mua phức hợp với mức độ tham gia cao.",
+      "sourceSlides": [
+        43
+      ],
+      "sourceRef": "Chương 10, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Chị Hà có ý định mua một chiếc xe máy điện mới (thái độ tích cực và người thân đều ủng hộ). Tuy nhiên, khi đến đại lý, chị quyết định hủy mua vì đại lý yêu cầu thủ tục vay trả góp quá phức tạp và phát sinh thêm nhiều khoản phí đăng ký. Tình huống này minh chứng cho tác động của yếu tố nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự gia tăng của hành vi mua tìm kiếm sự đa dạng"
+        },
+        {
+          "id": "B",
+          "text": "Quá trình ra quyết định mua sắm theo thói quen cũ"
+        },
+        {
+          "id": "C",
+          "text": "Yếu tố hoàn cảnh kìm hãm giữa ý định và quyết định"
+        },
+        {
+          "id": "D",
+          "text": "Sự thay đổi đột ngột trong bộ thương hiệu nhận diện"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dù thái độ và chuẩn mực đều ủng hộ, thủ tục phức tạp và chi phí phát sinh tại đại lý đã kìm hãm việc chuyển ý định thành quyết định mua – tác động của yếu tố hoàn cảnh.",
+      "sourceSlides": [
+        43,
+        44
+      ],
+      "sourceRef": "Chương 10, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Nhãn hàng nước giặt X đang nắm giữ vị trí dẫn đầu thị phần và khách hàng mua sản phẩm chủ yếu theo thói quen. Dựa trên ma trận chiến lược marketing khi người tiêu dùng không tìm kiếm thông tin, nhãn hàng X nên ưu tiên áp dụng chiến lược nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chiến lược đánh chặn tại các điểm bán lẻ"
+        },
+        {
+          "id": "B",
+          "text": "Chiến lược duy trì chất lượng và phân phối"
+        },
+        {
+          "id": "C",
+          "text": "Chiến lược gián đoạn bằng việc giảm giá sâu"
+        },
+        {
+          "id": "D",
+          "text": "Chiến lược chấp nhận thu hút khách hàng mới"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thương hiệu dẫn đầu, khách mua theo thói quen nên cần chiến lược duy trì: giữ chất lượng ổn định, phân phối rộng, tránh hết hàng để khách không chuyển sang đối thủ.",
+      "sourceSlides": [
+        44
+      ],
+      "sourceRef": "Chương 10, câu 20"
+    }
+  ]
+}

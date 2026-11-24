@@ -36,7 +36,7 @@
       return;
     }
     root.querySelector(".loading").remove();
-    document.title = state.deck.documentTitle + " – Luyện thi Quản trị nhân lực";
+    document.title = state.deck.documentTitle + " – Luyện thi trắc nghiệm";
     document.documentElement.style.setProperty("--tab", App.tabColor(state.deckIndex));
 
     renderDetail();
@@ -92,7 +92,7 @@
 
     const facts = [
       ["Tài liệu nguồn", d.sourceFile],
-      ["Số slide", d.totalSlides],
+      [App.unitLabel(d) === "trang" ? "Số trang tài liệu" : "Số slide", d.totalSlides],
       ["Số câu hỏi", total],
       ["Mức độ", count.recognition + " nhận biết, " + count.comprehension + " thông hiểu, " + count.application + " vận dụng"],
       ["Thời gian thi", minutes + " phút"]
@@ -102,9 +102,11 @@
     }).join("");
 
     const topicNames = Object.keys(topics);
-    $("detail-topics").innerHTML = topicNames.length
-      ? topicNames.map(function (t) { return "<li><span>" + esc(t) + "</span><b>" + topics[t] + " câu</b></li>"; }).join("")
-      : "<li>Không có thông tin chủ đề.</li>";
+    const topicList = $("detail-topics");
+    topicList.innerHTML = topicNames.map(function (t) { return "<li><span>" + esc(t) + "</span><b>" + topics[t] + " câu</b></li>"; }).join("");
+    // Bộ đề không gắn chủ đề: ẩn cả tiêu đề mục
+    topicList.hidden = !topicNames.length;
+    if (topicList.previousElementSibling) topicList.previousElementSibling.hidden = !topicNames.length;
 
     renderHistory();
   }
@@ -239,7 +241,14 @@
     return '<div class="feedback ' + (ok ? "is-ok" : "is-bad") + '" role="status">' +
       "<p class='fb-title'>" + (ok ? "Chính xác." : "Chưa đúng. Đáp án đúng là " + esc(q.correctAnswer) + ".") + "</p>" +
       "<p>" + esc(q.explanation) + "</p>" +
-      "<p class='fb-src'>Slide tham khảo: " + esc((q.sourceSlides || []).join(", ")) + "</p></div>";
+      "<p class='fb-src'>" + esc(sourceText(q)) + "</p></div>";
+  }
+
+  function sourceText(q) {
+    const unit = App.unitLabel(state.deck);
+    let t = (unit === "trang" ? "Trang tham khảo trong tài liệu: " : "Slide tham khảo: ") + (q.sourceSlides || []).join(", ");
+    if (q.sourceRef) t += " (" + q.sourceRef + " trong đề gốc)";
+    return t;
   }
 
   // ---------- Luyện tập ----------

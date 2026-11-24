@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Luyện thi Quản trị nhân lực</title>
-  <meta name="description" content="Luyện tập và thi thử trắc nghiệm môn Quản trị nhân lực theo từng chương bài giảng.">
+  <title>Luyện thi trắc nghiệm</title>
+  <meta name="description" content="Luyện tập và thi thử trắc nghiệm theo từng chương: Quản trị nhân lực, Hành vi người tiêu dùng.">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Cpath d=%27M3 8h10l3 3h13v16H3z%27 fill=%27%230f6e6a%27/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,7 +14,7 @@
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span><span id="site-title">Luyện thi Quản trị nhân lực</span></a>
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span><span id="site-title">Luyện thi trắc nghiệm</span></a>
       <div class="header-actions">
         <button id="theme-toggle" class="btn btn-ghost icon-btn" type="button" aria-pressed="false" aria-label="Chuyển giao diện tối"></button>
       </div>
@@ -24,14 +24,13 @@
   <main class="wrap" id="home-content">
     <section class="home-intro">
       <h1>Ôn từng chương, thi thử như thật</h1>
-      <p>Mỗi bộ đề có 30 câu tổng hợp từ toàn bộ slide của một chương. Luyện tập để xem giải thích ngay sau mỗi câu, hoặc thi thử có tính giờ.</p>
+      <p>Mỗi bộ đề ứng với một chương của môn học. Luyện tập để xem giải thích ngay sau mỗi câu, hoặc thi thử có tính giờ.</p>
       <div class="totals" id="totals" aria-live="polite"></div>
     </section>
 
-    <h2 class="visually-hidden">Danh sách bộ đề</h2>
-    <ul class="drawer" id="drawer">
-      <li class="loading">Đang tải danh sách bộ đề…</li>
-    </ul>
+    <div id="drawer" class="subjects">
+      <p class="loading">Đang tải danh sách bộ đề…</p>
+    </div>
   </main>
 
   <footer class="site-footer">

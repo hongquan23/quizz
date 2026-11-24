@@ -1,0 +1,614 @@
+{
+  "documentId": "hvtd_ch08",
+  "documentTitle": "Chương 8 - Kiến thức, sự hiểu biết và nhận thức của người tiêu dùng",
+  "sourceFile": "Ngân hàng câu hỏi Hành vi người tiêu dùng (PDF, 44 trang)",
+  "totalSlides": 44,
+  "sourceUnit": "trang",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "Trong cấu trúc phân loại kiến thức, Nguyên mẫu của một danh mục sản phẩm là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là mặt hàng có mức giá bán thấp nhất giúp thu hút khách hàng bình dân mua sắm"
+        },
+        {
+          "id": "B",
+          "text": "Là phần tử có mức độ đại diện rõ nét và tiêu biểu nhất cho một danh mục"
+        },
+        {
+          "id": "C",
+          "text": "Là sản phẩm mới nhất vừa được doanh nghiệp phát triển và đưa ra thử nghiệm"
+        },
+        {
+          "id": "D",
+          "text": "Là sản phẩm chuyên biệt chỉ phục vụ cho một nhóm khách hàng có thu nhập cao"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nguyên mẫu (prototype) là phần tử đại diện rõ nét, tiêu biểu nhất cho một danh mục sản phẩm trong tâm trí người tiêu dùng.",
+      "sourceSlides": [
+        28
+      ],
+      "sourceRef": "Chương 8, câu 1"
+    },
+    {
+      "id": "Q002",
+      "question": "Một nhãn hàng dược phẩm phát sóng video cảnh báo người cao tuổi: “Nếu không bổ sung canxi ngay, bạn sẽ bị gãy xương và tàn phế khi về già”, nhưng đoạn kết quảng cáo lại không hướng dẫn nơi mua hay liều dùng cụ thể. Quảng cáo này sẽ dẫn đến kết quả gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phản tác dụng do áp dụng hình phạt tiêu cực mà không đưa ra giải pháp khắc phục ngay"
+        },
+        {
+          "id": "B",
+          "text": "Khiến khách hàng ghi nhớ vĩnh viễn tên thương hiệu vào sâu trong mạng lưới trí nhớ dài hạn"
+        },
+        {
+          "id": "C",
+          "text": "Giúp chuyển đổi thành công sản phẩm từ trạng thái gắn kết cao sang trạng thái gắn kết thấp"
+        },
+        {
+          "id": "D",
+          "text": "Tăng trưởng doanh số bán hàng đột biến nhờ đánh trúng vào nỗi sợ hãi của người tiêu dùng"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thông điệp đe dọa (hình phạt tiêu cực) mà không chỉ ra cách khắc phục ngay (mua ở đâu, dùng thế nào) dễ khiến người xem né tránh, gây phản tác dụng.",
+      "sourceSlides": [
+        28
+      ],
+      "sourceRef": "Chương 8, câu 2"
+    },
+    {
+      "id": "Q003",
+      "question": "Casper xây dựng thông điệp định vị: “Điều hòa Thái Lan tiết kiệm điện, chỉ 4.000 VNĐ/đêm” giúp người tiêu dùng ra quyết định mua nhanh chóng. Casper đã thành công nhờ ứng dụng nội dung nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xây dựng lược đồ tư duy và hình ảnh thương hiệu với đặc tính nổi trội rõ ràng"
+        },
+        {
+          "id": "B",
+          "text": "Thay đổi danh mục thứ bậc từ cấp thấp sang cấp cao để mở rộng thị trường tiêu dùng"
+        },
+        {
+          "id": "C",
+          "text": "Khai thác sự khác biệt ngôn ngữ giữa các nền văn hóa có ngữ cảnh giao tiếp thấp"
+        },
+        {
+          "id": "D",
+          "text": "Sử dụng cơ chế phản xạ thưởng phạt để đe dọa các khách hàng đang dùng hãng khác"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Casper gắn thương hiệu với một đặc tính nổi trội rõ ràng (tiết kiệm điện, 4.000đ/đêm), tạo lược đồ tư duy và hình ảnh thương hiệu dễ nhớ, dễ truy xuất khi ra quyết định.",
+      "sourceSlides": [
+        28
+      ],
+      "sourceRef": "Chương 8, câu 3"
+    },
+    {
+      "id": "Q004",
+      "question": "Điều kiện cần và điều kiện đủ để hình thành nên Sự hiểu biết từ kiến thức là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cần là nhận biết được tên thương hiệu; Đủ là nhớ được chính xác mức giá niêm yết bán"
+        },
+        {
+          "id": "B",
+          "text": "Cần là lưu trữ kiến thức trong bộ nhớ; Đủ là có khả năng truy xuất để ra quyết định"
+        },
+        {
+          "id": "C",
+          "text": "Cần là quan sát hành vi của bạn bè; Đủ là nghe theo lời khuyên của người nổi tiếng"
+        },
+        {
+          "id": "D",
+          "text": "Cần là xem nhiều quảng cáo trên tivi; Đủ là có đủ khả năng tài chính để mua sắm ngay"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kiến thức phải được lưu trữ trong bộ nhớ (điều kiện cần) và có thể truy xuất ra để dùng khi ra quyết định (điều kiện đủ) thì mới trở thành sự hiểu biết.",
+      "sourceSlides": [
+        28,
+        29
+      ],
+      "sourceRef": "Chương 8, câu 4"
+    },
+    {
+      "id": "Q005",
+      "question": "Thuật ngữ “Lược đồ tư duy” được hiểu là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Là hệ thống phân cấp các nhu cầu sinh học từ cơ bản đến phức tạp của con người"
+        },
+        {
+          "id": "B",
+          "text": "Là quy trình tính toán chi phí nhằm tối ưu hóa lợi ích kinh tế khi mua sắm lẻ"
+        },
+        {
+          "id": "C",
+          "text": "Là các phản xạ tự nhiên của cơ thể trước các tác động kích thích của môi trường"
+        },
+        {
+          "id": "D",
+          "text": "Là tập hợp các thuộc tính kết nối với nhau tạo nên khái niệm về sự vật hiện tượng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lược đồ tư duy (schema) là tập hợp các thuộc tính, liên tưởng kết nối với nhau tạo nên khái niệm của một người về sự vật, hiện tượng (ví dụ một thương hiệu).",
+      "sourceSlides": [
+        29
+      ],
+      "sourceRef": "Chương 8, câu 5"
+    },
+    {
+      "id": "Q006",
+      "question": "Quảng cáo bia Heineken Silver kết hợp hình ảnh lon nhôm ánh bạc sang trọng, âm thanh bật nắp sảng khoái và giai điệu âm nhạc thời thượng của giới trẻ đô thị. Doanh nghiệp này đã vận dụng yếu tố thúc đẩy nhận thức nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phương pháp học thuộc lòng thông qua việc nhồi nhét liên tục các số liệu kỹ thuật phức tạp"
+        },
+        {
+          "id": "B",
+          "text": "Đặc tính mã hóa kép giúp lưu trữ thông tin dưới nhiều dạng để dễ dàng truy xuất sau này"
+        },
+        {
+          "id": "C",
+          "text": "Kỹ thuật “treo” thông điệp đến cuối phim mới xuất hiện để kích thích sự tò mò của khách hàng"
+        },
+        {
+          "id": "D",
+          "text": "Áp dụng phản xạ thưởng phạt để cảnh báo những tác hại nguy hiểm khi uống rượu bia lái xe"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kết hợp hình ảnh, âm thanh và âm nhạc giúp thông tin được mã hóa kép (nhiều dạng), dễ lưu trữ và truy xuất về sau.",
+      "sourceSlides": [
+        29
+      ],
+      "sourceRef": "Chương 8, câu 6"
+    },
+    {
+      "id": "Q007",
+      "question": "Một thương hiệu nước tương mới chạy chiến dịch quảng cáo rầm rộ trên truyền hình nhưng khi ra siêu thị, khách hàng lại chọn mua nhầm chai nước tương của đối thủ vì kiểu dáng chai và màu sắc nhãn mác quá giống nhau. Để khắc phục, doanh nghiệp nên áp dụng giải pháp chiến lược nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cắt giảm toàn bộ chi phí quảng cáo và chỉ tập trung bán hàng trực tiếp qua người thân quen"
+        },
+        {
+          "id": "B",
+          "text": "Cung cấp thêm tín hiệu truy xuất tại điểm bán và tái thiết kế nhận diện để tránh trùng lặp"
+        },
+        {
+          "id": "C",
+          "text": "Tăng mức độ đe dọa về an toàn vệ sinh thực phẩm trong các thông điệp truyền thông tiếp theo"
+        },
+        {
+          "id": "D",
+          "text": "Chạy thêm quảng cáo vào cùng khung giờ phát sóng với đối thủ để cạnh tranh trực diện đối đầu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khách nhớ quảng cáo nhưng nhầm tại kệ hàng: cần tín hiệu truy xuất tại điểm bán và nhận diện khác biệt để kiến thức từ quảng cáo được kích hoạt đúng thương hiệu.",
+      "sourceSlides": [
+        29
+      ],
+      "sourceRef": "Chương 8, câu 7"
+    },
+    {
+      "id": "Q008",
+      "question": "Một khách hàng vào quán nước và đắn đo: “Nên uống một ly cà phê phin đậm đà hay một lon nước ngọt có gas để tỉnh táo làm việc?”. Dưới góc độ quản trị cấu trúc kiến thức thứ bậc, nhà quản trị marketing nhận định đây là dạng cạnh tranh nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cạnh tranh giữa các thành phần nguyên mẫu đại diện cho cùng một dòng sản phẩm đóng chai"
+        },
+        {
+          "id": "B",
+          "text": "Cạnh tranh giữa các danh mục cơ bản khác nhau nhằm thỏa mãn cùng một loại nhu cầu"
+        },
+        {
+          "id": "C",
+          "text": "Cạnh tranh trực tiếp giữa các thương hiệu cùng nằm trong một danh mục sản phẩm cấp cao"
+        },
+        {
+          "id": "D",
+          "text": "Cạnh tranh giữa các hệ thống biểu tượng văn hóa có ngữ cảnh giao tiếp hoàn toàn đối lập"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cà phê phin và nước ngọt có gas thuộc hai danh mục cơ bản khác nhau nhưng cùng thỏa mãn một nhu cầu (tỉnh táo) – cạnh tranh giữa các danh mục cơ bản.",
+      "sourceSlides": [
+        29
+      ],
+      "sourceRef": "Chương 8, câu 8"
+    },
+    {
+      "id": "Q009",
+      "question": "Về mặt sinh lý thần kinh, Trí nhớ ngắn hạn của người tiêu dùng có đặc điểm nổi bật nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Luôn liên kết các dữ liệu phức tạp thành một mạng lưới khái niệm đa chiều sâu sắc"
+        },
+        {
+          "id": "B",
+          "text": "Chỉ tiếp nhận các hình ảnh tĩnh và hoàn toàn không xử lý được các tín hiệu âm thanh"
+        },
+        {
+          "id": "C",
+          "text": "Có khả năng lưu giữ thông tin vĩnh viễn mà không bao giờ bị mai một theo năm tháng"
+        },
+        {
+          "id": "D",
+          "text": "Có dung lượng bị giới hạn và thông tin rất dễ bị lãng quên nếu thiếu sự nhắc lại"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trí nhớ ngắn hạn có dung lượng giới hạn và thông tin dễ bị quên nếu không được nhắc lại, khác với trí nhớ dài hạn.",
+      "sourceSlides": [
+        29,
+        30
+      ],
+      "sourceRef": "Chương 8, câu 9"
+    },
+    {
+      "id": "Q010",
+      "question": "Khi mua máy tính bảng, khách hàng phân loại thiết bị này vào danh mục công cụ làm việc thay thế laptop. Do đó, khi máy không chạy được phần mềm đồ họa chuyên dụng, họ cảm thấy rất thất vọng. Hiện tượng này chứng minh điều gì?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trí nhớ ngắn hạn của khách hàng hoàn toàn không bị ảnh hưởng bởi các trải nghiệm cũ"
+        },
+        {
+          "id": "B",
+          "text": "Khách hàng luôn có hiểu biết khách quan hoàn toàn trùng khớp với thông điệp của hãng"
+        },
+        {
+          "id": "C",
+          "text": "Sản phẩm gắn kết cao luôn được người tiêu dùng quyết định mua sắm bằng phương pháp thử - sai"
+        },
+        {
+          "id": "D",
+          "text": "Việc gán nhãn danh mục chi phối trực tiếp đến tiêu chuẩn so sánh và sự hài lòng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khách xếp máy tính bảng vào danh mục \"thay thế laptop\" nên so sánh với tiêu chuẩn của laptop; cách gán nhãn danh mục chi phối tiêu chuẩn so sánh và mức hài lòng.",
+      "sourceSlides": [
+        30
+      ],
+      "sourceRef": "Chương 8, câu 10"
+    },
+    {
+      "id": "Q011",
+      "question": "Một chuỗi nhà hàng thức ăn nhanh phương Tây đặt bức tượng linh vật chú bé cầm đĩa bánh trước cửa tiệm tại Thái Lan, nhưng người dân địa phương lại mang nến và hoa đến cúng vì tưởng là biểu tượng tâm linh. Hiện tượng hiểu sai thông điệp này xuất phát từ nguyên nhân nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sự khác biệt giữa văn hóa ngữ cảnh cao và ngữ cảnh thấp dẫn đến việc diễn giải sai lệch"
+        },
+        {
+          "id": "B",
+          "text": "Người tiêu dùng địa phương hoàn toàn thiếu khả năng phân loại các danh mục sản phẩm dịch vụ"
+        },
+        {
+          "id": "C",
+          "text": "Sự suy giảm dung lượng của trí nhớ ngắn hạn khi người tiêu dùng tiếp xúc với quá nhiều thông tin"
+        },
+        {
+          "id": "D",
+          "text": "Doanh nghiệp đã định vị thương hiệu quá giống với các thương hiệu nguyên mẫu trên thị trường"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Người dân hiểu linh vật theo ý nghĩa văn hóa – tâm linh của họ: khác biệt về ngữ cảnh văn hóa (cao/thấp) khiến thông điệp bị diễn giải sai.",
+      "sourceSlides": [
+        30
+      ],
+      "sourceRef": "Chương 8, câu 11"
+    },
+    {
+      "id": "Q012",
+      "question": "Sữa đậu nành Fami triển khai chiến dịch truyền thông cung cấp các chứng cứ khoa học từ chuyên gia dinh dưỡng để làm rõ việc uống sữa đậu nành không ảnh hưởng đến nam giới. Fami đã tác động qua hình thức học hỏi nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nhận thức bằng quan sát các hoạt động mua sắm thường ngày của người tiêu dùng khác"
+        },
+        {
+          "id": "B",
+          "text": "Hình thức học thuộc lòng thông qua việc phát đi phát lại một câu khẩu hiệu ngắn gọn"
+        },
+        {
+          "id": "C",
+          "text": "Nhận thức bằng tư duy thông qua việc kết hợp thông tin mới để giải quyết vấn đề"
+        },
+        {
+          "id": "D",
+          "text": "Phản xạ có điều kiện cổ điển kết hợp với các bài hát thiếu nhi sôi động ngày hè"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cung cấp bằng chứng khoa học để người tiêu dùng suy luận, kết hợp thông tin mới giải quyết mối lo – đây là nhận thức (học hỏi) bằng tư duy.",
+      "sourceSlides": [
+        30
+      ],
+      "sourceRef": "Chương 8, câu 12"
+    },
+    {
+      "id": "Q013",
+      "question": "Biti’s từng gắn liền với hình ảnh “dép xốp siêu bền nhưng mẫu mã nghèo nàn”, sau đó đã chuyển mình thành công với dòng “Biti’s Hunter thời trang, trẻ trung, năng động”. Chiến lược này là ví dụ điển hình của việc:",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Duy trì nguyên vẹn hình ảnh thương hiệu cũ để bảo tồn giá trị truyền thống vốn có"
+        },
+        {
+          "id": "B",
+          "text": "Thay đổi lược đồ tư duy, hình ảnh và cá tính thương hiệu khi thuộc tính cũ lỗi thời"
+        },
+        {
+          "id": "C",
+          "text": "Xóa bỏ hoàn toàn trí nhớ dài hạn của khách hàng bằng các bài viết khoa học hàn lâm"
+        },
+        {
+          "id": "D",
+          "text": "Định vị thương hiệu giống hệt như nguyên mẫu để thu hút khách hàng bình dân giá rẻ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi liên tưởng cũ (bền nhưng mẫu mã nghèo nàn) lỗi thời, Biti's đã thay đổi lược đồ tư duy, hình ảnh và cá tính thương hiệu sang trẻ trung, năng động.",
+      "sourceSlides": [
+        30
+      ],
+      "sourceRef": "Chương 8, câu 13"
+    },
+    {
+      "id": "Q014",
+      "question": "Điểm khác biệt trong quá trình nhận thức giữa sản phẩm gắn kết thấp và sản phẩm gắn kết cao là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gắn kết thấp chỉ dùng cho đồ xa xỉ, gắn kết cao áp dụng cho các hàng hóa tiêu dùng nhanh"
+        },
+        {
+          "id": "B",
+          "text": "Gắn kết thấp đòi hỏi thông tin rất sâu, gắn kết cao chỉ cần hình ảnh vui nhộn bắt mắt"
+        },
+        {
+          "id": "C",
+          "text": "Gắn kết thấp mua theo phương pháp thử - sai, gắn kết cao tìm hiểu và đánh giá kỹ"
+        },
+        {
+          "id": "D",
+          "text": "Gắn kết thấp người mua tự tìm tòi, gắn kết cao người mua chỉ đưa ra quyết định ngẫu hứng"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với sản phẩm gắn kết thấp, người mua thường mua thử rồi rút kinh nghiệm (thử – sai); với sản phẩm gắn kết cao, họ tìm hiểu và đánh giá kỹ trước khi mua.",
+      "sourceSlides": [
+        30,
+        31
+      ],
+      "sourceRef": "Chương 8, câu 14"
+    },
+    {
+      "id": "Q015",
+      "question": "Thay vì làm theo khuôn mẫu của các hãng pizza truyền thống, Pizza 4P’s định vị khác biệt nhờ câu chuyện phô mai Burrata làm từ sữa tươi Đà Lạt và phong cách phục vụ Omotenashi. Pizza 4P’s đã áp dụng chiến lược nào?",
+      "difficulty": "hard",
+      "type": "application",
+      "options": [
+        {
+          "id": "A",
+          "text": "Áp dụng kỹ thuật học thuộc lòng để bắt buộc thực khách phải ghi nhớ tên các món ăn"
+        },
+        {
+          "id": "B",
+          "text": "Chuyển đổi toàn bộ quá trình xử lý thông tin từ gắn kết cao sang gắn kết cực kỳ thấp"
+        },
+        {
+          "id": "C",
+          "text": "Định vị hoàn toàn giống với thương hiệu nguyên mẫu nhằm giảm thiểu chi phí truyền thông"
+        },
+        {
+          "id": "D",
+          "text": "Định vị khác xa nguyên mẫu để tạo sự độc đáo và đáp ứng nhu cầu trải nghiệm riêng"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pizza 4P's không làm theo khuôn mẫu pizza truyền thống mà định vị khác xa nguyên mẫu (Burrata Đà Lạt, Omotenashi) để tạo sự độc đáo.",
+      "sourceSlides": [
+        31
+      ],
+      "sourceRef": "Chương 8, câu 15"
+    },
+    {
+      "id": "Q016",
+      "question": "Trong lý thuyết phản xạ có điều kiện cổ điển, điều kiện để ghép nối kích thích thành công là gì?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hai kích thích xuất hiện cùng lúc nhiều lần và có mối quan hệ logic hoặc biểu tượng"
+        },
+        {
+          "id": "B",
+          "text": "Kích thích có điều kiện phải xuất hiện đơn lẻ và hoàn toàn không cần sự liên kết nào"
+        },
+        {
+          "id": "C",
+          "text": "Người tiêu dùng phải chủ động nghiên cứu tài liệu kỹ thuật trước khi tiếp xúc quảng cáo"
+        },
+        {
+          "id": "D",
+          "text": "Doanh nghiệp bắt buộc phải đưa ra các hình phạt tài chính nặng nề nếu khách vi phạm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Để ghép nối thành công, kích thích có điều kiện và không điều kiện cần xuất hiện cùng nhau nhiều lần và có mối liên hệ logic hoặc biểu tượng phù hợp.",
+      "sourceSlides": [
+        31
+      ],
+      "sourceRef": "Chương 8, câu 16"
+    },
+    {
+      "id": "Q017",
+      "question": "Kiến thức của người tiêu dùng là:",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Các cảm giác thiếu hụt xuất phát từ sự mất cân bằng về mặt sinh học cơ thể"
+        },
+        {
+          "id": "B",
+          "text": "Những thông tin lưu trữ trong bộ nhớ dùng để ra các quyết định hành vi"
+        },
+        {
+          "id": "C",
+          "text": "Các quy chuẩn đạo đức xã hội bắt buộc cá nhân phải nghiêm túc chấp hành"
+        },
+        {
+          "id": "D",
+          "text": "Những mục tiêu dài hạn mà người tiêu dùng khao khát đạt được trong tương lai"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kiến thức của người tiêu dùng là những thông tin được lưu trữ trong bộ nhớ, dùng để ra quyết định hành vi.",
+      "sourceSlides": [
+        31
+      ],
+      "sourceRef": "Chương 8, câu 17"
+    },
+    {
+      "id": "Q018",
+      "question": "Điểm khác biệt cốt lõi giữa Hiểu biết khách quan và Hiểu biết chủ quan của người tiêu dùng là gì?",
+      "difficulty": "medium",
+      "type": "comprehension",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khách quan phản ánh ý kiến của cộng đồng, còn chủ quan phản ánh thông điệp của hãng"
+        },
+        {
+          "id": "B",
+          "text": "Hiểu biết khách quan là kiến thức thực tế có thể kiểm chứng, còn hiểu biết chủ quan là mức độ người tiêu dùng tự đánh giá kiến thức của bản thân."
+        },
+        {
+          "id": "C",
+          "text": "Khách quan xuất hiện ở người trẻ tuổi, còn chủ quan chỉ xuất hiện ở người cao tuổi"
+        },
+        {
+          "id": "D",
+          "text": "Khách quan luôn dẫn đến hành vi mua sắm, còn chủ quan chỉ dừng lại ở mức độ nhận biết"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hiểu biết khách quan là kiến thức thực tế, kiểm chứng được; hiểu biết chủ quan là mức người tiêu dùng tự đánh giá về kiến thức của mình.",
+      "sourceSlides": [
+        31
+      ],
+      "sourceRef": "Chương 8, câu 18"
+    },
+    {
+      "id": "Q019",
+      "question": "Trong cấu trúc kiến thức theo thứ bậc hình kim tự tháp, Cấp cơ bản đại diện cho đối tượng nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Danh mục sản phẩm rộng lớn nhất chứa đựng nhiều điểm chung bao quát như đồ uống giải khát"
+        },
+        {
+          "id": "B",
+          "text": "Một sản phẩm hoặc thương hiệu cụ thể được người tiêu dùng lựa chọn mua sắm hàng ngày"
+        },
+        {
+          "id": "C",
+          "text": "Nhóm sản phẩm có nhiều thuộc tính chung đáp ứng nhu cầu như trà, cà phê, nước ngọt"
+        },
+        {
+          "id": "D",
+          "text": "Các dịch vụ chăm sóc khách hàng và chính sách bảo hành chính hãng của nhà sản xuất lớn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong kim tự tháp kiến thức: cấp cao là danh mục rộng (đồ uống), cấp cơ bản là nhóm sản phẩm có nhiều thuộc tính chung (trà, cà phê, nước ngọt), cấp thấp là sản phẩm/thương hiệu cụ thể.",
+      "sourceSlides": [
+        31,
+        32
+      ],
+      "sourceRef": "Chương 8, câu 19"
+    },
+    {
+      "id": "Q020",
+      "question": "Hình thức học hỏi Học thuộc lòng trong nhận thức được thực hiện bằng cách nào?",
+      "difficulty": "easy",
+      "type": "recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vận dụng tư duy logic để kết hợp thông tin cũ và mới nhằm giải quyết vấn đề khó"
+        },
+        {
+          "id": "B",
+          "text": "Cung cấp và lặp lại thông điệp với cường độ lớn để người mua ghi nhớ vô thức"
+        },
+        {
+          "id": "C",
+          "text": "Trải nghiệm sử dụng sản phẩm thực tế rồi sau đó mới đánh giá chất lượng dịch vụ"
+        },
+        {
+          "id": "D",
+          "text": "Quan sát hành vi cùng kết quả của người xung quanh để tự rút ra bài học kinh nghiệm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Học thuộc lòng là cung cấp và lặp lại thông điệp với tần suất lớn để người mua ghi nhớ một cách vô thức.",
+      "sourceSlides": [
+        32
+      ],
+      "sourceRef": "Chương 8, câu 20"
+    }
+  ]
+}
