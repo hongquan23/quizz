@@ -136,3 +136,4 @@ Quy ước: `easy`/`recognition` = Nhận biết, `medium`/`comprehension` = Th�
 
 - Font Be Vietnam Pro được tải từ Google Fonts (không cần API key). Nếu không tải được, trang tự dùng font hệ thống.
 - Bộ tài liệu được cung cấp không có Chương 2; xem các điểm cần kiểm tra khác trong `docs/phan-tich-tai-lieu.md`.
+
